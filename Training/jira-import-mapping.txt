@@ -1,0 +1,47 @@
+{
+  "config.version" : "2.0",
+  "config.project.from.csv" : "false",
+  "config.encoding" : "UTF-8",
+  "config.file.id" : "1c966078-d012-4df9-a7a6-90efa0ef9a86",
+  "config.email.suffix" : "@",
+  "config.file.name" : "training-matlab.csv",
+  "config.field.mappings" : {
+    "openICPSR" : {
+      "jira.field" : "description",
+      "userChanged" : "true",
+      "manualMapping" : "false"
+    },
+    "openICPSRURL" : {
+      "userChanged" : "true",
+      "manualMapping" : "false",
+      "existing.custom.field" : "10040"
+    },
+    "subject" : {
+      "jira.field" : "summary",
+      "userChanged" : "true",
+      "manualMapping" : "false"
+    },
+    "duedate" : {
+      "jira.field" : "duedate",
+      "userChanged" : "true",
+      "manualMapping" : "false"
+    },
+    "email" : {
+      "jira.field" : "assignee",
+      "userChanged" : "true",
+      "manualMapping" : "false"
+    }
+  },
+  "config.csv.file.id" : null,
+  "config.value.mappings" : { },
+  "config.delimiter" : ",",
+  "config.project" : {
+    "project.type" : null,
+    "project.key" : "TRAINING",
+    "project.description" : null,
+    "project.url" : null,
+    "project.name" : "AEA Training ",
+    "project.lead" : "dataeditor"
+  },
+  "config.date.format" : "yyyy-MM-dd"
+}
