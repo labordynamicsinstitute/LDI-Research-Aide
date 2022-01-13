@@ -1,31 +1,40 @@
 # Setup of Training
 
-At the time of drafting these instructions (April 2021), we were attempting to follow a new training schedule which included a full first day of live training/lecture followed by weekly sessions and individual work & small group meetings in between. 
+Lars, the Research Aide, and Graduate Assistant review applicants and then meet to discuss final decisions. Once final decisions are made, the following steps are taken to prepare for training the new cohort of Undergraduate Research Assistants.
 
-- Lars sends out invitations to hire.
-
-- Lars, GRA, and Research Aide meet and discuss a training schedule. Research Aide then drafts a schedule for Lars to review. 
-
-- Once training schedule is set and new RA's have accepted the invitation to the Lab...
-    - Send out invites (LDI Zoom links) to Day 1 of the DI Training. 
-    - Create a Doodle Poll to assess the best availability for all RA's to attend the live sessions.
-
-Email sent to new RA's on April 20, 2021 for Summer (April/May) Training:
+1. Send out rejection email. bcc all candidates who were not selected with the following (make sure to update the next upcoming application cycle):
 ```
-All:
+Dear Applicant,
 
-Welcome to the LDI Replication Lab. 
+Thank you for your application to the LDI Replication Lab. We received a lot of applications from talented folks like you. Unfortunately, you were not selected at this time. 
 
-you should have received the calendar invite for Day 1 of the LDI Training. The following sessions (Days 2-4) are going to take place on Mondays of the three following weeks, at a time that should work with everybody's schedule. In order to make that work, please mark on the following Doodle poll all times that work for you.
+However, our project will be hiring again in the Summer, and we invite you to consult our job posting at that time. We will be posting any updates on the LDI home page at http://www.ilr.cornell.edu/labor-dynamics-institute. 
 
-https://doodle.com/poll/q7pkdppyk7vvwy2z?utm_source=poll&utm_medium=link
+Although we cannot provide detailed feedback on your application, one of the frequent reasons that students like you are not selected is that we explicitly search for experience with desktop-style statistical programming languages, in particular with Stata or Matlab. If you have not used these before, but are interested in brushing up your skillset, CISER offers free training to Cornell students in all of these. Regardless if you intend to re-apply in the Summer or for your own self-improvement for the job market, we strongly suggest taking one of these. 
 
-I will send one more email with information on how to prepare for the first day (a few of you have already started on that).
-
-You should also plan to have time during those weeks for smaller group meetings, where you will be meeting and working on the test cases with current members of the lab. We will schedule those on the first day, so that those work best for both you and the peer members. 
-
-I look forward to working with you all!
+Again, thank you for your interest, and please stay in contact.
 ```
+2. Send out hire notification to selected applicants:
+```
+All,
+
+Thank you for applying to the AEA Replication Project. 
+
+We have reviewed your application, and have identified you as a qualified candidate. We would like have you join us for the training, during which we will present the task at hand, train you in using the tools and procedures you will need, and walk you through an actual replication task. 
+
+Training will take place from Tuesday Jan 18 to Friday Jan 21. Live attendance should be expected on Tuesday and additional meetings will happen on the following days using Zoom, plus some significant self-paced work.
+
+We must note that this is not a confirmation of employment. During the training, HR will be checking your eligibility for employment, which includes being a current Cornell student and residing in the United States; a I-9 may be needed.
+
+Please let us know if you are still interested in the position.  
+
+Thank you,
+
+```
+3. Lars, Research Aide, and GRA meet and discuss a training schedule. Research Aide then drafts a schedule for Lars to review and update the [github page](https://github.com/labordynamicsinstitute/replicability-training) for the [website](https://labordynamicsinstitute.github.io/replicability-training/). 
+4. Track which students accept the training invitation in the "Replication Project Resumes" spreadsheet.
+5. Once training schedule is set and new RA's have accepted the invitation to the Lab, send out invites (LDI Zoom links) to Day 1 of the training and the following peer review sessions. 
+
 
 - Add all trainees to Bitbucket and Jira.
 
