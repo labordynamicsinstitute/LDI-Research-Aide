@@ -49,5 +49,28 @@ Thank you,
     - Product roles is defaulted to `User`
     - Group membership: `trainees`, `replicators`, and `jira-software-users`
     - Click "Invite users"
-3. Bulk import test cases to Jira using these [instructions](https://github.com/labordynamicsinstitute/replicability-training-solutions/blob/master/instructions_for_updating.md). 
-4. Send an updated list of hires to Brenda Herling and fill out student appointment forms for each RA. 
+3. Bulk import test cases to Jira:
+  - First, modify the existing [CSV file](https://github.com/AEADataEditor/LDI-Research-Aide/tree/main/Training) with the new "email" and "duedate" fields.
+  - Remember to create one for Lars for the first Stata case, and one for each of the experienced RAs who are conducting the peer review sessions.
+  - Go to the blue "Create" button in Jira, then select "Import issues".
+  - Choose the corresponding CSV file and check the "Use an existing configuration file" box to use the [mapping file](https://github.com/AEADataEditor/LDI-Research-Aide/blob/main/Training/jira-import-mapping.txt)
+  - Settings: Import to "AEA training" project, file encoding = UTF-8, delimiter = ",", Date format = "MM/dd/yyyy"
+  - Mapping:
+
+![mapping](training/jira-import-mapping.png)
+
+  - Start import, then "check issues"
+
+## Bulk edit
+
+The bulk importer does not map the openICPSR number field, nor allow for a link to the manuscript. Choose "bulk edit", select all issues, and bulk "edit" them to include "openICPSR Project Number" and "Manuscript Central identifier" (i.e. AER-0000-1234). Additionally, add a link to the manuscript in the comments ([PDF_Proofs](https://labordynamicsinstitute.github.io/replicability-training-solutions/)).
+
+## Bulk transition 
+
+All issues are imported as "Open" and need to be assigned. Choose "bulk edit", select all issues, and bulk "transition" them to "Assigned".
+
+## ICPSR
+
+Grant RA's access to download ICPSR deposit.
+
+5. Send an updated list of hires to Brenda Herling and fill out student appointment forms for each RA. 
