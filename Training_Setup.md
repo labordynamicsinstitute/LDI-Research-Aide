@@ -1,4 +1,6 @@
-# Setup of Training
+# Setup of Hiring and Training
+
+### Hiring
 
 Lars, the Research Aide, and Graduate Assistant review applicants and then meet to discuss final decisions. Once final decisions are made, the following steps are taken to prepare for training the new cohort of Undergraduate Research Assistants.
 
@@ -35,9 +37,17 @@ Thank you,
 4. Track which students accept the training invitation in the "Replication Project Resumes" spreadsheet.
 5. Once training schedule is set and new RA's have accepted the invitation to the Lab, send out invites (LDI Zoom links) to Day 1 of the training and the following peer review sessions. 
 
+### Training Preparation
 
-- Add all trainees to Bitbucket and Jira.
-
-- Bulk import test cases to Jira using these [instructions](https://github.com/labordynamicsinstitute/replicability-training-solutions/blob/master/instructions_for_updating.md). 
-
-- Send an updated list of hires to Brenda Herling and fill out student appointment forms. 
+1. Add new trainees to the Bitbucket `aeaverification` team as "Developers" [here](https://bitbucket.org/account/user/aeaverification/groups/developers/) by pasting their email into the search bar under "Members", and clicking "Add".
+2. Add users to Jira
+  - log on to Jira as "dataeditor@aeapubs.org"
+  - Click on [People](https://aeadataeditors.atlassian.net/jira/people/search). 
+  - Click on Manage users
+  - Invite users.
+    - Email addresses: comma separated (10 at a time)
+    - Role: Basic
+    - Group membership: "trainees"
+    - Click "Invite"
+3. Bulk import test cases to Jira using these [instructions](https://github.com/labordynamicsinstitute/replicability-training-solutions/blob/master/instructions_for_updating.md). 
+4. Send an updated list of hires to Brenda Herling and fill out student appointment forms for each RA. 
