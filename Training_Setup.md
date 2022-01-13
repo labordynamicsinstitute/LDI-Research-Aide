@@ -46,8 +46,8 @@ Thank you,
   - Click on Manage users
   - Invite users.
     - Email addresses: comma separated (10 at a time)
-    - Role: Basic
-    - Group membership: "trainees"
-    - Click "Invite"
+    - Product roles is defaulted to `User`
+    - Group membership: `trainees`, `replicators`, and `jira-software-users`
+    - Click "Invite users"
 3. Bulk import test cases to Jira using these [instructions](https://github.com/labordynamicsinstitute/replicability-training-solutions/blob/master/instructions_for_updating.md). 
 4. Send an updated list of hires to Brenda Herling and fill out student appointment forms for each RA. 
