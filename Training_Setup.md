@@ -63,6 +63,6 @@ Thank you,
 
 4. The bulk importer does not map the openICPSR number field, nor allow for a link to the manuscript. Choose "bulk edit", select all issues, and bulk "edit" them to include "openICPSR Project Number" and "Manuscript Central identifier" (i.e. AER-0000-1234). Additionally, add a link to the manuscript in the comments ([PDF_Proofs](https://labordynamicsinstitute.github.io/replicability-training-solutions/)).
 5. All issues are imported as "Open" and need to be assigned. Choose "bulk edit", select all issues, and bulk "transition" them to "Assigned".
-6. Grant RA's access to download ICPSR deposit.
+6. Grant RA's access to download ICPSR deposit (students will need to create their accounts with ICPSR first).
+7. Send an updated list of hires to HR (Brenda Herling) and fill out student appointment forms for each RA (also sent to ilr_student_empl@cornell.edu). 
 
-7. Send an updated list of hires to Brenda Herling and fill out student appointment forms for each RA. 
