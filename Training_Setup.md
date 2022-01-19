@@ -57,7 +57,7 @@ Thank you,
   - Settings: Import to "AEA training" project, file encoding = UTF-8, delimiter = ",", Date format = "MM/dd/yyyy"
   - Mapping:
 
-![mapping](training/mapping.png)
+![mapping](Training/Mapping.png)
 
   - Start import, then "check issues"
 
