@@ -30,20 +30,24 @@ Use [AnyStyle](https://anystyle.io).
 2. Click the parse button and AnyStyle will split the references into segments. If any section is labelled incorrectly, you can select it (use the Shift and Ctrl/Command to make multiple selections or double-click to select an entire segment at once). Then use the Assign Label button to assign the correct label.
 3. Save it as BibTeX.
 
-#### Bash "grep"
-Look through any .do files for a dataset name "mydata" by typing the following into the bash shell:
-> grep mydata */*.do
 
 #### Stata Programming
 aearep-2215 excellent stata programming. 
 
-#### sed from bash
+#### Bash
 
+**sed**
 - This should replace the path "/Users/lars/" with "$rootdir/" in every .do file.
 - The "s" is the substitute command of sed for find and replace.
 - The "+" is the delimiter for breaking up the 'old' and 'new' statements. 
 
-`sed -i 's+/Users/lars/+$rootdir/+g' *do`
+```sed -i 's+/Users/lars/+$rootdir/+g' *do```
 
+**grep**
+Look through any .do files for a dataset name "mydata" by typing the following into the bash shell:
+```grep mydata */*.do```
 
+**find**
+Get a file count in the "folder" directory
+```find folder/ -type f | wc -l```
 
