@@ -1,4 +1,4 @@
-# Steps for Transferring Data from CISER to BioHPC
+# Transferring Data from CISER to BioHPC
 
 If transferring data from your own laptop to BioHPC, FileZilla may be the simplest solution. However, CISER does not have FileZilla installed. Follow the steps below to transfer data from CISER to BioHPC.
 
