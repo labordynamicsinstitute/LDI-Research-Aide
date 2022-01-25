@@ -66,4 +66,5 @@ Thank you,
 6. Grant RA's access to download ICPSR deposit (students will need to create their accounts with ICPSR first).
 7. Send an updated list of hires to HR (Brenda Herling) and fill out student appointment forms for each RA (also sent to ilr_student_empl@cornell.edu). 
 8. Create "Placeholder" tickets for each RA in Jira. The best way to do this is through the same bulk process as creating the training cases (a placeholder csv file can be found [here](https://github.com/AEADataEditor/LDI-Research-Aide/tree/main/Training). Be sure to change the "Import to Project" field from "AEA Training" to "AEA Replication - Default". Then convert each issue to a subtask for the Master Placeholder aearep-1407 (unsure if there is a way to bulk convert to subtask).
+9. Go to "/Box/Office of AEA Data Editor/Student Employment/Current_Hire-Exit_Checklists" and create a new exit checklist file for each student. This way we can track what has been done when exiting a student in the future.
 
