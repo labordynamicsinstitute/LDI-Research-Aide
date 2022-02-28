@@ -3,7 +3,7 @@
 If transferring data from your own laptop to BioHPC, FileZilla may be the simplest solution. However, CISER does not have FileZilla installed. Follow the steps below to transfer data from CISER to BioHPC.
 
 1. First, open up a bash shell in the directory that holds the folder which you want to transfer to BioHPC.
-2. SFTP into BioHPC ```sftp mjd443@cbsuecco02.biohpc.cornell.edu```. Your password is the same that you use to login to the cbsuecco02 node (or the login node).
+2. SFTP into BioHPC ```sftp netid@cbsuecco02.biohpc.cornell.edu```. Your password is the same that you use to login to the cbsuecco02 node (or the login node).
 3. `cd` into the desired directory on the BioHPC node.
 4. You need to first create the directory on BioHPC: ```mkdir data`.
 5. Use the put command to place the desired folder (i.e. "data") on BioHPC: ```put -r data/```.
