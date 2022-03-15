@@ -2,6 +2,11 @@
 
 ### Hiring
 
+Timelines:
+  - Fall: Post mid-July and train mid to late August
+  - Spring: Post mid-November and train mid to late January
+  - Summer: Post mid-March and train late April to early May
+
 Lars, the Research Aide, and Graduate Assistant review applicants and then meet to discuss final decisions. Once final decisions are made, the following steps are taken to prepare for training the new cohort of Undergraduate Research Assistants.
 
 1. Send out rejection email. bcc all candidates who were not selected with the following (make sure to update the next upcoming application cycle):
