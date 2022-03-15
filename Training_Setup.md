@@ -7,7 +7,14 @@ Timelines:
   - Spring: Post mid-November and train mid to late January
   - Summer: Post mid-March and train late April to early May
 
-Lars, the Research Aide, and Graduate Assistant review applicants and then meet to discuss final decisions. Once final decisions are made, the following steps are taken to prepare for training the new cohort of Undergraduate Research Assistants.
+Post the job:
+1. Hiring Google Form is [here](https://forms.gle/QoZdqeLab4dwB25Q7). Update the form so that the repsonses go to a new sheet in the "Replication Project Resumes" file.
+2. Copy one of the previous posting documents in "Box/LDI Replication Lab/" and update it accordingly.
+3. Post the job to [SEO](https://studentjobs.seo.cornell.edu/employers).
+4. Reach out to Allison Barrett (Economics department, aeb238@cornell.edu) and ask that she include it in the next Ezranomics newsletter. The job is already featured on the [research opportunities](https://economics.cornell.edu/undergraduate-student-experiences#research-opportunities) page. Also, reach out to Natalie Kimbrough & Meg Cole (BPP/PAM, nmk64@cornell.edu and mc129@cornell.edu) and separately to Beatrix Johnson (Statistics, bj11@cornell.edu) to circulate the job posting.
+
+
+Lars, the Research Aide, and Graduate Assistant then review applicants and then meet to discuss final decisions. Once final decisions are made, the following steps are taken to prepare for training the new cohort of Undergraduate Research Assistants.
 
 1. Send out rejection email. bcc all candidates who were not selected with the following (make sure to update the next upcoming application cycle):
 ```
