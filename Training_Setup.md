@@ -2,17 +2,28 @@
 
 ### Hiring
 
-Timelines:
+#### Timelines:
   - Fall: Post mid-July and train mid to late August
   - Spring: Post mid-November and train mid to late January
   - Summer: Post mid-March and train late April to early May
 
-Post the job:
-1. Hiring Google Form is [here](https://forms.gle/QoZdqeLab4dwB25Q7). Update the form so that the repsonses go to a new sheet in the "Replication Project Resumes" file.
+#### Post the job:
+1. Hiring Google Form is [here](https://forms.gle/QoZdqeLab4dwB25Q7). Update the form so that the responses go to a new sheet in the "Replication Project Resumes" file.
 2. Copy one of the previous posting documents in "Box/LDI Replication Lab/" and update it accordingly.
 3. Post the job to [SEO](https://studentjobs.seo.cornell.edu/employers) using the information in the posting document in Box.
-4. Reach out to Allison Barrett (Economics department, aeb238@cornell.edu) and ask that she include it in the next Ezranomics newsletter. The job is already featured on the [research opportunities](https://economics.cornell.edu/undergraduate-student-experiences#research-opportunities) page. Also, reach out to Natalie Kimbrough & Meg Cole (BPP/PAM, nmk64@cornell.edu and mc129@cornell.edu) and separately to Beatrix Johnson (Statistics, bj11@cornell.edu) to circulate the job posting.
+4. Update the job posting on the [LDI website](https://www.ilr.cornell.edu/labor-dynamics-institute)
+   - Update may need to be done by somebody with access rights to [Drupal website](https://d8-edit.ilr.cornell.edu/user/login)
+   - Copy from previous posting, adjust title and ensure URL reads correctly
+   - Link to SEO posting and to Google Form may need to be added (see below why they do not carry over)
 
+#### Disseminate availability of position:
+
+- Econ: Allison Barrett (Economics department, aeb238@cornell.edu) and ask that she include it in the next Ezranomics newsletter as well as any faster dissemination. The job is already featured on the [research opportunities](https://economics.cornell.edu/undergraduate-student-experiences#research-opportunities) page - verify that it is still accurate
+- BPP/PAM: Natalie Kimbrough & Meg Cole (nmk64@cornell.edu and mc129@cornell.edu) 
+- Dyson:
+- Statistics: Beatrix Johnson (Statistics, bj11@cornell.edu) 
+
+#### Review
 
 Lars, the Research Aide, and Graduate Assistant then review applicants and then meet to discuss final decisions. Once final decisions are made, the following steps are taken to prepare for training the new cohort of Undergraduate Research Assistants.
 
@@ -45,6 +56,13 @@ Please let us know if you are still interested in the position.
 Thank you,
 
 ```
+
+#### Close position
+- Remove SEO posting
+- Leave LDI page up, but remove link to Google Form and to SEO posting
+
+### Training schedule
+
 3. Lars, Research Aide, and GRA meet and discuss a training schedule. Research Aide then drafts a schedule for Lars to review and update the [github page](https://github.com/labordynamicsinstitute/replicability-training) for the [website](https://labordynamicsinstitute.github.io/replicability-training/). 
 4. Track which students accept the training invitation in the "Replication Project Resumes" spreadsheet.
 5. Once training schedule is set and new RA's have accepted the invitation to the Lab, send out invites (LDI Zoom links) to Day 1 of the training and the following peer review sessions. 
