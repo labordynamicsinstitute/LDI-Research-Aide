@@ -35,7 +35,7 @@ Thank you for your application to the LDI Replication Lab. We received a lot of 
 
 However, our project will be hiring again in the Summer, and we invite you to consult our job posting at that time. We will be posting any updates on the LDI home page at http://www.ilr.cornell.edu/labor-dynamics-institute. 
 
-Although we cannot provide detailed feedback on your application, one of the frequent reasons that students like you are not selected is that we explicitly search for experience with desktop-style statistical programming languages, in particular with Stata or Matlab. If you have not used these before, but are interested in brushing up your skillset, CISER offers free training to Cornell students in all of these. Regardless if you intend to re-apply in the Summer or for your own self-improvement for the job market, we strongly suggest taking one of these. 
+Although we cannot provide detailed feedback on your application, one of the frequent reasons that students like you are not selected is that we explicitly search for experience with desktop-style statistical programming languages, in particular with Stata or Matlab. If you have not used these before, but are interested in brushing up your skillset, CCSS Research Computing offers free training to Cornell students in all of these. Regardless if you intend to re-apply in the Summer or for your own self-improvement for the job market, we strongly suggest taking one of these. 
 
 Again, thank you for your interest, and please stay in contact.
 ```
