@@ -40,7 +40,7 @@ aearep-2215 excellent stata programming.
 - This should replace the path "/Users/lars/" with "$rootdir/" in every .do file.
 - The "s" is the substitute command of sed for find and replace.
 - The "+" is the delimiter for breaking up the 'old' and 'new' statements. 
-- For any "\" that need to be changed, you'll need to replace with "\\".
+- For any "\\" that need to be changed, you'll need to replace with "\\\".
 
 ```sed -i 's+/Users/lars/+$rootdir/+g' *do```
 
