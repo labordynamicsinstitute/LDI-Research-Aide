@@ -44,6 +44,8 @@ aearep-2215 excellent stata programming.
 
 ```sed -i 's+/Users/lars/+$rootdir/+g' *do```
 
+- bash command to change all back slashes to forward slashes in all .do files: ```sed -i 's+\\+/+g' *do```
+
 **grep**
 Look through any .do files for a dataset name "mydata" by typing the following into the bash shell:
 ```grep mydata */*.do```
