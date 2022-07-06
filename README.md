@@ -14,11 +14,11 @@ Instructions for cases where the author(s) have indicated on the DCAF that they 
 
 Detailed instructions on everything related to the hiring and training of RAs. Additionally, the "Training" folder includes the template csv files and mapping file for bulk importing training cases.
 
-### PandP_Setup.md
+### [PandP_Setup.md](PandP_Setup.md)
 
 Contains step-by-step instructions on the setup needed for PandP. A note to Sofia - I've done this for 2023, with the exception of granting RAs access.
 
-### PendingICPSR_Changes_SOP.md
+### [PendingICPSR_Changes_SOP.md](PendingICPSR_Changes_SOP.md)
 
 Instructions on handling cases that are "Pending OpenICPSR changes"
 
