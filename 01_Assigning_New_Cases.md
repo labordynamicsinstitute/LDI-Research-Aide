@@ -5,11 +5,13 @@ To view this on JIRA, navigate to the Filters dropdown and choose "Unassigned ta
 
 New cases are most commonly indicated by "Rev.0" on the end of the summary while revisions are indicated by a "Rev.1". It can be verified whether or not an issue is a revision by searching the manuscript identifier in JIRA to see if there are any previous issues corresponding to the identifier (Note: After linking previous issue to the revised issue, transition the previous issue to "Done"). Revisions should most often be assigned to the RA that replicated the original request. Any new cases not chosen by RA's will be assigned in the following manner.
 
-Select the issue and take a look at the README. Which software(s) is used by the authors and do they provide the OpenICPSR project number? 
+Select the issue and take a look at the "Data and Code Availability Form". Fill in the Jira fields under the "DCAF" tab in Jira according to the answers on the DCAF.
+
+If the authors have provided the OpenICPSR project number in the DCAF, populate that number in the "OpenICPSR Project Number" field in JIRA. A script automatically alters the Code provenance field to account for the ICPSR link to that project. If the authors have not provided this number in the DCAF, click the link in the Code provenance field on JIRA. This will bring you to the search field on OpenICPSR. Pick out a unique set of words from the title of the manuscript and search for that paper. When the paper is found, click on "ADMIN" to view the project. From there you will find the project number which can be populated in the manner described previously. 
+
+Then have a look at the OpenICPSR deposit, in particular the README. Which software(s) is used by the authors and where do the data come from? Fill out any Jira fields such as `Software used` and `Data provenance` to refer back to when assigning the case.
 
 Open the "Replication Project Resumes" spreadsheet and see which RA's have experience with the software used in the paper. Next, open another JIRA tab and navigae to the Dashboards dropdown and choose "Assignments." Here we can take a closer look at how much each RA is working on at the moment. Attempt to choose an assignee who has the bandwith to complete the case in a reasonable time frame and who has the requisite knowledge of the softwares used. 
-
-If the authors have provided the OpenICPSR project number in the README, populate that number in the "OpenICPSR Project Number" field in JIRA. A script automatically alters the Code provenance field to account for the ICPSR link to that project. If the authors have not provided this number in the README, click the link in the Code provenance field on JIRA. This will bring you to the search field on OpenICPSR. Pick out a unique set of words from the title of the manuscript and search for that paper. When the paper is found, click on "ADMIN" to view the project. From there you will find the project number which can be populated in the manner described previously. 
 
 While on the OpenICPSR project page, the next step is to give the RA access to the project. Copy the RA's email from the "Replication Project Resumes" spreadsheat. Click "Share Project" in ICPSR and paste the email. Additionally, choose to allow access to download. This will give the RA permission to view and download the necessary replication materials.
 
