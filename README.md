@@ -6,11 +6,11 @@ Responsibilities and Instruction Manuals for the Research Aide Position
 
 A written breakdown of the process for assigning cases.
 
-### Making_Data_Avail.md
+### [Requesting_Restricted_Access_Data.md](Requesting_Restricted_Access_Data.md)
 
 Instructions for cases where the author(s) have indicated on the DCAF that they can make restricted-access data available to the Data Editor privately.
 
-### Training_Setup.md
+### [Training_Setup.md](Training_Setup.md)
 
 Detailed instructions on everything related to the hiring and training of RAs. Additionally, the "Training" folder includes the template csv files and mapping file for bulk importing training cases.
 
