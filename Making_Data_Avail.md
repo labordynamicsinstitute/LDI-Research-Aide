@@ -6,7 +6,9 @@ For cases where the author(s) have indicated on the DCAF that they can make rest
 2. Create a new subfolder corresponding to the Jira issue (i.e. `aearep-1234`). 
 3. Create a [file request](https://support.box.com/hc/en-us/articles/360045304813-Using-File-Request-to-get-Content-from-Anyone) within the newly created subfolder (only one file request is permitted per folder).  
 4. Copy the file request link.
-5. Email the authors to request that they upload the restricted-access data files to Box using the template below:
+5. Email the authors to request that they upload the restricted-access data files to Box using the template below.
+6. Once the replication process has been completed, delete the data from the S: drive and Box and then reply to the author that the data has been deleted.
+
 
 
 Dr. *Author*,
@@ -23,4 +25,3 @@ https://aeadataeditor.github.io/aea-de-guidance/sharing-restricted-data.html
 Thank you!
 
 
-Once the replication process has been completed, delete the data from the S: drive and Box and then reply to the author that the data has been deleted.
