@@ -12,7 +12,7 @@ Manuscript: Attached.
 
 README: In the ICPSR repository.
 
-Code and data: https://www.openicpsr.org/openicpsr/tenant/openicpsr/module/aea/workspace?goToPath=/openicpsr/141001# (https://www.openicpsr.org/openicpsr/tenant/openicpsr/module/aea/workspace?goToPath=/openicpsr/141001#)
+Code and data: (insert open ICPSR link)
 
 Please file your report via reply-all to this email, within the next 10 days or as soon as possible.
-Thank you! ```
+Thank you! 
