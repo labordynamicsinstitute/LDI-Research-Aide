@@ -13,6 +13,7 @@
 3. Post the job to [SEO](https://studentjobs.seo.cornell.edu/employers) using the information in the posting document in Box.
 4. Update the job posting on the [LDI website](https://www.ilr.cornell.edu/labor-dynamics-institute)
    - Update may need to be done by somebody with access rights to [Drupal website](https://d8-edit.ilr.cornell.edu/user/login) [(How to edit)](https://www.ilr.cornell.edu/faculty-and-staff-resources/web-services/drupal-documentation/editing-basic-page)
+   - Contact Sara Brooks (seb349@cornell.edu) to make edits to website
    - Copy from previous posting, adjust title and ensure URL reads correctly
    - Link to SEO posting and to Google Form may need to be added (see below why they do not carry over)
 
