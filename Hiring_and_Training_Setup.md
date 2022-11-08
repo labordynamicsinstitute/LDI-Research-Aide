@@ -23,6 +23,7 @@
 - BPP/PAM: Natalie Kimbrough & Meg Cole (nmk64@cornell.edu and mc129@cornell.edu) 
 - Dyson: Gretchen C. Gilbert (Registrar and Student Support Specialist) gcg4@cornell.edu
 - Statistics: Beatrix Johnson (Statistics, bj11@cornell.edu) 
+- CIS: Julia Aquadro (Assistant Director of Undergraduate Advising) jra269@cornell.edu
 
 #### Review
 
