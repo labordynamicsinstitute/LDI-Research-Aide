@@ -20,7 +20,7 @@
 #### Disseminate availability of position:
 
 - Econ: Brook Musmacker (Economics Undergraduate Experience Coordinator, economics-uec@cornell.edu) and ask that she include it in the next Ezranomics newsletter as well as any faster dissemination. The job is already featured on the [research opportunities](https://economics.cornell.edu/undergraduate-student-experiences#research-opportunities) page - verify that it is still accurate
-- BPP/PAM: Natalie Kimbrough & Meg Cole (nmk64@cornell.edu and mc129@cornell.edu) 
+- Brooks School (aka PAM) (brooksstudentbulletin@cornell.edu) 
 - Dyson: Gretchen C. Gilbert (Registrar and Student Support Specialist) gcg4@cornell.edu
 - Statistics: Beatrix Johnson (Statistics, bj11@cornell.edu) 
 - CIS: Julia Aquadro (Assistant Director of Undergraduate Advising) jra269@cornell.edu
