@@ -101,3 +101,4 @@ Thank you,
 9. Add students to [listserv](https://www.list.cornell.edu).
 10. Go to "/Box/Office of AEA Data Editor/Student Employment/Current_Hire-Exit_Checklists" and create a new exit checklist file for each student. This way we can track what has been done when exiting a student in the future.
 
+5. After training, grade reports using https://github.com/labordynamicsinstitute/replicability-training-solutions as a reference
