@@ -16,13 +16,20 @@ Dr. *Author*,
 
 We received a request to conduct the AEA reproducibility check for your manuscript entitled "X." On the Data and Code Availability form which you submitted it was indicated that the data can be made available to the Data Editor privately. Would it be possible for you to provide the restricted-access data so that we may proceed to verify the reproducibility of the entire replication package? The data would not be published, and would be deleted by us once we have completed our process. Our preferred sharing method is a Box File Request (specific to your manuscript), the link for which can be found below, but can alternatively happen via Dropbox or similar means, and should be compliant with your data use agreement.
 
+Please note that the replicator will ignore any code or public data sent via Box.
+
 Box File Request (navigate to the link below and upload the file(s)):
 [Insert Box File Request Link Here]
 
-Please see the link below for guidance on sharing restricted data with the Data Editor. If you have any questions please do not hesitate to ask.
+For more information on what to share with the Data Editor:
+https://www.aeaweb.org/journals/data/faq#confidential
+https://aeadataeditor.github.io/aea-de-guidance/preparing-for-data-deposit.html#structure-in-the-presence-of-confidential-unpublished-data
+
+For guidance on how to share restricted data with the Data Editor:
 
 https://aeadataeditor.github.io/aea-de-guidance/sharing-restricted-data.html
 
+ If you have any questions please do not hesitate to ask.
 Thank you!
 
 
