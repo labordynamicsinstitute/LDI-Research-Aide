@@ -59,7 +59,7 @@ Email Kyrani (kreneau@umich.edu) from the data editor account.
 
 ```
 Hi Kyrani,
-Can you remove admin access for ab123@cornell.edu
-Can you also give admin access to xx123@cornell.edu ? Thank you.
+Can you remove admin access for FirstName LastName (ab123@cornell.edu)
+Can you also give admin access to FirstName LastName (xx123@cornell.edu) ? Thank you.
 
 ```
