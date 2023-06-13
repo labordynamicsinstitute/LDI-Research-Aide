@@ -52,3 +52,14 @@ Thanks!
 
 - When authors ask if they need to re-submit the updated manuscript to ScholarOne/Manuscript Central. Paste the following within the acceptance (or reminder) post on ICPSR:
 > At this stage, any changes to the manuscript are handled directly with editorial office – another submission to Scholar One is not necessary. If you are not already in contact with the editorial office, please reach out to Lucia Giordano at l.giordano@aeapubs.org.
+
+## Giving open ICPSR Admin Access to RAs
+
+Email Kyrani (kreneau@umich.edu) from the data editor account.
+
+```
+Hi Kyrani,
+Can you remove admin access for ab123@cornell.edu
+Can you also give admin access to xx123@cornell.edu ? Thank you.
+
+```
