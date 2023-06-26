@@ -1,7 +1,7 @@
 # Request for external reproducibility check (cascad)
 
 Create a "Verify code and data" type subtask titled "Request for external reproducibility (CASCAD)"
-(if CASCAD is applicable)
+(if CASCAD is applicable, send to perignon@hec.fr and akmansoy@hec.fr)
 
 Send email with header "Reproducibility Review Request (aearep-xxx)"
 The AEAREP number being the number of the subtask you just created.
