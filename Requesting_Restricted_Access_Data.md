@@ -10,7 +10,8 @@ For cases where the author(s) have indicated on the DCAF that they can make rest
 6. Once the replication process has been completed, delete the data from the S: drive and Box and then reply to the author that the data has been deleted.
 7. Check the box on JIRA indicating the data has been deleted.
 
-
+Subject Line:
+> Request for Restricted Access Data (AEAREP-xxx)
 
 Dr. *Author*,
 
