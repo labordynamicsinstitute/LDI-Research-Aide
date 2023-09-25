@@ -72,7 +72,8 @@ Thank you,
 ### Training Preparation
 
 1. Add new trainees to the Bitbucket `aeaverification` team as "Developers" [here](https://bitbucket.org/account/user/aeaverification/groups/developers/) by pasting their email into the search bar under "Add member", and clicking "Confirm".
-2. Add users to Jira
+2. Pre-approver link: https://aeadataeditors.atlassian.net/plugins/servlet/project-config/AEAREP/people
+3. Add users to Jira
   - log on to Jira as "dataeditor@aeapubs.org"
   - Click on [People](https://aeadataeditors.atlassian.net/jira/people/search). 
   - Click on Manage users
