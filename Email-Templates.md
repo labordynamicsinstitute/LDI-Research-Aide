@@ -2,12 +2,14 @@
 
 ## Revisions Requested
 
-> Revisions Requested for MC Number (AEAREP-xxx)
+> Revisions Requested for MCNumberXX (AEAREP-xxx)
 
 Dear authors,
 Please make the revisions requested to the openICPSR deposit https://www.openicpsr.org/openicpsr/workspace?goToPath=/openicpsr/000000 so that we may move forward with publication of the deposit.
 
 See our full report from [date] for details. I've also attached the report for ease of access. Feel free to contact us directly at dataeditor@aeapubs.org with any questions.
+
+Once you're done, please "Change Status" -> Re-submit to AEA"
 
 Many thanks in advance.
 
