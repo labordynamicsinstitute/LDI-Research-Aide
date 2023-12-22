@@ -27,12 +27,15 @@ Subject Line:
 
 
 > Hi Dr. [Author],
-> We're reviewing your open ICPSR deposit for "[Title]" (MC Number) and noticed you answered "Yes" for the submission questions.
-Please answer these questions in regards to the data in the deposit you are submitting. The answer should not consider any other data that may have been used as part of the manuscript’s analysis, but that are not present in this particular deposit. Therefore the answer to the first two questions should be "No". Please re-submit with the accurate answers and delete any restricted access data so the deposit is ready for publication.
+> We're reviewing your open ICPSR deposit for "[Title]" (MC Number) and noticed you answered "Yes" for the submission questions on sensitive data and risks. We believe that answer is in error.
+> 
+Please answer these questions in regards to the data that are part of the deposit you are submitting. The answer should not consider any other data that may have been used as part of the manuscript’s analysis, but that are not present in this particular deposit. Therefore the answer to the first two questions should normally be "No". 
 >
-> More information in the link below.
-Instructions on submitting to Open ICPSR: https://aeadataeditor.github.io/aea-de-guidance/data-deposit-aea.html#submission-questions
-I hope this helps and please let us know if you have any questions. Thank you.
+> If you nevertheless think that access to the data should be restricted, please contact us immediately to discuss. 
+>
+> More information can be found in our instructions on submitting to openICPSR: https://aeadataeditor.github.io/aea-de-guidance/data-deposit-aea.html#submission-questions
+>
+> I hope this helps and please let us know if you have any questions. Thank you.
 
 
 
