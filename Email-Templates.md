@@ -29,7 +29,7 @@ Subject Line:
 > Hi Dr. [Author],
 > We're reviewing your open ICPSR deposit for "[Title]" (MC Number) and noticed you answered "Yes" for the submission questions on sensitive data and risks. We believe that answer is in error.
 > 
-Please answer these questions in regards to the data that are part of the deposit you are submitting. The answer should not consider any other data that may have been used as part of the manuscript’s analysis, but that are not present in this particular deposit. Therefore the answer to the first two questions should normally be "No". 
+> Please answer these questions in regards to the data that are part of the deposit you are submitting. The answer should not consider any other data that may have been used as part of the manuscript’s analysis, but that are not present in this particular deposit. Therefore the answer to the first two questions should normally be "No". 
 >
 > You can fix this issue by simply [recalling](https://aeadataeditor.github.io/aea-de-guidance/FAQ.html#you-can-recall-the-submission) the package, and then [re-submitting to the Data Editor](https://aeadataeditor.github.io/aea-de-guidance/data-deposit-aea.html#submitting-to-the-data-editor)
 >
