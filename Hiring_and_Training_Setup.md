@@ -32,7 +32,8 @@
 Lars, the Research Aide, and Graduate Assistant then review applicants and then meet to discuss final decisions. Once final decisions are made, the following steps are taken to prepare for training the new cohort of Undergraduate Research Assistants.
 
 1. Send out rejection email. bcc all candidates who were not selected with the following (make sure to update the next upcoming application cycle):
-```
+
+---
 Dear Applicant,
 
 Thank you for your application to the LDI Replication Lab. We received a lot of applications from talented folks like you. Unfortunately, you were not selected at this time. 
@@ -42,12 +43,13 @@ However, our project will be hiring again in the Summer, and we invite you to co
 Although we cannot provide detailed feedback on your application, one of the frequent reasons that students like you are not selected is that we explicitly search for experience with desktop-style statistical programming languages, in particular with Stata or Matlab. If you have not used these before, but are interested in brushing up your skillset, CCSS Research Computing offers free training to Cornell students in all of these. Regardless if you intend to re-apply in the Summer or for your own self-improvement for the job market, we strongly suggest taking one of these. 
 
 Again, thank you for your interest, and please stay in contact.
-```
+
+---
 2. Send out hire notification to selected applicants:
 
 `Subject: [RESPONSE REQUIRED] You've Been Selected for LDI's Replication Project`
 
-```
+---
 All,
 
 Thank you for applying to the AEA Replication Project. 
@@ -62,7 +64,7 @@ We must note that this is not a confirmation of employment. During the training,
 
 Thank you,
 
-```
+---
 
 #### Close position
 - Close Workday posting
