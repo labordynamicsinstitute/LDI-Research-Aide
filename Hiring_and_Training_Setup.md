@@ -4,26 +4,28 @@
 
 #### Timelines:
   - Fall: Post mid-July and train mid to late August
-  - Spring: Post mid-November and train mid to late January
-  - Summer: Post mid-March and train late April to early May
+  - Spring: Post mid-November and train mid January
+  - Summer: Post mid-March and train late April
 
 #### Post the job:
 1. Hiring Google Form is [here](https://forms.gle/QoZdqeLab4dwB25Q7). Update the form so that the responses go to a new sheet in the "Replication Project Resumes" file.
 2. Copy one of the previous posting documents in "Box/LDI Replication Lab/" and update it accordingly.
-3. Post the job to [SEO](https://studentjobs.seo.cornell.edu/employers) using the information in the posting document in Box.
+3. Email ILR Student Employment (ilr_student_empl@cornell.edu) to copy exising RA Workday posting with adjusted wages
 4. Update the job posting on the [LDI website](https://www.ilr.cornell.edu/labor-dynamics-institute)
    - Update may need to be done by somebody with access rights to [Drupal website](https://d8-edit.ilr.cornell.edu/user/login) [(How to edit)](https://www.ilr.cornell.edu/faculty-and-staff-resources/web-services/drupal-documentation/editing-basic-page)
    - Contact Sara Brooks (seb349@cornell.edu) to make edits to website
    - Copy from previous posting, adjust title and ensure URL reads correctly
-   - Link to SEO posting and to Google Form may need to be added (see below why they do not carry over)
+   - Link to Workday posting and to Google Form may need to be added (see below why they do not carry over)
 
 #### Disseminate availability of position:
 
 - Econ: Brook Musmacker (Economics Undergraduate Experience Coordinator, economics-uec@cornell.edu) and ask that she include it in the next Ezranomics newsletter as well as any faster dissemination. The job is already featured on the [research opportunities](https://economics.cornell.edu/undergraduate-student-experiences#research-opportunities) page - verify that it is still accurate
-- Brooks School (aka PAM) (brooksstudentbulletin@cornell.edu) 
+- Brooks School (aka PAM) (brooksstudentbulletin@cornell.edu) This email goes to students directly
 - Dyson: Gretchen C. Gilbert (Registrar and Student Support Specialist) gcg4@cornell.edu
-- Statistics: Beatrix Johnson (Statistics, bj11@cornell.edu) 
+- Statistics: (ugrad@stat.cornell.edu)  This email goes to students directly
 - CIS: Julia Aquadro (Assistant Director of Undergraduate Advising) jra269@cornell.edu
+
+- If the person you emailed no longer works for that department, google their former title and find the new person in that position
 
 #### Review
 
@@ -42,6 +44,9 @@ Although we cannot provide detailed feedback on your application, one of the fre
 Again, thank you for your interest, and please stay in contact.
 ```
 2. Send out hire notification to selected applicants:
+
+`Subject: [RESPONSE REQUIRED] You've Been Selected for LDI's Replication Project`
+
 ```
 All,
 
@@ -49,19 +54,20 @@ Thank you for applying to the AEA Replication Project.
 
 We have reviewed your application, and have identified you as a qualified candidate. We would like have you join us for the training, during which we will present the task at hand, train you in using the tools and procedures you will need, and walk you through an actual replication task. 
 
-Training will take place from Tuesday Jan 18 to Friday Jan 21. Live attendance should be expected on Tuesday and additional meetings will happen on the following days using Zoom, plus some significant self-paced work.
+**Training will take place in-person on Wednesday January 17th**, and virtually January 18-23rd. Live attendance should be expected on Wednesday and additional meetings will happen on the following days using Zoom, plus some significant self-paced work. Schedule found [here](https://labordynamicsinstitute.github.io/replicability-training/).
 
-We must note that this is not a confirmation of employment. During the training, HR will be checking your eligibility for employment, which includes being a current Cornell student and residing in the United States; a I-9 may be needed.
+We must note that this is not a confirmation of employment. During the training, HR will be checking your eligibility for employment, which includes being a current Cornell student and residing in the United States; an [I-9](https://www.uscis.gov/i-9-central/form-i-9-acceptable-documents) may be needed.
 
-Please let us know if you are still interested in the position.  
+**Please let us know if you are still interested in the position.**
 
 Thank you,
 
 ```
 
 #### Close position
-- Remove SEO posting
-- Leave LDI page up, but remove link to Google Form and to SEO posting
+- Close Workday posting
+- Accept new RAs on Workday
+- Leave LDI page up, but remove link to Google Form
 
 ### Training schedule
 
@@ -78,14 +84,14 @@ Thank you,
   - Click on [People](https://aeadataeditors.atlassian.net/jira/people/search). 
   - Click on Manage users
   - Invite users.
-    - Email addresses: comma separated (10 at a time)
+    - Email addresses: comma separated (it used to be limited to 10 at a time, but they're updating this)
     - Product roles is defaulted to `User`
     - Group membership: `trainees`, `replicators`, and `jira-software-users`
     - Click "Invite users"
 3. Bulk import test cases to Jira:
   - First, modify the existing [CSV file](https://github.com/AEADataEditor/LDI-Research-Aide/tree/main/Training) with the new "email" and "duedate" fields.
   - Remember to create one for Lars for the first Stata case, and one for each of the experienced RAs who are conducting the peer review sessions.
-  - Go to the blue "Create" button in Jira, then select "Import issues".
+  - Go to the brown/red "Create" button in Jira, then select "Import issues".
   - Choose the corresponding CSV file and check the "Use an existing configuration file" box to use the [mapping file](https://github.com/AEADataEditor/LDI-Research-Aide/blob/main/Training/jira-import-mapping.txt)
   - Settings: Import to "AEA training" project, file encoding = UTF-8, delimiter = ",", Date format = "MM/dd/yyyy"
   - Mapping:
