@@ -27,6 +27,7 @@ Subject Line:
 
 
 > Hi Dr. [Author],
+> 
 > We're reviewing your open ICPSR deposit for "[Title]" (MC Number) and noticed you answered "Yes" for the submission questions on sensitive data and risks. We believe that answer is in error.
 > 
 > Please answer these questions in regards to the data that are part of the deposit you are submitting. The answer should not consider any other data that may have been used as part of the manuscript’s analysis, but that are not present in this particular deposit. Therefore the answer to the first two questions should normally be "No". 
@@ -91,4 +92,12 @@ https://aeadataeditor.github.io/aea-de-guidance/preparing-for-data-deposit.html#
 > https://aeadataeditor.github.io/aea-de-guidance/sharing-restricted-data.html
 > 
 > If you have any questions please do not hesitate to ask.
-Thank you!
+> Thank you!
+
+After replication is complete (case is in Pending openICPSR Changes or Assess openICPSR Changes and there's no post-publication reproducibility check), respond to previous email:
+
+>
+> Hello Dr. *Author*,
+>
+> This email is confirm that we have deleted the restricted access data for "[Title]" from our workspaces. Your deposit is being moved along in the replication process.
+>
