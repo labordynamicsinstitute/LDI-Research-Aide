@@ -3,29 +3,30 @@
 Responsibilities and Instruction Manuals for the Research Aide Position
 
 
-### Assigning_New_Cases.md
+### [Everyday Responsibilities](Regular_Tasks.md)
+
+The Daily, Weekly, and Monthly breakdown of tasks.
+
+### [Assigning New Cases](Assigning_New_Cases.md)
 
 A written breakdown of the process for assigning cases.
 
-### [Requesting_Restricted_Access_Data.md](Requesting_Restricted_Access_Data.md)
+### [Requesting Restricted Access Data](Requesting_Restricted_Access_Data.md)
 
 Instructions for cases where the author(s) have indicated on the DCAF that they can make restricted-access data available to the Data Editor privately.
 
-### [Training_Setup.md](Training_Setup.md)
+### [Hiring and Training Setup](Hiring_and_Training_Setup.md)
 
 Detailed instructions on everything related to the hiring and training of RAs. Additionally, the "Training" folder includes the template csv files and mapping file for bulk importing training cases.
 
-### [PandP_Setup.md](PandP_Setup.md)
+### [P & P Setup](PandP_Setup.md)
 
-Contains step-by-step instructions on the setup needed for PandP. A note to Sofia - I've done this for 2023, with the exception of granting RAs access.
+Contains step-by-step instructions on the setup needed for PandP. A note to Ilanith - I've done this for 2025, with the exception of granting RAs access.
 
-### [PendingICPSR_Changes_SOP.md](PendingICPSR_Changes_SOP.md)
 
-Instructions on handling cases that are "Pending OpenICPSR changes"
+### [Email Templates](Email-Templates.md)
 
-### Reminder-to-submit.md
-
-When a package has not been formally submitted, authors have not chosen a license, nor agreed that they have the rights to publish the data.
+Email templates for when an author needs a reminder to submit their openICPSR package, when they answered "Yes" to a [submission question](https://aeadataeditor.github.io/aea-de-guidance/data-deposit-aea.html#submission-questions), when they haven't made revisions, and when we're requesting restricted access data.
 
 ### External_Reports.md
 
