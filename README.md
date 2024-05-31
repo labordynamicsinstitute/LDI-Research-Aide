@@ -1,5 +1,6 @@
 # LDI-Research-Aide
-Responsibilities and Instruction Manuals for the Research Aide Position 
+
+Responsibilities and Instruction Manuals for the Research Aide Position
 
 
 ### Assigning_New_Cases.md
