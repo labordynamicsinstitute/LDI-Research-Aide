@@ -19,6 +19,10 @@ Instructions for cases where the author(s) have indicated on the DCAF that they 
 
 Detailed instructions on everything related to the hiring and training of RAs. Additionally, the "Training" folder includes the template csv files and mapping file for bulk importing training cases.
 
+### [Data Editor Emails](Data-Editor-Email-Protocol.md)
+
+Certain emails that the `dataeditor@aeapubs.org` account recieves require action, such as the Lineup emails.
+
 ### [P & P Setup](PandP_Setup.md)
 
 Contains step-by-step instructions on the setup needed for PandP. A note to Ilanith - I've done this for 2025, with the exception of granting RAs access.
@@ -27,6 +31,10 @@ Contains step-by-step instructions on the setup needed for PandP. A note to Ilan
 ### [Email Templates](Email-Templates.md)
 
 Email templates for when an author needs a reminder to submit their openICPSR package, when they answered "Yes" to a [submission question](https://aeadataeditor.github.io/aea-de-guidance/data-deposit-aea.html#submission-questions), when they haven't made revisions, and when we're requesting restricted access data.
+
+### [Writing a Short Report](Writing-Short-Report.md)
+
+When there's no README in the deposit, write a short report for the authors.
 
 ### External_Reports.md
 

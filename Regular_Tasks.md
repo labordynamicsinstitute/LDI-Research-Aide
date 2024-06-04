@@ -19,7 +19,7 @@
     - `openICPSR Project Number` 
     - `Software Used` (from openICPSR deposit)
 
-2. When checking the software in the openICPSR deposit, open the README and make sure it exists. If there is no README in the openICPSR deposit, make a short report.
+2. When checking the software in the openICPSR deposit, open the README and make sure it exists. If there is no README in the openICPSR deposit or the deposit is empty, make a [short report](Writing-Short-Report.md).
 3.  Check if the case is a Revision and mark it as such.
 4. Check that there is a manuscript attached, and [add one](https://github.com/AEADataEditor/LDI-Research-Aide/blob/main/Regular_Tasks.md#if-no-manuscript) if not.
 
@@ -50,3 +50,5 @@ Check if the case is a Revision by going to the *Other Links* tab and clicking t
 ### Weekly Tasks
 
 1. Timesheet entry
+2. Check or assign urgent Assess cases
+3. 

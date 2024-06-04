@@ -49,7 +49,7 @@ https://aeadataeditor.github.io/aea-de-guidance/preparing-for-data-deposit.html#
 
 After replication is complete (case is in *Pending openICPSR Changes* or *Assess openICPSR Changes* and there's no post-publication reproducibility check subtask),
 
-- Delete the data from the L: drive and Box and then reply to the author that the data has been deleted.
+- **Delete the data from the L: drive and Box**, disable the File Request Link, and move the aearep-xxx folder to "Completed".
 - Respond to previous email to author:
 
 >

@@ -108,8 +108,13 @@ Thank you,
     - "Manuscript Central identifier" (i.e. AER-0000-1234)
     -  'Comment" Add link to proper PDF of manuscript ([PDF_Proofs](https://labordynamicsinstitute.github.io/replicability-training-solutions/)).
 8. Grant RA's access to download ICPSR deposit (students will need to create their accounts with ICPSR first).
-10. Create "Placeholder" tickets for each RA in Jira. The best way to do this is through the same bulk process as creating the training cases (a placeholder csv file can be found [here](https://github.com/AEADataEditor/LDI-Research-Aide/tree/main/Training). Be sure to change the "Import to Project" field from "AEA Training" to "AEA Replication - Default". Then convert each issue to a subtask for the Master Placeholder aearep-1407 (unsure if there is a way to bulk convert to subtask).
+10. Create "Placeholder" tickets for each RA in Jira. The best way to do this is through the same bulk process as creating the training cases (a placeholder csv file can be found [here](https://github.com/AEADataEditor/LDI-Research-Aide/tree/main/Training)). Be sure to change the "Import to Project" field from "AEA Training" to "AEA Replication - Default". Then convert each issue to a subtask for the Master Placeholder aearep-1407 (unsure if there is a way to bulk convert to subtask).
 11. Add students to [listserv](https://www.list.cornell.edu).
 12. Go to "/Box/Office of AEA Data Editor/Student Employment/Current_Hire-Exit_Checklists" and create a new exit checklist file for each student. This way we can track what has been done when exiting a student in the future.
 
 5. After training, grade reports using https://github.com/labordynamicsinstitute/replicability-training-solutions as a reference
+
+
+### Removal of Student RA
+
+https://bitbucket.org/aeaverification/workspace/settings/user-directory
