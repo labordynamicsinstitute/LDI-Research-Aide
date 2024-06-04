@@ -127,3 +127,28 @@ After replication is complete (case is in *Pending openICPSR Changes* or *Assess
 >
 > This email is confirm that we have deleted the restricted access data for "[Title]" from our workspaces. Your deposit is being moved along in the replication process.
 >
+
+## Email timesheet for AEA RAs
+
+
+
+> Below are FirstName LastName hours worked (at $15.xx per hour)
+> 
+> 2/22 - 2/28 --6.83 hours ( $104.16)
+> 
+> 2/29 - 2/6 -- 8.1 hours ($123.53)
+> 
+> 3/7 - 3/13 -- 2 hours ($30.50)
+> 
+> \-------------------------------------------------------------------------------
+>
+> Here are FirstName LastName hours worked (at $15.25 per hour):
+> 
+> 
+> 2/22 - 2/28 --6.83 hours ( $104.16)
+> 
+> 2/29 - 2/6 -- 8.1 hours ($123.53)
+> 
+> 3/7 - 3/13 -- 2 hours ($30.50)
+> 
+> 
