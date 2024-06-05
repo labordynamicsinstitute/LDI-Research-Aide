@@ -23,7 +23,8 @@ Current Research Aide [RA] and  Data Editor [DE] onboards incoming replacement [
   - `ldilab`: "SendAs" and "Access" permissions
   - `ldi`: "Access" only permissions
 - [RA, DE] Add to `LDI-Lab-l` listserv at [https://www.list.cornell.edu/](https://www.list.cornell.edu/)
-- [DE]  Add user as co-host for the [ldi@cornell.edu Zoom account](https://zoom.us/) (Note: not a regular Cornell zoom account)
+- [DE]  Add [R] as co-host for the [ldi@cornell.edu Zoom account](https://zoom.us/) (Note: not a regular Cornell zoom account)
+- [RA, DE] Add [R] to Slack channel (deactivate upon exit)
 
 
 ### Drive space
