@@ -20,6 +20,8 @@ Current Research Aide [RA] and  Data Editor [DE] onboards incoming replacement [
 
 - [DE] shares password to `dataeditor@aeapubs.org` and `dataeditor-queue@aeapubs.org` email account via **LastPass**. Access is via [https://www.vilhuber.com/aea/](https://www.vilhuber.com/aea/)
 - [DE] Add to `ldilab@cornell.edu` and `ldi@cornell.edu` ([Cornell EGA management](https://it.cornell.edu/resource-accounts/find-resource-accounts-exchange-account-manager))
+  - `ldilab`: "SendAs" and "Access" permissions
+  - `ldi`: "Access" only permissions
 - [RA, DE] Add to `LDI-Lab-l` listserv at [https://www.list.cornell.edu/](https://www.list.cornell.edu/)
 - [DE]  Add user as co-host for the [ldi@cornell.edu Zoom account](https://zoom.us/) (Note: not a regular Cornell zoom account)
 
@@ -31,7 +33,11 @@ Current Research Aide [RA] and  Data Editor [DE] onboards incoming replacement [
 
 ### Third-party connections
 
-- [DE] shares password for [ScholarOne/MC Central](https://mc.manuscriptcentral.com/aer) via LastPass
+- [DE] shares password for [ScholarOne/MC Central](https://mc.manuscriptcentral.com/aer) (which is `dataeditor-queue@aeapubs.org`) via LastPass
+- [DE] shares password to Atlassian for `dataeditor@aeapubs.org` for access to management tools on Jira, via LastPass
+- [DE] adds [R] as `curator` on Zenodo (optional, as needed)
+- [DE] shares password for `dataeditor@aeapubs.org` for [Code Ocean](https://codeocean.com) (optional, as needed).
+  - [R] also needs own account on Code Ocean.
 - [RA, DE] Request OpenICPSR Admin Permissions via email to [Kyrani Simon](karsimon@umich.edu)
 - [DE] adds [R]'s Github ID to Github [AEADataEditor](https://github.com/AEADataEditor/) and [Labor Dynamics Institute](https://github.com/labordynamicsinstitute) projects
 
