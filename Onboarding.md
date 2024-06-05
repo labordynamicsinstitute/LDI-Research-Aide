@@ -33,6 +33,7 @@ Current Research Aide [RA] and  Data Editor [DE] onboards incoming replacement [
 
 - [DE] shares password for [ScholarOne/MC Central](https://mc.manuscriptcentral.com/aer) via LastPass
 - [RA, DE] Request OpenICPSR Admin Permissions via email to [Kyrani Simon](karsimon@umich.edu)
+- [DE] adds [R]'s Github ID to Github [AEADataEditor](https://github.com/AEADataEditor/) and [Labor Dynamics Institute](https://github.com/labordynamicsinstitute) projects
 
 
 ## Pre-doctoral
