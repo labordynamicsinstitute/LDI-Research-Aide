@@ -5,7 +5,7 @@ Responsibilities and Instruction Manuals for the Research Aide Position
 
 ### [Everyday Responsibilities](Regular_Tasks.md)
 
-The Daily, Weekly, and Monthly breakdown of tasks.
+The Daily, Bi- Weekly, Weekly, and Semesterly breakdown of tasks.
 
 ### [Assigning New Cases](Assigning_New_Cases.md)
 
@@ -19,9 +19,13 @@ Instructions for cases where the author(s) have indicated on the DCAF that they 
 
 Detailed instructions on everything related to the hiring and training of RAs. Additionally, the "Training" folder includes the template csv files and mapping file for bulk importing training cases.
 
-### [Data Editor Emails](Data-Editor-Email-Protocol.md)
+### [Data Editor Email Inbox](Data-Editor-Email-Protocol.md)
 
 Certain emails that the `dataeditor@aeapubs.org` account recieves require action, such as the Lineup emails.
+
+### [Your Email Inbox](Email-Inbox.md)
+
+Certain emails that your Cornell email account recieves require action.
 
 ### [P & P Setup](PandP_Setup.md)
 
@@ -36,7 +40,7 @@ Email templates for when an author needs a reminder to submit their openICPSR pa
 
 When there's no README in the deposit, write a short report for the authors.
 
-### External_Reports.md
+### [External Reproducibility Check](External-Reproducibility-Reports)
 
 Instructions on requesting reproducibility checks from a third-party, and how to integrate their report.
 

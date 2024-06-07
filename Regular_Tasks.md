@@ -23,6 +23,10 @@
 3.  Check if the case is a Revision and mark it as such.
 4. Check that there is a manuscript attached, and [add one](https://github.com/AEADataEditor/LDI-Research-Aide/blob/main/Regular_Tasks.md#if-no-manuscript) if not.
 
+#### Non-standard unassigned cases
+
+- Jira ticket titled [Contact form submission](Contact-Form-Submission.md)
+
 ### Check if case is a revision:
 
 Check if the case is a Revision by going to the *Other Links* tab and clicking the `JiraSearchMC`. If there are other Jira issues (not subtasks or FYIs), then it is a Revision.
@@ -47,8 +51,24 @@ Check if the case is a Revision by going to the *Other Links* tab and clicking t
 4. Attach the PDF to the Jira ticket.
 
 
+### Bi-Weekly Tasks
+
+#### Attendance
+- Take attendance in this [Google Form](https://docs.google.com/spreadsheets/d/1_UeEwNXQqWteKaPNB-aApLlaFqu9SSHOLbBApgC7YT4/edit?usp=sharing) every Monday and Thursday
+- Mark "E" for excused when the RA emails their update before the meeting
+- After the 11am meeting on Thursday, send an email to the unexcused absences:
+
+> Subject:  LDI Status Update (Response Required)
+
+Examples of emails sent to students:
+
+> Hi [RA],
+> We didn't see you at the [Monday/Thursday]. Please email us what cases you're working through and what you plan to get done by the next meeting. In any instance where you can't attend a meeting, please email us an update on what you've been working on. Thank you.
+
+> ​Hi [RA],
+> We didn't see you at the Monday meeting. You've had a case in "Assigned" since [date]. Please respond to this email with an update of the cases you've been working on and what you expect to complete this week. Thank you.
+
 ### Weekly Tasks
 
 1. Timesheet entry
 2. Check or assign urgent Assess cases
-3. 

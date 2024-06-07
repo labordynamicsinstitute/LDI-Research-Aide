@@ -1,6 +1,6 @@
-# When you get certain tags in Jira
+# Email Inbox
 
-## From Jenna
+## Jira tags from Jenna
 
 When Jenna tags you and Lars and says something like:
 

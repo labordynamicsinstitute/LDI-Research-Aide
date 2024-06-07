@@ -47,3 +47,4 @@ Current Research Aide [RA] and  Data Editor [DE] onboards incoming replacement [
 
 - Add to `economics-field-students-l@list.cornell.edu` listserv by requesting from [Amy Moesch](alg5@cornell.edu)
 - Connect with CIDER pre-doc group by contacting [Kelsey Lynn Schreiber](kls329@cornell.edu)
+- Consider applying to NSF GRFP in your second year (Deadline in October)
