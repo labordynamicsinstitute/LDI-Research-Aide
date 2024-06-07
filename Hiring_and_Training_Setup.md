@@ -3,17 +3,30 @@
 ### Hiring
 
 #### Timelines:
+
   - Fall: Post mid-July and train mid to late August
   - Spring: Post mid-November and train mid January
   - Summer: Post mid-March and train late April
 
+**Note**: In the [Replication Project Resumes](https://docs.google.com/spreadsheets/d/1Ic4UgBR3gNFvgyFigJ5SAnx0rZwlp9vu_9OV39YoXQQ/edit?pli=1#gid=991404332) Live sheet, the names highlighted in yellow are people we may or definitely will want to rehire (some leave for the summer or something). Double check with Lars if we want to reach out to them for re-hire.
+
 #### Post the job:
+
 1. Hiring Google Form is [here](https://forms.gle/QoZdqeLab4dwB25Q7). Update the form so that the responses go to a new sheet in the "Replication Project Resumes" file.
-2. Copy one of the previous posting documents in "Box/LDI Replication Lab/" and update it accordingly.
-3. Email ILR Student Employment (ilr_student_empl@cornell.edu) to copy exising RA Workday posting with adjusted wages
-4. Update the job posting on the [LDI website](https://www.ilr.cornell.edu/labor-dynamics-institute)
-   - Update may need to be done by somebody with access rights to [Drupal website](https://d8-edit.ilr.cornell.edu/user/login) [(How to edit)](https://www.ilr.cornell.edu/faculty-and-staff-resources/web-services/drupal-documentation/editing-basic-page)
-   - Contact Sara Brooks (seb349@cornell.edu) to make edits to website
+2. Email ILR Student Employment (ilr_student_empl@cornell.edu) to copy exising RA Workday posting with adjusted wages
+3. Update the job posting on the [LDI website](https://www.ilr.cornell.edu/labor-dynamics-institute)
+   - Contact Sara Brooks (seb349@cornell.edu) to make edits to website. Tell her the edits to make:
+
+<blockquote>
+
+- Starting wage is $[Level II wage] per hour
+- Training will take place on [Date] in person
+- How to Apply: 
+  - Log in to Workday via http://studentemployment.cornell.edu/jobs/student-job-and-intern-service and search for job listing WDR-[UPDATED NUMBER]. (The text can be seen without logging in, but you must be logged in to apply.)
+  - [UPDATED WORKDAY LINK]
+  - Additionally, you must complete the form here, https://forms.gle/xtXTCdDgTsnZRvuD6, to be considered.
+</blockquote>
+
    - Copy from previous posting, adjust title and ensure URL reads correctly
    - Link to Workday posting and to Google Form may need to be added (see below why they do not carry over)
 
@@ -26,6 +39,50 @@
 - CIS: Julia Aquadro (Assistant Director of Undergraduate Advising) jra269@cornell.edu
 
 - If the person you emailed no longer works for that department, google their former title and find the new person in that position
+
+Email template to staff:
+
+> Subject: LDI is Hiring Undergraduates for [Semester] 2024
+
+
+​<blockquote>​
+Hello,
+
+We are looking to spread the word about our hiring of RAs this coming [semester]. Could you please share this with your students? Thank you so much
+
+The Labor Dynamics Institute is looking for 10 RAs to hire for [semester] 2024
+
+To learn more: https://www.ilr.cornell.edu/labor-dynamics-institute/ldi-news/join-ldis-replication-lab
+
+
+To apply:
+
+Apply via Workday: Job Requisition ID WDR-0000000
+
+And fill out the required google form: https://forms.gle/fP24wBvJ8VLdgkZX6
+
+</blockquote>
+
+Email template to student listserv:
+
+> Subject: LDI is Hiring Undergraduates for [Semester] 2024
+
+
+​<blockquote>​
+
+The Labor Dynamics Institute is looking for 10 RAs to hire for [semester] 2024
+
+To learn more: https://www.ilr.cornell.edu/labor-dynamics-institute/ldi-news/join-ldis-replication-lab
+
+
+To apply:
+
+Apply via Workday: Job Requisition ID WDR-0000000
+
+And fill out the required google form: https://forms.gle/fP24wBvJ8VLdgkZX6
+
+</blockquote>
+
 
 #### Review
 
@@ -67,7 +124,9 @@ Thank you,
 ---
 
 #### Close position
+
 - Close Workday posting
+- Stop accepting submissions on Google Form
 - Accept new RAs on Workday
 - Leave LDI page up, but remove link to Google Form
 
@@ -114,7 +173,52 @@ Thank you,
 
 5. After training, grade reports using https://github.com/labordynamicsinstitute/replicability-training-solutions as a reference
 
+### Edit Replication Resumes
 
-### Removal of Student RA
+- Copy the new RAs into the Live sheet.
+- Update the columns for *"Start Date"* (column AB) and *"WD End Date (last updated mm/dd/yy)"*
 
-https://bitbucket.org/aeaverification/workspace/settings/user-directory
+## Exit Checklist
+
+
+### Graduated Students
+
+[ ] Remove from LDI-Lab mailing list.
+[ ] In Jira, transition the “Placeholder” ticket to “Done.”
+[ ] Remove from Jira (log in as “dataeditor@aeapubs.org” > People > Manage Users > Total Users > Click on the RA > “Remove user”).
+[ ] Remove from Bitbucket (aeaverification workspace > Workspace settings > [Users on plan](https://bitbucket.org/aeaverification/workspace/settings/user-directory) > Then remove access).
+[ ] Remove from calendar invites (Monday and Thursday meetings).
+[ ] Update Replication Project Resumes sheet.
+[ ] Request removal of admin access from OpenICPSR (for submitters only).
+[ ] Lars remove LastPass share of ScholarOne password (for submitters only).
+
+### Mid-Year Departure
+
+[ ] Lars to send email notifying the RA of termination.
+[ ] Remove from LDI-Lab mailing list.
+[ ] In Jira, transition the “Placeholder” ticket to “Done.”
+[ ] Remove from Jira (log in as “dataeditor@aeapubs.org” > People > Manage Users > Total Users > Click on the RA > “Remove user”).
+[ ] Remove from Bitbucket (aeaverification workspace > Workspace settings > Users on plan > Then remove access).
+[ ] Remove from calendar invites (Monday and Thursday meetings).
+[ ] Update Replication Project Resumes sheet.
+[ ] Email ilr_student_empl@cornell.edu (cc Lars) to inform HR that the student is being terminated.
+[ ] Email ciser@cornell.edu to request that their account be disabled.
+[ ] Request removal of admin access from OpenICPSR (for submitters only).
+[ ] Lars remove LastPass share of ScholarOne password (for submitters only).
+
+Email template:
+
+---
+Dear [RA],
+
+I have come to the unfortunate conclusion that your  availability and the needs of the LDI Replication Lab are not well aligned. As of immediately, I am ending your relationship with the LDI Project.
+
+[Ilanith] will be processing the exit procedures.
+
+I thank you for your efforts, and wish you well in your future endeavors.
+
+Sincerely,
+
+Lars
+
+---

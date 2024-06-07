@@ -7,6 +7,10 @@ Responsibilities and Instruction Manuals for the Research Aide Position
 
 The Daily, Bi- Weekly, Weekly, and Semesterly breakdown of tasks.
 
+### [Check Unassigned Cases](Check-Unassigned-Cases.md)
+
+Part of the daily routine, details on how to check the new unassigned cases.
+
 ### [Assigning New Cases](Assigning_New_Cases.md)
 
 A written breakdown of the process for assigning cases.
@@ -29,7 +33,7 @@ Certain emails that your Cornell email account recieves require action.
 
 ### [P & P Setup](PandP_Setup.md)
 
-Contains step-by-step instructions on the setup needed for PandP. A note to Ilanith - I've done this for 2025, with the exception of granting RAs access.
+Contains step-by-step instructions on the setup needed for PandP. A note to Ilanith - I've done this for 2025, with the exception of granting RAs access and updating the [manual chapter](https://labordynamicsinstitute.github.io/ldilab-manual/40-Instructions-PandP-Checks.html#step-1) to include the PandP 2025 links.
 
 
 ### [Email Templates](Email-Templates.md)
@@ -40,9 +44,16 @@ Email templates for when an author needs a reminder to submit their openICPSR pa
 
 When there's no README in the deposit, write a short report for the authors.
 
-### [External Reproducibility Check](External-Reproducibility-Reports)
+### [External Reproducibility Check](External-Reproducibility-Reports.md)
 
 Instructions on requesting reproducibility checks from a third-party, and how to integrate their report.
+
+### [Contact Form Submissions](Contact-Form-Submission.md)
+
+The unassigned Jira tickets that are titled `"Contact form submission (researcher@university.edu, FirstName LastName)"`
+
+
+**Note from Sofia: All .md files below I have not edited. They may be outdated.**
 
 ### Legacy_Updates.md
 

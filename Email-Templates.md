@@ -101,55 +101,57 @@ Subject Line:
 
 Send it to authors, cc to `dataeditor-queue@aeapubs.org` and  `dataeditor@aeapubs.org`.
 
-> Dr. *Author*,
-> 
-> We received a request to conduct the AEA reproducibility check for your manuscript entitled "X." On the Data and Code Availability form which you submitted it was indicated that the data can be made available to the Data Editor privately. Would it be possible for you to provide the restricted-access data so that we may proceed to verify the reproducibility of the entire replication package? The data would not be published, and would be deleted by us once we have completed our process. Our preferred sharing method is a Box File Request (specific to your manuscript), the link for which can be found below, but can alternatively happen via Dropbox or similar means, and should be compliant with your data use agreement.
-> 
-> Box File Request (navigate to the link below and upload the file(s)):
-> [Insert Box File Request Link Here]
->
-> We note that all data sharing with the Data Editor should be in compliance with all applicable data use agreements. Please check before sharing.
-> 
-> Please note that the replicator will ignore any code or public data sent via Box. For more information on what to share with the Data Editor:
+<blockquote>
+
+Dr. *Author*,
+
+We received a request to conduct the AEA reproducibility check for your manuscript entitled "X." On the Data and Code Availability form which you submitted it was indicated that the data can be made available to the Data Editor privately. Would it be possible for you to provide the restricted-access data so that we may proceed to verify the reproducibility of the entire replication package? The data would not be published, and would be deleted by us once we have completed our process. Our preferred sharing method is a Box File Request (specific to your manuscript), the link for which can be found below, but can alternatively happen via Dropbox or similar means, and should be compliant with your data use agreement.
+
+Box File Request (navigate to the link below and upload the file(s)):
+[Insert Box File Request Link Here]
+
+We note that all data sharing with the Data Editor should be in compliance with all applicable data use agreements. Please check before sharing.
+
+Please note that the replicator will ignore any code or public data sent via Box. For more information on what to share with the Data Editor:
 https://www.aeaweb.org/journals/data/faq#confidential
 https://aeadataeditor.github.io/aea-de-guidance/preparing-for-data-deposit.html#structure-in-the-presence-of-confidential-unpublished-data
-> 
-> For more guidance on how to legally and practically share restricted data with the Data Editor:
-> 
-> https://aeadataeditor.github.io/aea-de-guidance/sharing-restricted-data.html
-> 
-> If you have any questions please do not hesitate to ask.
-> Thank you!
+
+For more guidance on how to legally and practically share restricted data with the Data Editor:
+ https://aeadataeditor.github.io/aea-de-guidance/sharing-restricted-data.html
+
+If you have any questions please do not hesitate to ask.
+Thank you!
+</blockquote>
 
 After replication is complete (case is in *Pending openICPSR Changes* or *Assess openICPSR Changes* and there's no post-publication reproducibility check), respond to previous email:
 
->
-> Hello Dr. *Author*,
->
-> This email is confirm that we have deleted the restricted access data for "[Title]" from our workspaces. Your deposit is being moved along in the replication process.
->
+<blockquote>
+
+ Hello Dr. *Author*,
+
+This email is confirm that we have deleted the restricted access data for "[Title]" from our workspaces. Your deposit is being moved along in the replication process.
+</blockquote>
+
 
 ## Email timesheet for AEA RAs
 
 
+<blockquote>
 
-> Below are FirstName LastName hours worked (at $15.xx per hour)
-> 
-> 2/22 - 2/28 --6.83 hours ( $104.16)
-> 
-> 2/29 - 2/6 -- 8.1 hours ($123.53)
-> 
-> 3/7 - 3/13 -- 2 hours ($30.50)
-> 
-> \-------------------------------------------------------------------------------
->
-> Here are FirstName LastName hours worked (at $15.25 per hour):
-> 
-> 
-> 2/22 - 2/28 --6.83 hours ( $104.16)
-> 
-> 2/29 - 2/6 -- 8.1 hours ($123.53)
-> 
-> 3/7 - 3/13 -- 2 hours ($30.50)
-> 
-> 
+Below are FirstName LastName hours worked (at $15.25 per hour)
+
+2/22 - 2/28 -- 2 hours ($30.50)
+
+2/29 - 2/6 -- x hours ($ )
+
+3/7 - 3/13 -- x hours ($ )
+
+-------------------------------------------------------------------------------
+Here are FirstName LastName hours worked (at $15.25 per hour):
+
+2/22 - 2/28 -- x hours ( $ )
+
+2/29 - 2/6 -- x hours ($ )
+
+3/7 - 3/13 -- x hours ($ )
+</blockquote>

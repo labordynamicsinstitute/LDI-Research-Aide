@@ -30,7 +30,8 @@ The AEAREP number being the number of the subtask for Part B.
 
 Email Template:
 
-```
+<blockquote>
+
 Dear Olivier, Christophe,
 
 I would like to ask if you are able to review another manuscript for us.
@@ -46,7 +47,8 @@ Code: https://www.openicpsr.org/openicpsr/workspace?goToPath=/openicpsr/123456
 Please file your report via reply-all to this email, within the next 10 days or as soon as possible.
 
 Thank you!
-```
+</blockquote>
+
 
 
 ### Third-Party Replicator (Non-Cascad)
