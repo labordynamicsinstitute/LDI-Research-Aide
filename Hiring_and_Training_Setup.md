@@ -10,6 +10,11 @@
 
 **Note**: In the [Replication Project Resumes](https://docs.google.com/spreadsheets/d/1Ic4UgBR3gNFvgyFigJ5SAnx0rZwlp9vu_9OV39YoXQQ/edit?pli=1#gid=991404332) Live sheet, the names highlighted in yellow are people we may or definitely will want to rehire (some leave for the summer or something). Double check with Lars if we want to reach out to them for re-hire.
 
+### Training schedule
+
+Lars, Research Aide, and GRA meet and discuss a training date. Research Aide then updates the [github page](https://github.com/labordynamicsinstitute/replicability-training) for the [website](https://labordynamicsinstitute.github.io/replicability-training/).
+
+
 #### Post the job:
 
 1. Hiring Google Form is [here](https://forms.gle/QoZdqeLab4dwB25Q7). Update the form so that the responses go to a new sheet in the "Replication Project Resumes" file.
@@ -130,13 +135,18 @@ Thank you,
 - Accept new RAs on Workday
 - Leave LDI page up, but remove link to Google Form
 
-### Training schedule
 
-3. Lars, Research Aide, and GRA meet and discuss a training schedule. Research Aide then drafts a schedule for Lars to review and update the [github page](https://github.com/labordynamicsinstitute/replicability-training) for the [website](https://labordynamicsinstitute.github.io/replicability-training/). 
-4. Track which students accept the training invitation in the "Replication Project Resumes" spreadsheet.
-5. Once training schedule is set and new RA's have accepted the invitation to the Lab, send out invites (LDI Zoom links) to Day 1 of the training and the following peer review sessions. 
 
-### Training Preparation
+### Onboarding and Training Preparation
+
+- Copy the new RAs into the Live sheet.
+- Update the columns for *"Start Date"* (column AB) and *"WD End Date (last updated mm/dd/yy)"*
+- Track which students accept the training invitation in the "Replication Project Resumes" spreadsheet.
+- Once training schedule is set and new RA's have accepted the invitation to the Lab, send out invites (LDI Zoom links) to Day 1 of the training and the following peer review sessions.
+- Add students to [listserv](https://www.list.cornell.edu).
+- Go to "/Box/Office of AEA Data Editor/Student Employment/Current_Hire-Exit_Checklists" and create a new exit checklist file for each student. This way we can track what has been done when exiting a student in the future.
+
+#### Bitbucket and Jira Training Preparation
 
 1. Add new trainees to the Bitbucket `aeaverification` team as "Developers" [here](https://bitbucket.org/account/user/aeaverification/groups/developers/) by pasting their email into the search bar under "Add member", and clicking "Confirm".
 2. Pre-approver link: https://aeadataeditors.atlassian.net/plugins/servlet/project-config/AEAREP/people
@@ -149,7 +159,7 @@ Thank you,
     - Product roles is defaulted to `User`
     - Group membership: `trainees`, `replicators`, and `jira-software-users`
     - Click "Invite users"
-3. Bulk import test cases to Jira:
+4. Bulk import test cases to Jira:
   - First, modify the existing [CSV file](https://github.com/AEADataEditor/LDI-Research-Aide/tree/main/Training) with the new "email" and "duedate" fields.
   - Remember to create one for Lars for the first Stata case, and one for each of the experienced RAs who are conducting the peer review sessions.
   - Go to the brown/red "Create" button in Jira, then select "Import issues".
@@ -161,50 +171,46 @@ Thank you,
 
   - Start import, then "check issues"
 
-4. The bulk importer does not map the openICPSR number field, nor allow for a link to the manuscript. From the "..." at the top right corner, choose "bulk change all x issue(s)", select all issues, and select "Transition Issues"
-5. bulk "transition" them from "Open" to "Assigned". You should then be presented the "Bulk Edit Screen" (if not you can just repeat these steps to get to the "Edit Issues" option of the bulk action screen). Then edit these fields
+5. The bulk importer does not map the openICPSR number field, nor allow for a link to the manuscript. From the "..." at the top right corner, choose "bulk change all x issue(s)", select all issues, and select "Transition Issues"
+6. bulk "transition" them from "Open" to "Assigned". You should then be presented the "Bulk Edit Screen" (if not you can just repeat these steps to get to the "Edit Issues" option of the bulk action screen). Then edit these fields
     - "openICPSR Project Number"
     - "Manuscript Central identifier" (i.e. AER-0000-1234)
     -  'Comment" Add link to proper PDF of manuscript ([PDF_Proofs](https://labordynamicsinstitute.github.io/replicability-training-solutions/)).
-8. Grant RA's access to download ICPSR deposit (students will need to create their accounts with ICPSR first).
-10. Create "Placeholder" tickets for each RA in Jira. The best way to do this is through the same bulk process as creating the training cases (a placeholder csv file can be found [here](https://github.com/AEADataEditor/LDI-Research-Aide/tree/main/Training)). Be sure to change the "Import to Project" field from "AEA Training" to "AEA Replication - Default". Then convert each issue to a subtask for the Master Placeholder aearep-1407 (unsure if there is a way to bulk convert to subtask).
-11. Add students to [listserv](https://www.list.cornell.edu).
-12. Go to "/Box/Office of AEA Data Editor/Student Employment/Current_Hire-Exit_Checklists" and create a new exit checklist file for each student. This way we can track what has been done when exiting a student in the future.
+7. Grant RA's access to download ICPSR deposit (students will need to create their accounts with ICPSR first).
+8. Create "Placeholder" tickets for each RA in Jira. The best way to do this is through the same bulk process as creating the training cases (a placeholder csv file can be found [here](https://github.com/AEADataEditor/LDI-Research-Aide/tree/main/Training)). Be sure to change the "Import to Project" field from "AEA Training" to "AEA Replication - Default". Then convert each issue to a subtask for the Master Placeholder aearep-1407 (unsure if there is a way to bulk convert to subtask).
 
-5. After training, grade reports using https://github.com/labordynamicsinstitute/replicability-training-solutions as a reference
 
-### Edit Replication Resumes
+9. After training, grade reports using https://github.com/labordynamicsinstitute/replicability-training-solutions as a reference
 
-- Copy the new RAs into the Live sheet.
-- Update the columns for *"Start Date"* (column AB) and *"WD End Date (last updated mm/dd/yy)"*
+
 
 ## Exit Checklist
 
 
 ### Graduated Students
 
-[ ] Remove from LDI-Lab mailing list.
-[ ] In Jira, transition the “Placeholder” ticket to “Done.”
-[ ] Remove from Jira (log in as “dataeditor@aeapubs.org” > People > Manage Users > Total Users > Click on the RA > “Remove user”).
-[ ] Remove from Bitbucket (aeaverification workspace > Workspace settings > [Users on plan](https://bitbucket.org/aeaverification/workspace/settings/user-directory) > Then remove access).
-[ ] Remove from calendar invites (Monday and Thursday meetings).
-[ ] Update Replication Project Resumes sheet.
-[ ] Request removal of admin access from OpenICPSR (for submitters only).
-[ ] Lars remove LastPass share of ScholarOne password (for submitters only).
+- [ ] Remove from LDI-Lab mailing list.
+- [ ] In Jira, transition the “Placeholder” ticket to “Done.”
+- [ ] Remove from Jira (log in as “dataeditor@aeapubs.org” > People > Manage Users > Total Users > Click on the RA > “Remove user”).
+- [ ] Remove from Bitbucket (aeaverification workspace > Workspace settings > [Users on plan](https://bitbucket.org/aeaverification/workspace/settings/user-directory) > Then remove access).
+- [ ] Remove from calendar invites (Monday and Thursday meetings).
+- [ ] Update Replication Project Resumes sheet.
+- [ ] Request removal of admin access from OpenICPSR (for submitters only).
+- [ ] Lars remove LastPass share of ScholarOne password (for submitters only).
 
 ### Mid-Year Departure
 
-[ ] Lars to send email notifying the RA of termination.
-[ ] Remove from LDI-Lab mailing list.
-[ ] In Jira, transition the “Placeholder” ticket to “Done.”
-[ ] Remove from Jira (log in as “dataeditor@aeapubs.org” > People > Manage Users > Total Users > Click on the RA > “Remove user”).
-[ ] Remove from Bitbucket (aeaverification workspace > Workspace settings > Users on plan > Then remove access).
-[ ] Remove from calendar invites (Monday and Thursday meetings).
-[ ] Update Replication Project Resumes sheet.
-[ ] Email ilr_student_empl@cornell.edu (cc Lars) to inform HR that the student is being terminated.
-[ ] Email ciser@cornell.edu to request that their account be disabled.
-[ ] Request removal of admin access from OpenICPSR (for submitters only).
-[ ] Lars remove LastPass share of ScholarOne password (for submitters only).
+- [ ] Lars to send email notifying the RA of termination.
+- [ ] Remove from LDI-Lab mailing list.
+- [ ] In Jira, transition the “Placeholder” ticket to “Done.”
+- [ ] Remove from Jira (log in as “dataeditor@aeapubs.org” > People > Manage Users > Total Users > Click on the RA > “Remove user”).
+- [ ] Remove from Bitbucket (aeaverification workspace > Workspace settings > Users on plan > Then remove access).
+- [ ] Remove from calendar invites (Monday and Thursday meetings).
+- [ ] Update Replication Project Resumes sheet.
+- [ ] Email ilr_student_empl@cornell.edu (cc Lars) to inform HR that the student is being terminated.
+- [ ] Email ciser@cornell.edu to request that their account be disabled. (may no longer be applicable with CCSS Cloud)
+- [ ] Request removal of admin access from OpenICPSR (for submitters only).
+- [ ] Lars remove LastPass share of ScholarOne password (for submitters only).
 
 Email template:
 
