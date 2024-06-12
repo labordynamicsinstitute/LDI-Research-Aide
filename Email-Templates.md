@@ -2,17 +2,28 @@
 
 Note that these are mostly just the email templates. If further instructions exist, they will be linked.
 
-## Giving open ICPSR Admin Access to RAs
 
-Email Kyrani (karsimon@umich.edu) from the data editor account.
 
-```
-Hi Kyrani,
-Can you remove admin access for FirstName LastName (ab123@cornell.edu)
-Can you also give admin access to FirstName LastName (xx123@cornell.edu) ? Thank you.
+## Reminding Students to Submit Timesheet
 
-```
 
+Email `ldi-lab-l@list.cornell.edu` every Wednesday morning (best to have these scheduled in advance)
+
+Remove last line if no non-Cornell students are RAs this semester.
+
+> Subject: Timesheet Reminder
+
+<blockquote>
+
+Here's your weekly reminder:
+- submit your timesheets by 5pm tonight
+- git push any edits you've made to bitbucket (do this at the end of every work session)
+- Move the Jira tickets to the appropriate status (also do this at the end of every work session)
+
+
+Non-Cornell students, use this timesheet: https://forms.gle/86GpVDjLM9FUgfcp7
+
+</blockquote>
 
 ## Revisions Requested
 
@@ -158,3 +169,14 @@ Here are FirstName LastName hours worked (at $15.25 per hour):
 
 3/7 - 3/13 -- x hours ($ )
 </blockquote>
+
+## Giving open ICPSR Admin Access to RAs
+
+Email Kyrani (karsimon@umich.edu) from the data editor account.
+
+```
+Hi Kyrani,
+Can you remove admin access for FirstName LastName (ab123@cornell.edu)
+Can you also give admin access to FirstName LastName (xx123@cornell.edu) ? Thank you.
+
+```
