@@ -34,7 +34,8 @@ When a case is stuck at *Pending openICPSR Changes* because the author hasn't ed
 
 ## Restricted Deposit
 
-When the open ICPSR deposit is labelled "Restricted" and/or they answered "Yes" to any of the [submission questions](https://aeadataeditor.github.io/aea-de-guidance/data-deposit-aea.html#submission-questions):
+When the open ICPSR deposit is labelled "Restricted" and/or they answered "Yes" to any of the [submission questions](https://aeadataeditor.github.io/aea-de-guidance/data-deposit-aea.html#submission-questions). 
+- IMPORTANT: **Remove** the line about "If you nevertheless think that access to the data should be restricted," if access is NOT, in fact, restricted.
 
 Subject Line:
 
@@ -43,7 +44,7 @@ Subject Line:
 
 > Hi Dr. [Author],
 > 
-> We're reviewing your open ICPSR deposit for "[Title]" (MC Number) and noticed you answered "Yes" for the submission questions on sensitive data and risks. We believe that answer may be in error.
+> We're reviewing your open ICPSR deposit for "[Title]" (MC Number) and noticed you answered "Yes" for one or both submission questions on sensitive data and risks. We are checking in with you to verify that those responses are correct.
 > 
 > Please answer these questions in regards to the data that are part of the deposit you are submitting. The answer should not consider any other data that may have been used as part of the manuscript’s analysis, but that are not present in this particular deposit. For most deposits, the correct answer to both questions is "No".
 >
