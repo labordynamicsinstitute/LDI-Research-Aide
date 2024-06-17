@@ -1,6 +1,6 @@
 # Instructions for Setting Up PandP Checks
 
-The instructions for the actual PandP checks done by the RA are [here](https://github.com/labordynamicsinstitute/replicability-training/blob/master/Instructions-PandP-Checks.md). The rest of this document contains instructions on what needs to be updated each year prior to conducting these checks.
+The instructions for the actual PandP checks done by the RA are [here](https://labordynamicsinstitute.github.io/ldilab-manual/40-Instructions-PandP-Checks.html). The rest of this document contains instructions on what needs to be updated each year prior to conducting these checks.
 
 1. Naivgate to the [PandP Google Drive Folder](https://drive.google.com/drive/folders/1A2kRP6-MdYbDmEP1YqpKuIfZltLDd3zu?usp=sharing). 
 2. Create a new folder "PandP *Current Year*" and move into it.
