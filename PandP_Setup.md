@@ -17,6 +17,6 @@ The instructions for the actual PandP checks done by the RA are [here](https://l
 13. Under "Upload to Google Drive" choose your newly created "PandP Docs" folder.
 14. Add as editors the RAs who will be conducting the checks.
 15. This should complete the setup. Anytime an RA completes the form a PDF should be generated and saved to the "PandP Docs" folder.
-16. Now, go back to the [instructions](https://github.com/labordynamicsinstitute/replicability-training/blob/master/Instructions-PandP-Checks.md) and update the link to the Google Form and the link to the Google Drive "PandP Docs" folder.
+16. Now, go back to the [instructions](https://labordynamicsinstitute.github.io/ldilab-manual/40-Instructions-PandP-Checks.html) and update the link to the Google Form and the link to the Google Drive "PandP Docs" folder.
 
 **Note that Document Studio (as of June 2024) only allows 25 submissions a week**
