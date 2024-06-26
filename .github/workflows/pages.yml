@@ -40,21 +40,21 @@ jobs:
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v5
-      - name: Replace secret in Jekyll config
-        run: |
-          sed -i "s/SECRETURL/${{ secrets.SECRETURL }}/" _config.yml
-          head _config.yml
+      # - name: Replace secret in Jekyll config
+      #   run: |
+      #     sed -i "s/SECRETURL/${{ secrets.SECRETURL }}/" _config.yml
+      #     head _config.yml
       - name: Build with Jekyll
         # Outputs to the './_site' directory by default
         run: bundle exec jekyll build --baseurl "${{ steps.pages.outputs.base_path }}"
         env:
           JEKYLL_ENV: production
-      - name: Obscuring URL
-        run: |
-          mkdir ./_site/${{ secrets.SECRETURL}}
-          mv ./_site/*.html ./_site/${{ secrets.SECRETURL}}
-          mv ./_site/[epo]* ./_site/${{ secrets.SECRETURL}}
-          mv ./_site/${{ secrets.SECRETURL}}/password.html ./_site/index.html
+      # - name: Obscuring URL
+      #   run: |
+      #     mkdir ./_site/${{ secrets.SECRETURL}}
+      #     mv ./_site/*.html ./_site/${{ secrets.SECRETURL}}
+      #     mv ./_site/[epo]* ./_site/${{ secrets.SECRETURL}}
+      #     mv ./_site/${{ secrets.SECRETURL}}/password.html ./_site/index.html
       - name: Upload artifact
         # Automatically uploads an artifact from the './_site' directory by default
         uses: actions/upload-pages-artifact@v3
