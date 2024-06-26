@@ -48,7 +48,7 @@ jobs:
       - name: Obscuring URL
         run: |
           mkdir ./_site/${{ secrets.SECRETURL}}
-          mv ./_site/* ./_site/${{ secrets.SECRETURL}}
+          mv ./_site/*.html ./_site/${{ secrets.SECRETURL}}
           mv ./_site/${{ secrets.SECRETURL}}/password.html ./_site/index.html
       - name: Upload artifact
         # Automatically uploads an artifact from the './_site' directory by default
