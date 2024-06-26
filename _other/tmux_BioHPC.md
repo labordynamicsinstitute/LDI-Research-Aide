@@ -1,4 +1,7 @@
-# TMUX on BioHPC
+---
+layout: default
+title:  TMUX on BioHPC
+--- 
 
 
 Cheatsheet: https://gist.github.com/MohamedAlaa/2961058

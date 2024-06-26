@@ -1,4 +1,7 @@
-# Writing a Short Report
+---
+layout: default
+title: Writing a Short Report
+---
 
 When the authors don't provide a README, any code, or the deposit is completely empty*, you submit a short report to ScholarOne.
 

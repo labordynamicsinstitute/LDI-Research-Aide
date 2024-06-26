@@ -1,4 +1,7 @@
-# Miscellaneous Programming Tips
+---
+layout: default
+title:  Miscellaneous Programming Tips
+--- 
 
 #### Compare files from one directory to another
 Find all files in one directory using bash/terminal:
