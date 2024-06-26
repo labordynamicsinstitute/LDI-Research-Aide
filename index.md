@@ -4,8 +4,6 @@ layout: home
 ---
 
 
-Responsibilities and Instruction Manuals for the Research Aide Position
-
 
 ### [Everyday Responsibilities](Regular_Tasks.md)
 

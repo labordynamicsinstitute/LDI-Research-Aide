@@ -1,8 +1,8 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: AEA Research Aide Manual
+description: Responsibilities and Instruction Manuals for the AEA Research Aide
 theme: just-the-docs
 
-url: https://aeadataeditor.github.io/LDI-Research-Aide/
+url: https://aeadataeditor.github.io/LDI-Research-Aide/SECRETURL
 
 aux_links:
   LDI Lab Manual: https://labordynamicsinstitute.github.io/ldilab-manual/
