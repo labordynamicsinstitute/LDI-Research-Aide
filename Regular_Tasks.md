@@ -1,4 +1,7 @@
-# Daily, Bi-Weekly, and Weekly Tasks
+---
+layout: default
+title: Daily, Bi-Weekly, and Weekly Tasks
+---
 
 ## Daily Tasks
 

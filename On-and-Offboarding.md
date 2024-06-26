@@ -1,4 +1,7 @@
-# Onboarding/Offboarding for Research Aide
+---
+layout: default
+title: Onboarding/Offboarding for Research Aide
+---
 
 Current Research Aide [RA] and  Data Editor [DE] onboards incoming replacement [R]. Tags identify who can do what. 
 

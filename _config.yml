@@ -2,7 +2,29 @@ title: Just the Docs Template
 description: A starter template for a Jeykll site using the Just the Docs theme!
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+url: https://aeadataeditor.github.io/LDI-Research-Aide/
 
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  LDI Lab Manual: https://labordynamicsinstitute.github.io/ldilab-manual/
+
+collections:
+  emails:
+    permalink: "/:collection/:path/"
+    output: true
+  procedures:
+    permalink: "/:collection/:path/"
+    output: true
+  other:
+    permalink: "/:collection/:path/"
+    output: true
+just_the_docs:
+  collections:
+    procedures:
+      name: Procedures
+      nav_fold: true
+    emails:
+      name: Email templates
+      nav_fold: false
+    other:
+      name: Other stuff
+      nav_fold: false

@@ -1,4 +1,8 @@
-# LDI-Research-Aide
+---
+title: LDI-Research-Aide
+layout: home
+---
+
 
 Responsibilities and Instruction Manuals for the Research Aide Position
 
