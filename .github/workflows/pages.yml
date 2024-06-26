@@ -43,7 +43,6 @@ jobs:
       - name: Replace secret in Jekyll config
         run: |
           sed -i "s/SECRETURL/${{ secrets.SECRETURL }}/" _config.yml
-          cat _config.yml
       - name: Build with Jekyll
         # Outputs to the './_site' directory by default
         run: bundle exec jekyll build --baseurl "${{ steps.pages.outputs.base_path }}"
