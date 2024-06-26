@@ -2,8 +2,8 @@ title: AEA Research Aide Manual
 description: Responsibilities and Instruction Manuals for the AEA Research Aide
 theme: just-the-docs
 
-url: https://aeadataeditor.github.io/LDI-Research-Aide # the base hostname & protocol for your site, e.g. http://example.com
-baseurl: "/xxxx" # the subpath of your site, e.g. /blog
+url: https://aeadataeditor.github.io/LDI-Research-Aide/xxxx # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/SECRETURL" # the subpath of your site, e.g. /blog
 repository: AEADataEditor/LDI-Research-Aide # for github-metadata
 
 
