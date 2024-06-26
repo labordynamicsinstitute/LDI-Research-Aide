@@ -24,7 +24,7 @@ just_the_docs:
       nav_fold: true
     emails:
       name: Email templates
-      nav_fold: false
+      nav_fold: true
     other:
       name: Other stuff
-      nav_fold: false
+      nav_fold: true
