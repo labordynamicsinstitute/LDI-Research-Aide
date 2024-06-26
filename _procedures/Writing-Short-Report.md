@@ -13,7 +13,7 @@ When the authors don't provide a README, any code, or the deposit is completely 
 - Fill out the bitbucket short name
 - If deposit is not empty, run the pipeline
 - Download the template for [the short report](REPLICATION-short.md)
-- Add the `REPLICATION-short.md` file to the repository and fill in accordingly.
+- Use the `draft-replication-noncompliant.md` file in the repository and fill in accordingly.
 - "Fast track" the Jira ticket to *Writing Report (Part C)*. In the pop-up window, fill out:
     - `Resolution` as "Not able to replicate"
     - `Reason for Failure to be Fully Reproducible` as "Missing README" and anything else relevant.
