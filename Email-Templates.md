@@ -110,6 +110,8 @@ Send it to the two authors, cc to `dataeditor-queue@aeapubs.org` and  `dataedito
 
 This is just the email template. For further instructions, refer to [Requesting Restricted-Access Data from Authors](Requesting_Restricted_Access_Data.md)
 
+---
+
 Subject Line:
 > Request for Restricted Access Data (AEAREP-xxx)
 
@@ -146,6 +148,42 @@ After replication is complete (case is in *Pending openICPSR Changes* or *Assess
 This email is confirm that we have deleted the restricted access data for "[Title]" from our workspaces. Your deposit is being moved along in the replication process.
 </blockquote>
 
+---
+
+## Request for External Reproducibility Check - cascad
+
+We sometimes request reproducibility checks from cascad (and possibly others). Email is sent to Olivier AKMANSOY <akmansoy@hec.fr>; Christophe PERIGNON <perignon@hec.fr>, with cc to dataeditor-queue and dataeditor. Note that the replicators should get access to openICPSR, but do not have access to JIRA. They usually prepare only a Part B - so Part A still needs to be assigned to a regular RA.
+
+### Prep
+
+Share the openICPSR deposit with akmansoy@hec.fr
+
+### Email
+
+Adjust the AEAREP and openICPSR numbers (xxxx)
+
+Subject Line:
+> External Reproducibility Check (AEAREP-xxx)
+
+
+<blockquote>
+Dear Olivier, Christophe,
+
+I would like to ask if you are able to review another manuscript for us.
+
+If you are able to conduct the reproducibility check, please prepare a reproducibility report for the following manuscript, code, and data:
+
+- Manuscript: Attached.
+- README: In the ICPSR repository.
+- Code: https://www.openicpsr.org/openicpsr/workspace?goToPath=/openicpsr/xxxxxxx
+
+Please let me know if you can do this, and when.
+
+Thank you!
+
+---
+
+Note that the email to a different replicator might be a bit more formal.
 
 ## Email timesheet for AEA RAs
 
