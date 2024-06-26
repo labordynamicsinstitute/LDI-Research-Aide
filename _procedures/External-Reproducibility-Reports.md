@@ -1,4 +1,7 @@
-# AEA: External Reports
+---
+layout: default
+title:  AEA: External Reports
+--- 
 
 Instances that require the use of restricted-access data for a full reproducibility check can occasionally be sent out for an external report. See the AEA [Policy and Protocol on Third-Party Verifications](https://www.aeaweb.org/journals/data/policy-third-party) for more information on who can conduct these external reports, and the steps that they should follow.
 

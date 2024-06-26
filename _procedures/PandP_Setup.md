@@ -1,4 +1,7 @@
-# Instructions for Setting Up PandP Checks
+---
+layout: default
+title:  Instructions for Setting Up PandP Checks
+--- 
 
 The instructions for the actual PandP checks done by the RA are [here](https://labordynamicsinstitute.github.io/ldilab-manual/40-Instructions-PandP-Checks.html). The rest of this document contains instructions on what needs to be updated each year prior to conducting these checks.
 

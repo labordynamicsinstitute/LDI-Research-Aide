@@ -1,4 +1,7 @@
-# Data Editor Email Tasks
+---
+layout: default
+title:  Data Editor Email Tasks
+--- 
 
 ## Submitted on openICPSR
 

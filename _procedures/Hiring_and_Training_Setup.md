@@ -1,4 +1,7 @@
-# Setup of Hiring and Training
+---
+layout: default
+title:  Setup of Hiring and Training
+--- 
 
 ### Hiring
 

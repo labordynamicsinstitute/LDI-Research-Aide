@@ -1,4 +1,7 @@
-# Using Data Under NDA
+---
+layout: default
+title:  Using Data Under NDA
+--- 
 
 Cases arise in which authors agree to provide data directly to the Data Editor after both parties sign a Non-Disclosure Agreement (NDA). In these cases, the author provides us with the data and the Data Editor places the files in the LDI Lab's folder on the shared S: drive ("S:\LDILab\.."). 
 

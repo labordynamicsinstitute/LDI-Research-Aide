@@ -1,4 +1,7 @@
-# Replications on CRADC
+---
+layout: default
+title:  Replications on CRADC
+--- 
 
 > INSTRUCTIONS:
 > - Develop updated procedures on how to run replication checks on CRADC.

@@ -1,4 +1,7 @@
-# Requesting Restricted-Access Data from Authors
+---
+layout: default
+title:  Requesting Restricted-Access Data from Authors
+--- 
 
 For cases where the author(s) have indicated on the DCAF that they can make restricted-access data available to the Data Editor privately, follow these steps:
 

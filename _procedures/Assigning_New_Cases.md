@@ -1,4 +1,7 @@
-# Assigning New Cases
+---
+layout: default
+title:  Assigning New Cases
+--- 
 
 1. Go the unassigned filter in Jira (*Dashboards* > *Admin Dashboard* > *AEA tasks by Assignee* section > scroll down to "*Unassigned*").
 

@@ -1,4 +1,7 @@
-# Check Unassigned Cases
+---
+layout: default
+title:  Check Unassigned Cases
+--- 
 
 ## Basic Instructions
 

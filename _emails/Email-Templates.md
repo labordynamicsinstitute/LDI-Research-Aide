@@ -1,4 +1,7 @@
-# Email Templates
+---
+layout: default
+title:  Email Templates
+--- 
 
 Note that these are mostly just the email templates. If further instructions exist, they will be linked.
 

@@ -1,4 +1,7 @@
-# Email Inbox
+---
+layout: default
+title:  Email Inbox
+--- 
 
 ## Jira tags from Jenna
 

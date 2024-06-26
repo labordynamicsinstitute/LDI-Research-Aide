@@ -1,4 +1,7 @@
-# Contact Form Submission
+---
+layout: default
+title:  Contact Form Submission
+--- 
 
 When you get a Jira ticket titled `"Contact form submission (researcher@university.edu, FirstName LastName)"`, often these are in reference to openICPSR deposit that have already been published. The message is from someone reviewing the deposit and found something concerning, like a missing code file or potential PII.
 
