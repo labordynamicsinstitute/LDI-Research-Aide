@@ -41,6 +41,11 @@ https://aeadataeditor.github.io/aea-de-guidance/preparing-for-data-deposit.html#
 
 - Box will email you about changes made to Box folder (set up these notifications)
 
+{: .note-title }
+> Special case: Author provides Dropbox or other link to download
+>
+> Download from the provided link, and upload into Box. Then proceed as usual.
+
 - Download the data in CCSS Cloud at add it to `L:/Restricted-Access-Data` in a folder titled `aearep-xxx-nda_Implicit`
 
 - Go into Jira ticket for AEAREP-xxx, under *Data Info*, edit fields:
@@ -50,9 +55,14 @@ https://aeadataeditor.github.io/aea-de-guidance/preparing-for-data-deposit.html#
 
 ### Once case is done
 
-After replication is complete (case is in *Pending openICPSR Changes* or *Assess openICPSR Changes* and there's no post-publication reproducibility check subtask),
+After replication is complete
 
-- **Delete the data from the L: drive and Box**, disable the File Request Link, and move the aearep-xxx folder to "Completed".
+- case is in *Pending openICPSR Changes* or *Assess openICPSR Changes* and
+- there is no post-publication reproducibility check subtask (this is usually confirmed by the Data Editor)
+
+then
+
+- **Delete the data from the L: drive and Box**, disable the File Request Link on Box, and move the `aearep-xxxx` Box folder to "Completed".
 - Respond to previous email to author:
 
 >
@@ -62,5 +72,4 @@ After replication is complete (case is in *Pending openICPSR Changes* or *Assess
 >
 
 
-
-- Check the box on JIRA indicating the data has been deleted (Data Info tab > "Was data deleted?")
+- Check the box on JIRA indicating the data has been deleted (`Data Info tab` > "Was data deleted?")
