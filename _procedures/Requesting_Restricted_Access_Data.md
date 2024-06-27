@@ -10,32 +10,7 @@ For cases where the author(s) have indicated on the DCAF that they can make rest
 2. Create a new subfolder corresponding to the main Jira issue (`aearep-xxx`). 
 3. Create a [file request](https://support.box.com/hc/en-us/articles/360045304813-Using-File-Request-to-get-Content-from-Anyone) within the newly created subfolder (only one file request is permitted per folder).  
 4. Copy the file request link.
-5. Email the authors to request that they upload the restricted-access data files to Box using the template below.
-
-Subject Line:
-> Request for Restricted Access Data (AEAREP-nnn)
-
-Send it to authors, cc to `dataeditor-queue@aeapubs.org` and  `dataeditor@aeapubs.org`.
-
-> Dr. *Author*,
-> 
-> We received a request to conduct the AEA reproducibility check for your manuscript entitled "X." On the Data and Code Availability form which you submitted it was indicated that the data can be made available to the Data Editor privately. Would it be possible for you to provide the restricted-access data so that we may proceed to verify the reproducibility of the entire replication package? The data would not be published, and would be deleted by us once we have completed our process. Our preferred sharing method is a Box File Request (specific to your manuscript), the link for which can be found below, but can alternatively happen via Dropbox or similar means, and should be compliant with your data use agreement.
-> 
-> Box File Request (navigate to the link below and upload the file(s)):
-> [Insert Box File Request Link Here]
->
-> We note that all data sharing with the Data Editor should be in compliance with all applicable data use agreements. Please check before sharing.
-> 
-> Please note that the replicator will ignore any code or public data sent via Box. For more information on what to share with the Data Editor:
-https://www.aeaweb.org/journals/data/faq#confidential
-https://aeadataeditor.github.io/aea-de-guidance/preparing-for-data-deposit.html#structure-in-the-presence-of-confidential-unpublished-data
-> 
-> For more guidance on how to legally and practically share restricted data with the Data Editor:
-> 
-> https://aeadataeditor.github.io/aea-de-guidance/sharing-restricted-data.html
-> 
-> If you have any questions please do not hesitate to ask.
-> Thank you!
+5. Email the authors to request that they upload the restricted-access data files to Box using the [relevant template](/LDI-Research-Aide/emails/Email-Templates/#request-restricted-access-data)
 
 ### Once data is obtained
 
