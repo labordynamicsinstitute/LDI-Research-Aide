@@ -31,10 +31,11 @@ Prior to sending out the request for an external reproducibility check there are
 
 ## Sending out the Request
 
+Send email with subject `"Reproducibility Review Request (AEAREP-xxx)"`
+The AEAREP number is the number of the subtask for Part B.
+
 ### Cascad
 
-Send email with header `"Reproducibility Review Request (aearep-xxx)"`
-The AEAREP number being the number of the subtask for Part B.
 
 1. The email is sent to both akmansoy@hec.fr and perignon@hec.fr. As always, cc dataeditor@aeapubs.org and dataeditor-queue@aeapubs.org (as well as Lars). 
 2. Attach the manuscript to the email. 
