@@ -3,6 +3,16 @@ layout: default
 title:  AEA External Reports
 --- 
 
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+1. TOC
+{:toc}
+</details>
+
+
 Instances that require the use of restricted-access data for a full reproducibility check can occasionally be sent out for an external report. See the AEA [Policy and Protocol on Third-Party Verifications](https://www.aeaweb.org/journals/data/policy-third-party) for more information on who can conduct these external reports, and the steps that they should follow.
 
 There is actually a filter for tracking these, which should show up in the "Assignments"  dashboard in Jira:
