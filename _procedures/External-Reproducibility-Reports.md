@@ -7,7 +7,7 @@ Instances that require the use of restricted-access data for a full reproducibil
 
 There is actually a filter for tracking these, which should show up in the "Assignments"  dashboard in Jira:
 
-https://aeadataeditors.atlassian.net/issues/?filter=10015
+[https://aeadataeditors.atlassian.net/issues/?filter=10015](https://aeadataeditors.atlassian.net/issues/?filter=10015)
 
 ## Preparation
 
