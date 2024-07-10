@@ -42,7 +42,7 @@ The AEAREP number being the number of the subtask for Part B.
 4. Give download access to the replicator(s) (as you would any internal RA).
 
 
-See [Email template](LDI-Research-Aide/emails/Email-Templates/#request-for-external-reproducibility-check---cascad).
+See [Email template](/LDI-Research-Aide/emails/Email-Templates/#request-for-external-reproducibility-check---cascad).
 
 
 
@@ -53,7 +53,7 @@ See [Email template](LDI-Research-Aide/emails/Email-Templates/#request-for-exter
 3. Paste the OpenICPSR link next to "Code:" and make sure it isn't the admin link (the admin link contains "tenant"). 
 4. Give download access to the replicator (as you would any internal RA).
 
-See [Email template](LDI-Research-Aide/emails/Email-Templates/#request-for-external-reproducibility-check---non-cascad).
+See [Email template](/LDI-Research-Aide/emails/Email-Templates/#request-for-external-reproducibility-check---non-cascad).
 
 
 

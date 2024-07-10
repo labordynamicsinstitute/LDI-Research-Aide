@@ -3,9 +3,20 @@ layout: default
 title:  Email Templates
 --- 
 
+# Email Templates
+{: .no_toc }
+
 Note that these are mostly just the email templates. If further instructions exist, they will be linked.
 
 
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+- TOC
+{:toc}
+</details>
 
 ## Reminding Students to Submit Timesheet
 
@@ -16,16 +27,15 @@ Remove last line if no non-Cornell students are RAs this semester.
 
 > Subject: Timesheet Reminder
 
-```
-Here's your weekly reminder:
-- submit your timesheets by 5pm tonight
-- git push any edits you've made to bitbucket (do this at the end of every work session)
-- Move the Jira tickets to the appropriate status (also do this at the end of every work session)
+{: .highlight}
+> Here's your weekly reminder:
+>
+> - submit your timesheets by 5pm tonight
+> - git push any edits you've made to bitbucket (do this at the end of every work session)
+> - Move the Jira tickets to the appropriate status (also do this at the end of every work session)
+> 
+> Non-Cornell students, use this timesheet: [https://forms.gle/86GpVDjLM9FUgfcp7](https://forms.gle/86GpVDjLM9FUgfcp7)
 
-
-Non-Cornell students, use this timesheet: https://forms.gle/86GpVDjLM9FUgfcp7
-
-```
 
 ## Revisions Requested
 
