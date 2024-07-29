@@ -22,6 +22,7 @@ title:  Initial setup for Research Aide
 ## Software 
 
 - [ ] Check training for Stata and R at [CCSS](https://socialsciences.cornell.edu/computing-and-data/workshops-and-training). If none are listed, inquire.
+- [ ] Check for BioHPC/Linux training at the [BioHPC webpage](https://biohpc.cornell.edu/workshops.aspx).
 - [ ] Optional, but possibly (more) useful:
   - [ ] Do the [Carpentries' Shell lesson](https://swcarpentry.github.io/shell-novice)
   - [ ] Do the [Carpentries' Git lesson](https://swcarpentry.github.io/git-novice)
