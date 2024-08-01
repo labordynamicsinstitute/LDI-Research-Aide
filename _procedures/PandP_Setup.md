@@ -5,7 +5,7 @@ title:  Instructions for Setting Up PandP Checks
 
 The instructions for the actual PandP checks done by the RA are [here](https://labordynamicsinstitute.github.io/ldilab-manual/40-Instructions-PandP-Checks.html). The rest of this document contains instructions on what needs to be updated each year prior to conducting these checks.
 
-1. Naivgate to the [PandP Google Drive Folder][(https://drive.google.com/drive/folders/1lb0KuVs8GgHk5IoIIt1YT2oJ7-S81TNo?usp=drive_link)]
+1. Naivgate to the [PandP Google Drive Folder][(https://drive.google.com/drive/folders/1lb0KuVs8GgHk5IoIIt1YT2oJ7-S81TNo?usp=sharing)]
 2. Create a new folder "PandP *Current Year*" and move into it.
 3. Create a new folder "PandP Docs"
 4. Navigate to the Google Form from the previous year "PandP Evaluation *Previous Year*" and "Make a copy". Rename it "PandP Evaluation *Current Year*" and place it in your new "PandP *Current Year* folder (make sure to share it with the same people). 
