@@ -48,7 +48,8 @@ Lars, Research Aide, and GRA meet and discuss a training date. Research Aide the
 ### Post the job:
 
 1. Hiring Google Form is [here](https://forms.gle/QoZdqeLab4dwB25Q7). Update the form so that the responses go to a new sheet in the "Replication Project Resumes" file.
-2. Email ILR Student Employment (ilr_student_empl@cornell.edu) to copy exising RA Workday posting with adjusted wages
+2. Email ILR Student Employment (ilr_student_empl@cornell.edu) the filled out Student Employment Intake Form [here](https://drive.google.com/file/d/1z1VIK4MZOKmKJlkpBtFFIsx8c1uk9R8X/view?usp=drive_link) for the position to be posted on the Student Job Board.
+Once you've determined who you wish to hire, email ILR Student Employment the names, start date, and pay rate at which you would like the students to be hired at. Student Employment will then handle the official hiring process and notify you once the students can begin working. 
 3. Update the job posting on the [LDI website](https://www.ilr.cornell.edu/labor-dynamics-institute). Contact the TBD person responsible for making edits, to make edits to website. Tell her the edits to make:
 
 
