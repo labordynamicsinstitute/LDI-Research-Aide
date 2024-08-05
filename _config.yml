@@ -9,6 +9,8 @@ repository: AEADataEditor/LDI-Research-Aide # for github-metadata
 
 aux_links:
   LDI Lab Manual: https://labordynamicsinstitute.github.io/ldilab-manual/
+  JIRA: https://aeadataeditors.atlassian.net/jira/
+  openICPSR: https://www.openicpsr.org/openicpsr/tenant/openicpsr/module/aea/reports
 aux_links_new_tab: true
 
 collections:
@@ -31,6 +33,9 @@ just_the_docs:
       nav_fold: true
     other:
       name: Other stuff
+      nav_fold: true
+    outdated:
+      name: Outdated
       nav_fold: true
 
 
