@@ -17,4 +17,4 @@ Checking when authors submit their openICPSR deposit. This is important for case
 
 Occassionally we get emails from the AEA offices about the line-up of upcoming paper. They're usually titled something like "[Journal] [Month] Lineup".
 
-- see [Defining journal lineup](../procedures/Defining-journal-lineup)
+- see [Defining journal lineup]({{ '/procedures/Defining-journal-lineup' | relative_url }}) for more information.
