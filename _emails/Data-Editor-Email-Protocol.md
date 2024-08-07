@@ -17,17 +17,4 @@ Checking when authors submit their openICPSR deposit. This is important for case
 
 Occassionally we get emails from the AEA offices about the line-up of upcoming paper. They're usually titled something like "[Journal] [Month] Lineup".
 
-Example:
-![Email Ex](images/lineupEmail.png)
-
-1. Open the attached xlsx file.
-2. Search the Manuscript Central number on Jira
-
-![Xlsx Ex](images/lineupExcel.png)
-
-3. Go to the most recent Jira Task ticket associated with the manuscript.
-
-4. Go to the "Other Links" tab of the ticket and scroll down to *Journal Month* and *Journal Year* and update the fields based on the Excel title.
-
-![Jira Ex](images/lineupJira.png)
-
+- see [Defining journal lineup](../procedures/Defining-journal-lineup)
