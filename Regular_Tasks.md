@@ -107,7 +107,7 @@ Here are **FirstName LastName** hours worked (at $15.25 per hour):
 
 3. Open the openICPSR deposit. Check if there have been any changes since we requested revisions.
 
-3. If no changes and it's been more than 3 weeks, send the email from the **Revisions Requested** section of [Email Templates](Email-Templates.md)
+3. If no changes and it's been more than 3 weeks, send the email from the **Revisions Requested** section of [Email Templates](https://aeadataeditor.github.io/LDI-Research-Aide/emails/Email-Templates/#revisions-requested)
 
 4. If changes have been made (and it's been more than 3 weeks since they last edited), move the ticket to "*Assess openICPSR Changes*".
 
