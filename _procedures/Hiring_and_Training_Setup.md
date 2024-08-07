@@ -221,8 +221,8 @@ Thank you,
 
 - [ ] Remove from LDI-Lab mailing list.
 - [ ] In Jira, transition the “Placeholder” ticket to “Done.”
-- [ ] Remove from Jira (log in as “dataeditor@aeapubs.org” > People > Manage Users > Total Users > Click on the RA > “Remove user”).
-- [ ] Remove from Bitbucket (aeaverification workspace > Workspace settings > [Users on plan](https://bitbucket.org/aeaverification/workspace/settings/user-directory) > Then remove access).
+- [ ] Remove from Jira (log in as “dataeditor@aeapubs.org” > under Settings, "User Management" > find RA and under Actions, "Show details" > Click on "..." and "Remove User")
+- [ ] Remove from Bitbucket (aeaverification workspace > People > Manage Users > [User Directory](https://bitbucket.org/aeaverification/workspace/settings/user-directory) > find RA, and "Remove").
 - [ ] Remove from calendar invites (Monday and Thursday meetings).
 - [ ] Update Replication Project Resumes sheet.
 - [ ] Request removal of admin access from OpenICPSR (for submitters only).
