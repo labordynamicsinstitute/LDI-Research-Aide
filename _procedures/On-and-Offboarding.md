@@ -34,6 +34,10 @@ Current Research Aide [RA] and  Data Editor [DE] onboards incoming replacement [
 
 - [RA, DE] Box Permissions for [`Office of the AEA Data Editor`](https://cornell.app.box.com/folder/124287002818)
 - [RA, DE] Add permissions (`Content manager`) to [Google Drive "AEA Data"](https://drive.google.com/drive/u/1/folders/1sWsIm6KW7bwM83LFfmSE7VA4xqQoeBpO)
+- [RA, DE] Share the following google forms/sheets:
+  - [MASTER Replication Project Resumes](https://docs.google.com/spreadsheets/d/1Ic4UgBR3gNFvgyFigJ5SAnx0rZwlp9vu_9OV39YoXQQ/edit?gid=1902712667#gid=1902712667)
+  - [AEA Hours Worked](https://docs.google.com/spreadsheets/d/1t78w25fr5a7w7NjnQxsl20q9m_VXw3Hh2c3cy3lI77s/edit?resourcekey=&gid=611415739#gid=611415739)
+  - [Attendance Tracker](https://docs.google.com/spreadsheets/d/1_UeEwNXQqWteKaPNB-aApLlaFqu9SSHOLbBApgC7YT4/edit?gid=812764306#gid=812764306)
 
 ### Third-party connections
 
