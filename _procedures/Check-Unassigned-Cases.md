@@ -23,7 +23,7 @@ For R&R papers ("Invitation to review...")
 - Go to `MCEntryURL` in the ""Other Links" section
 - Log in to ScholarOne and click Review.
 - Navigate to the link that says "Invitations"
-- Click "Accept invitation and continue review" (I actually don't remember the exact wording. We currently don't have any invitations. Edit later)
+- Click "Agreed and begin review"
 - Then close out the tab.
 
 ## Non-standard unassigned cases
