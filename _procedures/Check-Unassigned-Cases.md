@@ -50,7 +50,7 @@ Check if the older Jira ticket had restricted access data (i.e. `Working locatio
     - If yes, check that we haven't already asked for the Restricted Access Data.
         - If yes, link the existing subtask to the most recent revision.
         - If no, continue to next step.
-- If not a revision, continue steps listed in [Requesting Restricted Access](Requesting_Restricted_Access_Data.md)
+- If not a revision, continue steps listed in [Requesting Restricted Access](https://aeadataeditor.github.io/LDI-Research-Aide/procedures/Requesting_Restricted_Access_Data/)
 
 
 ## If no manuscript in Jira ticket
