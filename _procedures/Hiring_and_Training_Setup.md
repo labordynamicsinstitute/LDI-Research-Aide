@@ -172,7 +172,7 @@ Thank you,
 - Copy the new RAs into the Live sheet.
 - Update the columns for *"Start Date"* (column AB) and *"WD End Date (last updated mm/dd/yy)"*
 - Track which students accept the training invitation in the "Replication Project Resumes" spreadsheet.
-- Once training schedule is set and new RA's have accepted the invitation to the Lab, send out invites (LDI Zoom links) to Day 1 of the training and the following peer review sessions.
+- Once training schedule is set and new RA's have accepted the invitation to the Lab, send out invites (LDI Zoom links) to Day 1 of the training and the following peer review sessions. Also send out this [Google Form](https://docs.google.com/forms/d/1H-L9MommkysuIGc9HO2hZweWB7q1cjixg4oCSBYjIxo/edit) which asks training participants for their dietary restrictions. 
 - Add students to [listserv](https://www.list.cornell.edu).
 - Go to "[/Box/LDI Replication Lab/Office of AEA Data Editor/Student Employment/Current_Hire-Exit_Checklists](https://cornell.app.box.com/folder/136503467872)" and create a new exit checklist file for each student. This way we can track what has been done when exiting a student in the future.
 
