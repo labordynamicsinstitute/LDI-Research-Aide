@@ -152,7 +152,7 @@ We have reviewed your application, and have identified you as a qualified candid
 
 We must note that this is not a confirmation of employment. During the training, HR will be checking your eligibility for employment, which includes being a current Cornell student and residing in the United States; an [I-9](https://www.uscis.gov/i-9-central/form-i-9-acceptable-documents) may be needed.
 
-**Please let us know if you are still interested in the position.**
+**Please let us know if you are still interested in the position by (deadline).**
 
 Thank you,
 ```
