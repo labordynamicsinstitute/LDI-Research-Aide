@@ -43,5 +43,5 @@
     "project.name" : "AEA Training ",
     "project.lead" : "dataeditor"
   },
-  "config.date.format" : "yyyy-MM-dd"
+  "config.date.format" : "dd/MM/yyyy"
 }
