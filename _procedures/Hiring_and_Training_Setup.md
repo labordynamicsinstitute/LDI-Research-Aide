@@ -187,7 +187,7 @@ Thank you,
   - Invite users.
     - Email addresses: comma separated (it used to be limited to 10 at a time, but they're updating this)
     - Product roles is defaulted to `User`
-    - Group membership: `trainees`, `replicators`, and `jira-software-users`
+    - Group membership: `trainees`, `replicator`, `replicators`, and `jira-software-users`
     - Click "Invite users"
 4. Bulk import test cases to Jira:
   - First, modify the existing [CSV file](https://github.com/AEADataEditor/LDI-Research-Aide/tree/main/Training) with the new "email" and "duedate" fields.
