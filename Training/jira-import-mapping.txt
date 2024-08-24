@@ -2,33 +2,33 @@
   "config.version" : "2.0",
   "config.project.from.csv" : "false",
   "config.encoding" : "UTF-8",
-  "config.file.id" : "1c966078-d012-4df9-a7a6-90efa0ef9a86",
+  "config.file.id" : "e38aceb9-0840-4f4a-8b17-befd3b69e13e",
   "config.email.suffix" : "@",
-  "config.file.name" : "training-matlab.csv",
+  "config.file.name" : "Stata-example.csv",
   "config.field.mappings" : {
     "openICPSR" : {
-      "jira.field" : "description",
-      "userChanged" : "true",
-      "manualMapping" : "false"
+      "userChanged" : "false",
+      "manualMapping" : "false",
+      "existing.custom.field" : "10043"
     },
     "openICPSRURL" : {
-      "userChanged" : "true",
+      "userChanged" : "false",
       "manualMapping" : "false",
       "existing.custom.field" : "10040"
     },
+    "email" : {
+      "jira.field" : "assignee",
+      "userChanged" : "false",
+      "manualMapping" : "false"
+    },
     "subject" : {
       "jira.field" : "summary",
-      "userChanged" : "true",
+      "userChanged" : "false",
       "manualMapping" : "false"
     },
     "duedate" : {
       "jira.field" : "duedate",
-      "userChanged" : "true",
-      "manualMapping" : "false"
-    },
-    "email" : {
-      "jira.field" : "assignee",
-      "userChanged" : "true",
+      "userChanged" : "false",
       "manualMapping" : "false"
     }
   },
@@ -37,10 +37,10 @@
   "config.delimiter" : ",",
   "config.project" : {
     "project.type" : null,
-    "project.key" : "TRAINING",
+    "project.key" : "TRAIN",
     "project.description" : null,
     "project.url" : null,
-    "project.name" : "AEA Training ",
+    "project.name" : "AEA Training 2024",
     "project.lead" : "dataeditor"
   },
   "config.date.format" : "dd/MM/yyyy"

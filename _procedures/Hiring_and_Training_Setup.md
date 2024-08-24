@@ -192,12 +192,12 @@ Thank you,
 4. Bulk import test cases to Jira:
   - First, modify the existing [CSV file](https://github.com/AEADataEditor/LDI-Research-Aide/tree/main/Training) with the new "email" and "duedate" fields.
   - Remember to create one for Lars for the first Stata case, and one for each of the experienced RAs who are conducting the peer review sessions.
-  - Go to the brown/red "Create" button in Jira, then select "Import issues".
+  - On the "[Search page](https://aeadataeditors.atlassian.net/issues/?jql=order%20by%20created%20DESC)", go to the  "..." menu, then select "Import issues". **Be sure to import into the "Training 2024" (TRAIN) project!**
   - Choose the corresponding CSV file and check the "Use an existing configuration file" box to use the [mapping file](https://github.com/AEADataEditor/LDI-Research-Aide/blob/main/Training/jira-import-mapping.txt)
   - Settings: Import to "AEA training" project, file encoding = UTF-8, delimiter = ",", Date format = "MM/dd/yyyy"
   - Mapping:
 
-![mapping](Training/Mapping.png)
+![mapping](/Training/Mapping.png)
 
   - Start import, then "check issues"
 
