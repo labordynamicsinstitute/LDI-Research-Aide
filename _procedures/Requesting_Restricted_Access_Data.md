@@ -3,6 +3,33 @@ layout: default
 title:  Requesting Restricted-Access Data from Authors
 --- 
 
+# Using Restricted-Access Data 
+{: .no_toc }
+
+
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+- TOC
+{:toc}
+</details>
+
+## Policy and Summary
+
+Cases arise in which authors agree to provide data directly to the Data Editor after both parties sign a Non-Disclosure Agreement (NDA). In these cases, the author provides us with the data and the Data Editor places the files in the LDI Lab's folder on the shared L: drive in a specific folder. 
+
+The policy of the LDI lab is that these replications are done strictly on the L: (`L:\Restricted-Access-Data`) drive. This ensures that none of the data provided under the NDA are moved and the Data Editor can keep track of and subsequently delete the data as per the agreement. 
+
+
+{: .highlight}
+> This process is best done by cloning repository directly to the L: drive (`L:\Restricted-Access-Data\aearep-xxxx\`) folder and then copying the resitricted data into the repository (following any instructions in the README on where the data should be located). Be diligent in ensuring that no restricted access datasets slip through the git ignore into the bitbucket repository.
+
+We may have revisions based on the restricted data which require running additional code. For this reason, the data should be deleted before the issue is moved to "Pending Publication."
+
+## Requesting Restricted Access Data from Authors
+
 For cases where the author(s) have indicated on the DCAF that they can make restricted-access data available to the Data Editor privately, follow these steps:
 
 1. Create a subtask (issue type: confidential data) in the main Jira task. Title it "Request Restricted Access Data for AEAREP-xxx". This subtask will be aearep-nnnn
@@ -10,7 +37,7 @@ For cases where the author(s) have indicated on the DCAF that they can make rest
 2. Create a new subfolder corresponding to the main Jira issue (`aearep-xxx`). 
 3. Create a [file request](https://support.box.com/hc/en-us/articles/360045304813-Using-File-Request-to-get-Content-from-Anyone) within the newly created subfolder (only one file request is permitted per folder).  
 4. Copy the file request link.
-5. Email the authors to request that they upload the restricted-access data files to Box using the [relevant template](/LDI-Research-Aide/emails/Email-Templates/#request-restricted-access-data)
+5. Email the authors to request that they upload the restricted-access data files to Box using the [relevant template]({{ '/emails/Email-Templates/#request-restricted-access-data' | relative_url }}).
 
 ### Once data is obtained
 
@@ -21,7 +48,7 @@ For cases where the author(s) have indicated on the DCAF that they can make rest
 >
 > Download from the provided link, and upload into Box. Then proceed as usual.
 
-- Download the data in CCSS Cloud at add it to `L:/Restricted-Access-Data` in a folder titled `aearep-xxx-nda_Implicit`
+- Download the data in CCSS Cloud at add it to `L:\Restricted-Access-Data` in a folder titled `aearep-xxx-nda_Implicit`.
 
 - Go into Jira ticket for AEAREP-xxx, under *Data Info*, edit fields:
     - Agreement signed: `NDA`, `Implicit`
