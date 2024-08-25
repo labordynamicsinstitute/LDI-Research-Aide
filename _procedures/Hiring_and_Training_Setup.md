@@ -194,20 +194,30 @@ Thank you,
   - Remember to create one for Lars for the first Stata case, and one for each of the experienced RAs who are conducting the peer review sessions.
   - On the "[Search page](https://aeadataeditors.atlassian.net/issues/?jql=order%20by%20created%20DESC)", go to the  "..." menu, then select "Import issues". **Be sure to import into the "Training 2024" (TRAIN) project!**
   - Choose the corresponding CSV file and check the "Use an existing configuration file" box to use the [mapping file](https://github.com/AEADataEditor/LDI-Research-Aide/blob/main/Training/jira-import-mapping.txt)
-  - Settings: Import to "AEA training" project, file encoding = UTF-8, delimiter = ",", Date format = "MM/dd/yyyy"
+  - Verify the settings.
+
+![Settings]({{ '/Training/Settings.png' | relative_url }})
+
   - Mapping:
 
-![mapping](/Training/Mapping.png)
+![mapping]({{ '/Training/Mapping.png' | relative_url }})
 
-  - Start import, then "check issues"
+  - Use the `Validate` button to check for errors.
 
-5. The bulk importer does not map the openICPSR number field, nor allow for a link to the manuscript. From the "..." at the top right corner, choose "bulk change all x issue(s)", select all issues, and select "Transition Issues"
-6. bulk "transition" them from "Open" to "Assigned". You should then be presented the "Bulk Edit Screen" (if not you can just repeat these steps to get to the "Edit Issues" option of the bulk action screen). Then edit these fields
-    - "openICPSR Project Number"
-    - "Manuscript Central identifier" (i.e. AER-0000-1234)
-    -  'Comment" Add link to proper PDF of manuscript ([PDF_Proofs](https://labordynamicsinstitute.github.io/replicability-training-solutions/)).
+![Validation]({{ '/Training/Validate.png' | relative_url }})
+
+  - If all is fine, `Begin Import`, then `Check issues`.
+
+5. From the "..." at the top right corner, choose "bulk change all x issue(s)", select all issues, and select "Transition Issues"
+6. bulk "transition" them from "Open" to "Assigned". You should then be presented the "Bulk Edit Screen" (if not you can just repeat these steps to get to the "Edit Issues" option of the bulk action screen). If you have to edit any fields, do it here. 
 7. Grant RA's access to download ICPSR deposit (students will need to create their accounts with ICPSR first).
-8. Create "Placeholder" tickets for each RA in Jira. The best way to do this is through the same bulk process as creating the training cases (a placeholder csv file can be found [here](https://github.com/AEADataEditor/LDI-Research-Aide/tree/main/Training)). Be sure to change the "Import to Project" field from "AEA Training" to "AEA Replication - Default". Then convert each issue to a subtask for the Master Placeholder aearep-1407 (unsure if there is a way to bulk convert to subtask).
+  - Go to each case's openICPSR deposit.
+  - Remove previous trainees' access.
+  - Add new trainees' access.
+  - Trick: use Excel to concatenate the email addresses with `, ` (`=concatenate(A1,", ")`), then copy-paste the new column into the `Share` field with download permissions.
+8. Create "Placeholder" tickets for each RA in Jira. The best way to do this is through the same bulk process as creating the training cases (a placeholder csv file can be found [here](https://github.com/AEADataEditor/LDI-Research-Aide/tree/main/Training)), except:
+  - Change the "Import to Project" field from "AEA Training" to "AEA Replication - Default". 
+  - Then individually convert each issue to a subtask for the Master Placeholder `aearep-1407` (unsure if there is a way to bulk convert to subtask).
 
 
 9. After training, grade reports using https://github.com/labordynamicsinstitute/replicability-training-solutions as a reference

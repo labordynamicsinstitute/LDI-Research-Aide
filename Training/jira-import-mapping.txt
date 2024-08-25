@@ -2,24 +2,19 @@
   "config.version" : "2.0",
   "config.project.from.csv" : "false",
   "config.encoding" : "UTF-8",
-  "config.file.id" : "e38aceb9-0840-4f4a-8b17-befd3b69e13e",
+  "config.file.id" : "6f632e1e-1155-483f-b694-a6b808f35b82",
   "config.email.suffix" : "@",
-  "config.file.name" : "Stata-example.csv",
+  "config.file.name" : "Confidential-example.csv",
   "config.field.mappings" : {
+    "Description" : {
+      "jira.field" : "description",
+      "userChanged" : "true",
+      "manualMapping" : "false"
+    },
     "openICPSR" : {
       "userChanged" : "false",
       "manualMapping" : "false",
       "existing.custom.field" : "10043"
-    },
-    "openICPSRURL" : {
-      "userChanged" : "false",
-      "manualMapping" : "false",
-      "existing.custom.field" : "10040"
-    },
-    "email" : {
-      "jira.field" : "assignee",
-      "userChanged" : "false",
-      "manualMapping" : "false"
     },
     "subject" : {
       "jira.field" : "summary",
@@ -28,6 +23,26 @@
     },
     "duedate" : {
       "jira.field" : "duedate",
+      "userChanged" : "false",
+      "manualMapping" : "false"
+    },
+    "Replication package URL" : {
+      "userChanged" : "true",
+      "manualMapping" : "false",
+      "existing.custom.field" : "10040"
+    },
+    "Journal" : {
+      "userChanged" : "true",
+      "manualMapping" : "false",
+      "existing.custom.field" : "10033"
+    },
+    "Manuscript Central identifier" : {
+      "userChanged" : "true",
+      "manualMapping" : "false",
+      "existing.custom.field" : "10032"
+    },
+    "email" : {
+      "jira.field" : "assignee",
       "userChanged" : "false",
       "manualMapping" : "false"
     }

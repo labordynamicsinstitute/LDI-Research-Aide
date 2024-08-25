@@ -25,6 +25,11 @@ Instructions for cases where the author(s) have indicated on the DCAF that they 
 
 Detailed instructions on everything related to the hiring and training of RAs. Additionally, the "Training" folder includes the template csv files and mapping file for bulk importing training cases.
 
+
+### [Exit Process](/LDI-Research-Aide/procedures/Exit_process/)
+
+Checklist for exiting RAs from the Lab.
+
 ### [Data Editor Email Inbox](/LDI-Research-Aide/emails/Data-Editor-Email-Protocol/)
 
 Certain emails that the `dataeditor@aeapubs.org` account recieves require action, such as the Lineup emails.
