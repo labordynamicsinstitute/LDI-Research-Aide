@@ -125,7 +125,7 @@ Please notify us by reply to this email when you have done so.
 Many thanks in advance.
 ```
 
-- Update the [TITLE] (both in subject and in  body), [AEAREP-NNNN], [JOURNAL], and [DEPOSITNUM] in the link under details.
+- Update the **[TITLE]** (both in subject and in  body), **[AEAREP-NNNN]**, **[JOURNAL]**, and **[DEPOSITNUM]** in the link under details.
 
 Send it to the two authors, cc to `dataeditor-queue@aeapubs.org` and  `dataeditor@aeapubs.org`.
 
