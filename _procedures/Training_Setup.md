@@ -34,7 +34,7 @@ After training:
 
 - Copy the new RAs into the Live sheet.
 - Update the columns for *"Start Date"* (column AB) and *"WD End Date (last updated mm/dd/yy)"*
-
+- When students are officially hired, in the Live sheet, update the "Currently Employed" column to "Y" and the "Team" column to Blue/Green, which will automatically add the students to the "Current" tab.
 
 ## Training Preparation
 
