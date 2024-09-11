@@ -8,12 +8,12 @@ title:  Check Unassigned Cases
 1. Go the unassigned filter in Jira (*Dashboards* > *Admin Dashboard* > *AEA tasks by Assignee* section > scroll down to "*Unassigned*").
 2. In the most recent cases, fill out the following info from the DCAF attached:
     - `DCAF_Access_Restrictions`
-        - if "Yes, data can be made available privately", do additional [steps](Requesting_Restricted_Access_Data.md)
+        - if "Yes, data can be made available privately", do additional [steps](https://aeadataeditor.github.io/LDI-Research-Aide/procedures/Requesting_Restricted_Access_Data/)
     - `DCAF_README_checked`
     - `openICPSR Project Number` 
     - `Software Used` (from openICPSR deposit)
 
-2. When checking the software in the openICPSR deposit, open the README and make sure it exists. If there is no README in the openICPSR deposit or the deposit is empty, make a [short report](Writing-Short-Report.md).
+2. When checking the software in the openICPSR deposit, open the README and make sure it exists. If there is no README in the openICPSR deposit or the deposit is empty, make a [short report](https://aeadataeditor.github.io/LDI-Research-Aide/procedures/Writing-Short-Report/).
 3.  Check if the case is a Revision and mark it as such.
 4. Check that there is a manuscript attached, and add one if not (instructions at the bottom of this page).
 
