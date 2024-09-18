@@ -42,7 +42,7 @@ Remove last line if no non-Cornell students are RAs this semester.
 When a case is stuck at *Pending openICPSR Changes* because the author hasn't edited the deposit:
 
 ```
-Revisions Requested for MCNumberXX (AEAREP-xxx)
+Revisions Requested for Manuscript NumberXX (AEAREP-xxx)
 ```
 
 ```
@@ -55,8 +55,7 @@ Once you're done, please "Change Status" -> Re-submit to AEA"
 
 Many thanks in advance.
 ```
-
-
+Check the Jira comments to make sure the case has not already been revised. If it has, edit the email above to refer to the previously posted remaining items instead of attaching the report.
 
 ## Restricted Deposit
 
