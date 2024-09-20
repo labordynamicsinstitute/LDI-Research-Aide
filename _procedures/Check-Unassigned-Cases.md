@@ -28,7 +28,7 @@ For R&R papers ("Invitation to review...")
 
 ## Non-standard unassigned cases
 
-- Jira ticket titled ["Contact form submission"](Contact-Form-Submission.md](https://aeadataeditor.github.io/LDI-Research-Aide/procedures/Contact-Form-Submission/)
+- Jira ticket titled ["Contact form submission"](https://aeadataeditor.github.io/LDI-Research-Aide/procedures/Contact-Form-Submission/)
 
 ## Check if case is a revision:
 
