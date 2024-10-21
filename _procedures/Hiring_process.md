@@ -37,8 +37,8 @@ Note that these are mostly just the email templates. If further instructions exi
 ### Reaching out to previous RAs
 
 1. Lars, Research Aide meet to discuss whom to re-invite.
-2. Research Aide prepares new linkage from form.
-2. Lars sends out email with link to "[Planning Form](https://drive.google.com/drive/u/1/folders/1uhZHu0MOJIth-4oDc44XkUdHS7ncMqpj)" (Fall, Summer, Spring, as appropriate)
+2. Research Aide prepares new linkage from form. See [Planning and Rehire Process](/LDI-Research-Aide/procedures/Planning_rehire_process/).
+2. Lars, Research Aide sends out email with link to "[Planning Form](https://drive.google.com/drive/u/1/folders/1uhZHu0MOJIth-4oDc44XkUdHS7ncMqpj)" (Fall, Summer, Spring, as appropriate)
 
 ### Training schedule
 
