@@ -38,5 +38,7 @@ title:  Re-Hiring Process
 
 ![Re-linking the form](/LDI-Research-Aide/images/google-link-to-sheet-2.png)
 
+The sheet should open (verify that you picked the right one!). Then rename the tab to correspond to the others, e.g. `Spring 2025`.
+
 ![Re-linking the form](/LDI-Research-Aide/images/google-link-to-sheet-3.png)
 
