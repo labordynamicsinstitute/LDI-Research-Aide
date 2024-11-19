@@ -59,13 +59,19 @@ For cases where the author(s) have indicated on the DCAF that they can make rest
 
 After replication is complete
 
-- case is in *Pending openICPSR Changes* or *Assess openICPSR Changes* and
+- case has been submitted to ScholarOne with either an `Accept` or an `Accept with Changes` AND 
 - there is no post-publication reproducibility check subtask (this is usually confirmed by the Data Editor)
 
 then
 
-- **Delete the data from the L: drive and Box**, disable the File Request Link on Box, and move the `aearep-xxxx` Box folder to "Completed".
-- Respond to previous email to author:
+- **Delete the data from the L: drive**
+- Confirm that no data is on **BioHPC**
+- on Box**,
+  - Disable the File Request Link on Box
+  - Move the `aearep-xxxx` Box folder to "Completed".
+  - [Schedule the data files for expiration](https://support.box.com/hc/en-us/articles/360043696634-Delete-Files-or-Folders) (do NOT delete any agreement documents!)
+   
+- Respond to previous email to author (cc to `dataeditor-queue@aeapubs.org`, and be sure that the subject line includes the `AEAREP-xxxx` of the subtask).
 
 >
 > Hello Dr. *Author*,
