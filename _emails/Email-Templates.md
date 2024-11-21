@@ -284,6 +284,33 @@ Note that the email to a different replicator might be a bit more formal.
 > 
 > Best,
 
+## Update Codeocean Capsule Metadata with Link to the Article DOI
+
+Send an email to support@codeocean.com
+
+```
+Request to Link DOI to Capsule Metadata
+```
+
+```
+Hello,
+
+I hope this email finds you well. I am writing to request an update to the metadata for one of my capsules. The capsule has been published. However, it currently shows the linked publication as "yet to be published".
+
+The Capsule number is: (insert capsule number)
+
+The DOI of the related publication should be updated to
+(insert DOI)
+
+The full article citation linked to this capsule is
+(insert citation)
+
+Please let me know if you need any additional information to process this request.
+
+Thank you for your assistance.
+```
+Once you receive confirmation from Code Ocean Support and you checked that the DOI has been added, transition the ticket to "Done".
+
 
 ## Email timesheet for AEA RAs
 
