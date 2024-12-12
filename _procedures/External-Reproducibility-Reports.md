@@ -64,6 +64,8 @@ See [Email template](/LDI-Research-Aide/emails/Email-Templates/#request-for-exte
 
 ## Integrating the External Report
 
+- Save the report in the repository. It is not sufficient to leave it attached to the Jira ticket.
+
 **For CASCAD:**
 
 - Never delete section titles from our template report (an RA should have already done the preliminary report). Instead, for sections relevant to the verification, point to the external report with something along the lines of: "Please refer to the external report below."
