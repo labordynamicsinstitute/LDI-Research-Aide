@@ -170,5 +170,5 @@ Thank you,
 
 
 {: .highlight}
-> **DON'T FORGET**: Next step is to [prepare the training]({{ '/procedures/Training-setup/' | relative_url }}).
+> **DON'T FORGET**: Next step is to [prepare the training]({{ '/procedures/Training_Setup/' | relative_url }}).
 
