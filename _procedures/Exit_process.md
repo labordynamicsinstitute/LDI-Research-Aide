@@ -13,9 +13,10 @@ title:  Exit Checklist
 - [ ] Remove from Jira (log in as “dataeditor@aeapubs.org” > under Settings, "User Management" > find RA and under Actions, "Show details" > Click on "..." and "Remove User")
 - [ ] Remove from Bitbucket (aeaverification workspace > People > Manage Users > [User Directory](https://bitbucket.org/aeaverification/workspace/settings/user-directory) > find RA, and "Remove").
 - [ ] Remove from calendar invites (Monday and Thursday meetings).
+- [ ] [LARS] Remove from BioHPC
 - [ ] Update Replication Project Resumes sheet.
 - [ ] Request removal of admin access from OpenICPSR (for submitters only).
-- [ ] Lars remove LastPass share of ScholarOne password (for submitters only).
+- [ ] [LARS] Remove LastPass share of ScholarOne password (for submitters only).
 
 ## Mid-Year Departure
 
