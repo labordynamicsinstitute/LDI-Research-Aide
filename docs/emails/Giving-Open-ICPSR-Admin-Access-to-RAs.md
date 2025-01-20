@@ -3,7 +3,7 @@ title: Giving open ICPSR Admin Access to RAs
 parent: Email templates
 ---
 
-## Giving open ICPSR Admin Access to RAs
+# Giving open ICPSR Admin Access to RAs
 
 Email Kyrani (karsimon@umich.edu) from the data editor account.
 

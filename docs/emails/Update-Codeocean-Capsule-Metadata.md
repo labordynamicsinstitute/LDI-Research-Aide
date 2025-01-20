@@ -3,7 +3,7 @@ title: Update Codeocean Capsule Metadata with Link to the Article DOI
 parent: Email templates
 ---
 
-## Update Codeocean Capsule Metadata with Link to the Article DOI
+# Update Codeocean Capsule Metadata with Link to the Article DOI
 
 - Obtain the information on Codeocean capsule number (the numeric part of the published Codeocean DOI), and of the linked article (from the article landing page).
 - Send an email to support@codeocean.com

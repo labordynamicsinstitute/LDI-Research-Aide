@@ -3,7 +3,7 @@ title: Reminder to Submit When Authors cannot access
 parent: Email templates
 ---
 
-## Reminder to Submit When Authors cannot access
+# Reminder to Submit When Authors cannot access
 
 In February 2024, ICPSR restructured it's access and identity management system. Every author who last had contact before Feb 15, 2024, and hasn't accessed the deposit since March 1, 2024 (check the logs!) will not be able to access the link sent above.
 

@@ -3,7 +3,7 @@ title: Reminder to Submit
 parent: Email templates
 ---
 
-## Reminder to Submit
+# Reminder to Submit
 
 When a package has not been formally submitted, authors have not chosen a license, nor agreed that they have the rights to publish the data. In most cases, we cannot do that for them.
 

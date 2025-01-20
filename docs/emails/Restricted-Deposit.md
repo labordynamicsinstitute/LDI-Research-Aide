@@ -3,7 +3,7 @@ title: Restricted Deposit
 parent: Email templates
 ---
 
-## Restricted Deposit
+# Restricted Deposit
 
 When the open ICPSR deposit is labelled "Restricted" and/or they answered "Yes" to any of the [submission questions](https://aeadataeditor.github.io/aea-de-guidance/data-deposit-aea.html#submission-questions). 
 - IMPORTANT: **Remove** the line about "If you nevertheless think that access to the data should be restricted," if access is NOT, in fact, restricted.

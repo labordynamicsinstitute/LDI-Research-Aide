@@ -3,7 +3,7 @@ title: Revisions Requested
 parent: Email templates
 ---
 
-## Revisions Requested
+# Revisions Requested
 
 When a case is stuck at *Pending openICPSR Changes* because the author hasn't edited the deposit:
 

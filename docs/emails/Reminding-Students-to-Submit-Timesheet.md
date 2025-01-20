@@ -3,7 +3,7 @@ title: Reminding Students to Submit Timesheet
 parent: Email templates
 ---
 
-## Reminding Students to Submit Timesheet
+# Reminding Students to Submit Timesheet
 
 Email `ldi-lab-l@list.cornell.edu` every Wednesday morning (best to have these scheduled in advance)
 

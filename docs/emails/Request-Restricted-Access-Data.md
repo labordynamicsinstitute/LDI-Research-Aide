@@ -3,7 +3,7 @@ title: Request Restricted Access Data
 parent: Email templates
 ---
 
-## Request Restricted Access Data
+# Request Restricted Access Data
 
 ### Initiating contact
 
