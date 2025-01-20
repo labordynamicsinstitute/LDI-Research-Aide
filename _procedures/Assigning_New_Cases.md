@@ -1,6 +1,7 @@
 ---
 layout: default
 title:  Assigning New Cases
+parent: Procedures
 --- 
 
 1. Go the unassigned filter in Jira (*Dashboards* > *Admin Dashboard* > *AEA tasks by Assignee* section > scroll down to "*Unassigned*").

@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Daily, Bi-Weekly, and Weekly Tasks
+parent: Procedures
 ---
 
 ## Daily Tasks
@@ -118,4 +119,4 @@ Here are **FirstName LastName** hours worked (at $15.25 per hour):
 2. Look at the tickets issued for the next two months. Our goal is to get them to "Pending Publication" before that month arrives.
     - Ideally we finish July's issues before the end of June and so on. But the earlier the better since we don't know for sure if the authors have made the requested changes.
 
-3. You or an RA must follow the steps of the [manual chapter on Assess cases](https://labordynamicsinstitute.github.io/ldilab-manual/51-openicpsr-monitoring-pending.html#if-changes-have-been-made). 
+3. You or an RA must follow the steps of the [manual chapter on Assess cases](https://labordynamicsinstitute.github.io/ldilab-manual/51-openicpsr-monitoring-pending.html#if-changes-have-been-made).

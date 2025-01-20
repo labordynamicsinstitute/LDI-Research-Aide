@@ -1,6 +1,7 @@
 ---
 layout: default
 title:  Check Unassigned Cases
+parent: Procedures
 --- 
 
 ## Basic Instructions

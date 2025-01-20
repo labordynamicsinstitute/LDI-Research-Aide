@@ -1,6 +1,7 @@
 ---
 layout: default
 title:  Hiring Process
+parent: Procedures
 --- 
 
 

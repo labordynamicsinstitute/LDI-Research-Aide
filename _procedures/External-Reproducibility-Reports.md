@@ -1,6 +1,7 @@
 ---
 layout: default
 title:  Requesting External Reports
+parent: Procedures
 --- 
 
 # Requesting External Reports

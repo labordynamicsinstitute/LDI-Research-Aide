@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Onboarding/Offboarding for Research Aide
+parent: Procedures
 ---
 
 Current Research Aide [RA] and  Data Editor [DE] onboards incoming replacement [R]. Tags identify who can do what. 
