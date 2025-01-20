@@ -5,7 +5,7 @@ layout: home
 
 
 
-### [Everyday Responsibilities](/LDI-Research-Aide/Regular_Tasks.html)
+### [Everyday Responsibilities](/LDI-Research-Aide/procedures/Regular_Tasks.html)
 
 The Daily, Bi- Weekly, Weekly, and Semesterly breakdown of tasks.
 

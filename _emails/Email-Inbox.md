@@ -1,6 +1,8 @@
 ---
 layout: default
 title:  Email Inbox
+parent: Email procedures and templates
+nav_order: 2
 --- 
 
 ## Jira tags from Jenna
