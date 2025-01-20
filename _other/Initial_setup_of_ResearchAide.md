@@ -27,3 +27,25 @@ title:  Initial setup for Research Aide
   - [ ] Do the [Carpentries' Shell lesson](https://swcarpentry.github.io/shell-novice)
   - [ ] Do the [Carpentries' Git lesson](https://swcarpentry.github.io/git-novice)
   - [ ] Evaluate the [Carpentries' R lesson](https://swcarpentry.github.io/r-novice-inflammation)
+
+## Logins
+
+- [ ] See logins needed in [general hiring process]({{ '/procedures/Hiring_process/' | relative_url }}).
+- [ ] [LastPass](https://www.lastpass.com/): You will need to get a LastPass account.
+- [ ] [LARS] Share logins for
+  - Jira admin account (Atlassian) + 2FA code
+  - Codeocean
+  - Email for `dataeditor` and `dataeditor-queue`
+  - Possibly Mastodon and Bluesky.
+
+### Special procedures
+
+These are mostly done by [LARS].
+
+#### Jira admin account 
+
+- Login as admin (dataeditor@aeapubs.org). Go to <https://id.atlassian.com/manage-profile/security>.
+- Select "Two-step verification".
+- **Disable two-step verification** (only way to switch keys).
+- **Set up two-step verification**
+- Screenshot the QR code and share with RA, then delete the QR code from the relevant sharing app!
