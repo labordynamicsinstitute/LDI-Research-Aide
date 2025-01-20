@@ -59,9 +59,9 @@ Instructions on requesting reproducibility checks from a third-party, and how to
 
 The unassigned Jira tickets that are titled `"Contact form submission (researcher@university.edu, FirstName LastName)"`
 
-### [PSID Cases](/LDI-Research-Aide/procedures/PSID_Cases)
+### [Unpublication of Cases](/LDI-Research-Aide/procedures/Unpublication_of_Cases)
 
-This page outlines the procedure for handling PSID-related cases, where a deposit in the openICPSR AEA Repository violates PSID Conditions of Use.
+This page outlines the procedure for handling  when a deposit in the openICPSR AEA Repository infringes on terms of use or contains inapproriate PII. Example: PSID Conditions of Use.
 
 ### [Miscellaneous Programming Tips](/LDI-Research-Aide/other/Misc_Programming_Tips/)
 
