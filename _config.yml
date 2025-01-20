@@ -6,6 +6,12 @@ url: https://aeadataeditor.github.io/LDI-Research-Aide/ # the base hostname & pr
 baseurl: "/SECRETURL" # the subpath of your site, e.g. /blog
 repository: AEADataEditor/LDI-Research-Aide # for github-metadata
 
+defaults:
+  - scope:
+      path: "" # an empty string here means all files in the project
+      type: "pages"
+    values:
+      layout: "default"
 
 aux_links:
   LDI Lab Manual: https://labordynamicsinstitute.github.io/ldilab-manual/
