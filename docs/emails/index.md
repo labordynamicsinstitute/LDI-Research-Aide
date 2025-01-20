@@ -1,9 +1,9 @@
 ---
-title: Email procedures and templates
-nav_order: 2
+title: Email templates
+nav_order: 3
 ---
 
-# Email procedures and templates
+# Email templates
 
-The various procedures and templates related to email communication are listed below.
+Various templates related to email communication are listed below. If further instructions exist, they will be linked.
 {: .fs-6 .fw-300 }

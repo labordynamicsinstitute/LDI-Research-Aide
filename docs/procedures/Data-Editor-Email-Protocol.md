@@ -1,9 +1,10 @@
 ---
 layout: default
 title:  Data Editor Email Tasks
-parent: Email procedures and templates
-nav_order: 1
+parent: Procedures
 --- 
+
+# Data Editor Email Tasks
 
 ## Submitted on openICPSR
 

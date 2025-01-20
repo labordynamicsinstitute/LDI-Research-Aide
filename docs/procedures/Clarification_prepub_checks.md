@@ -1,17 +1,21 @@
 ---
 layout: default
-title:  Email Inbox
-parent: Email procedures and templates
-nav_order: 2
+title:  Clarification regarding pre-publication checks on deposits
+parent: Procedures
 --- 
 
-## Jira tags from Jenna
+# Clarification regarding pre-publication checks on deposits
+
+## Restricted deposits
+
 
 When Jenna tags you and Lars and says something like:
 
 *"On project 111111, the authors have answered “yes” to the first required question.  Please let me know if/when I can publish this one.  Thanks, Jenna"*
 
 You email the authors the [restricted deposit email template](emails/Email-Templates.html#restricted-deposit).
+
+## Unsubmitted deposits
 
 When Jenna tags you and Lars and says something like:
 

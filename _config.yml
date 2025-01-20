@@ -13,6 +13,13 @@ defaults:
     values:
       layout: "default"
 
+# External navigation links
+nav_external_links:
+  - title: LDI Lab Manual
+    url: https://labordynamicsinstitute.github.io/ldilab-manual/
+  - title: JIRA
+    url: https://aeadataeditors.atlassian.net/jira/
+
 aux_links:
   LDI Lab Manual: https://labordynamicsinstitute.github.io/ldilab-manual/
   JIRA: https://aeadataeditors.atlassian.net/jira/
