@@ -13,30 +13,34 @@ aux_links:
   openICPSR: https://www.openicpsr.org/openicpsr/tenant/openicpsr/module/aea/reports
 aux_links_new_tab: true
 
-collections:
-  emails:
-    permalink: "/:collection/:path/"
-    output: true
-  procedures:
-    permalink: "/:collection/:path/"
-    output: true
-  other:
-    permalink: "/:collection/:path/"
-    output: true
-just_the_docs:
-  collections:
-    procedures:
-      name: Procedures
-      nav_fold: true
-    emails:
-      name: Email templates
-      nav_fold: true
-    other:
-      name: Other stuff
-      nav_fold: true
-    outdated:
-      name: Outdated
-      nav_fold: true
+# collections:
+#   emails:
+#     permalink: "/:collection/:path/"
+#     output: true
+#   procedures:
+#     permalink: "/:collection/:path/"
+#     output: true
+#   other:
+#     permalink: "/:collection/:path/"
+#     output: true
+#   outdated:
+#     permalink: "/:collection/:path/"
+#     output: true
+
+# just_the_docs:
+#   collections:
+#     procedures:
+#       name: Procedures
+#       nav_fold: true
+#     emails:
+#       name: Email templates
+#       nav_fold: true
+#     other:
+#       name: Other stuff
+#       nav_fold: true
+#     outdated:
+#       name: Outdated
+#       nav_fold: true
 
 
 # Back to top link
@@ -101,3 +105,21 @@ search:
   button: false
   # Focus the search input by pressing `ctrl + focus_shortcut_key` (or `cmd + focus_shortcut_key` on macOS)
   focus_shortcut_key: "k"
+
+exclude:
+  # from https://github.com/jekyll/jekyll/blob/master/lib/site_template/_config.yml:
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  # specific to this website:
+  - .github
+  - README.md
+  - build
+  
