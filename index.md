@@ -69,28 +69,3 @@ This page outlines the procedure for handling  when a deposit in the openICPSR A
 Miscellaneous programming tips. Super helpful is the `sed` command.
 
 
-{: .highlight}
-> **Note from Sofia: All .md files below I have not edited. They may be outdated.**
-
-### [Legacy_Updates](/LDI-Research-Aide/outdated/Legacy_Updates/)
-
-Post-publication, authors may wish to make changes to their deposit. In cases where the original deposit was created prior to July 2019, there are special instructions.
-
-### [Replication on CRADC](/LDI-Research-Aide/outdated/CRADC_AEA_SOP/)
-
-Beginning framework for instructions on how to run replication checks on CRADC.
-
-### [Transferring Data from CISER to BioHPC](/LDI-Research-Aide/outdated/Data_CISERtoBioHPC/)
-
-If transferring data from your own laptop to BioHPC, FileZilla may be the simplest solution. However, CISER does not have FileZilla installed. 
-If you need to transfer data from CISER to BioHPC, use these instructions.
-
-### [TMUX on BioHPC](/LDI-Research-Aide/other/tmux_BioHPC/)
-
-How to use tmux on BioHPC. Helpful for setting multiple jobs running.
-
-### Docker_Windows.md 
-
-Some tips and tricks of working with Docker on Windows.
-
-
