@@ -1,6 +1,7 @@
 ---
 layout: default
 title:  Replications on CRADC
+parent: Probably outdated pages
 --- 
 
 > INSTRUCTIONS:

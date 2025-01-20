@@ -1,6 +1,7 @@
 ---
 layout: default
 title:  Miscellaneous Programming Tips
+parent: Otherwise unclassified pages
 --- 
 
 #### Compare files from one directory to another

@@ -1,6 +1,7 @@
 ---
 layout: default
 title:  TMUX on BioHPC
+parent: Otherwise unclassified pages
 --- 
 
 

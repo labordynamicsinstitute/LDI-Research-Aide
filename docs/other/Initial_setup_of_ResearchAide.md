@@ -1,6 +1,7 @@
 ---
 layout: default
 title:  Initial setup for Research Aide
+parent: Otherwise unclassified pages
 --- 
 
 

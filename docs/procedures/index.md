@@ -1,7 +1,6 @@
 ---
 title: Procedures
 nav_order: 1
-parent: Procedures
 ---
 
 # Procedures

@@ -1,3 +1,8 @@
+---
+title: Docker on Windows
+parent: Probably outdated pages
+---
+
 # Docker on Windows
 
 **NOTE:** *This document is a work in progress.*

@@ -1,6 +1,7 @@
 ---
 layout: default
 title:  Email Templates
+parent: Email procedures and templates
 --- 
 
 # Email Templates

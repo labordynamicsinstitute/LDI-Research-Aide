@@ -1,6 +1,7 @@
 ---
 layout: default
 title:  Preparing a Legacy Deposit for Updates by Authors
+parent: Probably outdated pages
 --- 
 
 Post-publication, authors may wish to make changes to their deposit. In cases where the original deposit was created prior to July 2019, the deposit ownership should be assigned to the corresponding author.
