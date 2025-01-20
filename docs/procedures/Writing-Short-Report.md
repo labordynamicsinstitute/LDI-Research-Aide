@@ -1,11 +1,14 @@
 ---
 layout: default
 title: Writing a Short Report
+parent: Procedures
 ---
+
+# Writing a Short Report
 
 When the authors don't provide a README, any code, or the deposit is completely empty* or contains all the replication materials as '.zip' files, you submit a short report to ScholarOne.
 
-
+{: .warning }
 **double-check the openICPSR log history first. They might have uploaded stuff but openICPSR glitches and shows an empty repo.*
 
 - Assign the Jira case to yourself

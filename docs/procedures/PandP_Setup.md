@@ -4,6 +4,8 @@ title:  Instructions for Setting Up PandP Checks
 parent: Procedures
 --- 
 
+# Instructions for Setting Up PandP Checks
+
 The instructions for the actual PandP checks done by the RA are [here](https://labordynamicsinstitute.github.io/ldilab-manual/40-Instructions-PandP-Checks.html). The rest of this document contains instructions on what needs to be updated each year prior to conducting these checks.
 
 1. Navigate to the [PandP Google Drive Folder](https://drive.google.com/drive/folders/1lb0KuVs8GgHk5IoIIt1YT2oJ7-S81TNo?usp=sharing)

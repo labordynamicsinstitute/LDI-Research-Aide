@@ -4,6 +4,8 @@ title:  Assigning New Cases
 parent: Procedures
 --- 
 
+# Assigning New Cases
+
 1. Go the unassigned filter in Jira (*Dashboards* > *Admin Dashboard* > *AEA tasks by Assignee* section > scroll down to "*Unassigned*").
 
 2. We typically prioritize these journals:

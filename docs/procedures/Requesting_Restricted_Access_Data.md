@@ -1,6 +1,7 @@
 ---
 layout: default
 title:  Requesting Restricted-Access Data from Authors
+parent: Procedures
 --- 
 
 # Using Restricted-Access Data 

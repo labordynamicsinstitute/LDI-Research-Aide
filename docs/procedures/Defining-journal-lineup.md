@@ -4,6 +4,8 @@ title:  Defining Journal Lineup
 parent: Procedures
 --- 
 
+# Defining Journal Lineup
+
 The editorial staff will send an email about the line-up of upcoming journal issues. They're usually titled something like "[Journal] [Month] Lineup".
 
 Example:

@@ -1,7 +1,10 @@
 ---
 layout: default
 title: Rejuvenating Hiring Application Form
+parent: Procedures
 --- 
+
+# Rejuvenating Hiring Application Form
 
 1. Find the "LDI Replication Lab Application Form"  on Google Drive.
 

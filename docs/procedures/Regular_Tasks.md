@@ -4,6 +4,8 @@ title: Daily, Bi-Weekly, and Weekly Tasks
 parent: Procedures
 ---
 
+# Daily, Bi-Weekly, and Weekly Tasks
+
 ## Daily Tasks
 
 1. Check Jira if RAs need new cases. They should have at least two main Jira tasks in their queue. Refer to the [Master Replication Project Sheet](https://docs.google.com/spreadsheets/d/1Ic4UgBR3gNFvgyFigJ5SAnx0rZwlp9vu_9OV39YoXQQ/edit?pli=1#gid=1902712667)  for skill levels of programs for each RA. Details on [how to assign new cases](https://aeadataeditor.github.io/LDI-Research-Aide/procedures/Assigning_New_Cases/).

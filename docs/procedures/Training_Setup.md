@@ -1,6 +1,7 @@
 ---
 layout: default
 title:  Training Setup
+parent: Procedures
 --- 
 
 
