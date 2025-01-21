@@ -24,7 +24,7 @@ Verify that the data in question is indeed present in the openICPSR deposit, and
 
 Typically, the request will come in via email to the Data Editor, not to Jira.
 
-- Locate the original AEAREP number (if any) for the deposit in question, and code it in the Jira Metadata. [WHAT DO YOU MEAN, be precise]
+- Locate the original AEAREP number (if any) for the deposit in question, and code it in the Jira Metadata.
 - Forward the email identifying the infringement to the `dataeditor-queue` email to initiate processing.
 - Fill out all relevant JIRA fields, in particular
   - any previous AEAREP number
