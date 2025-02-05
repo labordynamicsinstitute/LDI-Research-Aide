@@ -81,4 +81,11 @@ then
 >
 
 
-- Check the box on JIRA indicating the data has been deleted (`Data Info tab` > "Was data deleted?")
+- Clean up JIRA:
+  - On the main case (the **last** case),
+    - tick the box on JIRA indicating the data has been deleted (`Data Info tab` > "Was data deleted?")
+    - Verify that the other related boxes are filled out as per the **original** case: `DataAccessReplicationTeam`, `Agreement signed`
+  - Also verify that the **sub-task** related to the confidential data request (typically a sub-task of the original JIRA issue)
+    - is linked (`relates to`) all the follow-up cases
+    - is marked done.
+    - has a copy of the email about deletion (may need pasting for old cases, where this process was not followed)
