@@ -67,7 +67,7 @@ then
 
 - **Delete the data from the L: drive**
 - Confirm that no data is on **BioHPC**
-- on Box**,
+- on **Box**,
   - Disable the File Request Link on Box
   - Move the `aearep-xxxx` Box folder to "Completed".
   - [Schedule the data files for expiration](https://support.box.com/hc/en-us/articles/360043696634-Delete-Files-or-Folders) (do NOT delete any agreement documents!)
