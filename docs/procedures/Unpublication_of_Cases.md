@@ -18,6 +18,7 @@ Deposits may need to be unpublished due to a very small number of reasons:
 
 Verify that the data in question is indeed present in the openICPSR deposit, and that the request (from PSID, others) is reasonably motivated.
 
+{: .highlight }
 - Depending on the urgency, the existing deposit may need to be unpublished at this stage. Otherwise, it can be unpublished once the corrected deposit is available.
 
 ## Step 2: Create a Case
@@ -47,6 +48,11 @@ Typically, the request will come in via email to the Data Editor, not to Jira.
   - ensure that <dataeditor-queue@aeapubs.org> is copied. 
   - Include general guidance post at <https://aeadataeditor.github.io/posts/2024-11-01-psid-requests> for reference. 
   - Include links to the revision policy <https://www.aeaweb.org/journals/data/revisions-policy> for reference.
+
+{: .highlight }
+> A template for this email is available in the [`Correcting-PII`](../emails/Correcting-PII) email template.
+
+
 
 {: .highlight }
 > Move the case to `In Progress`.
