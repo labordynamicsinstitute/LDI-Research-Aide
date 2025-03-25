@@ -38,7 +38,7 @@ For cases where the author(s) have indicated on the DCAF that they can make rest
 2. Create a new subfolder corresponding to the main Jira issue (`aearep-xxx`). 
 3. Create a [file request](https://support.box.com/hc/en-us/articles/360045304813-Using-File-Request-to-get-Content-from-Anyone) within the newly created subfolder (only one file request is permitted per folder).  
 4. Copy the file request link.
-5. Email the authors to request that they upload the restricted-access data files to Box using the [relevant template]({{ '/emails/Email-Templates/#request-restricted-access-data' | relative_url }}).
+5. Email the authors to request that they upload the restricted-access data files to Box using the [relevant template]({{ '/emails/Request-Restricted-Access-Data' | relative_url }}).
 
 ### Once data is obtained
 
@@ -67,11 +67,11 @@ then
 
 - **Delete the data from the L: drive**
 - Confirm that no data is on **BioHPC**
-- on Box**,
+- on **Box**,
   - Disable the File Request Link on Box
-  - Move the `aearep-xxxx` Box folder to "Completed".
   - [Schedule the data files for expiration](https://support.box.com/hc/en-us/articles/360043696634-Delete-Files-or-Folders) (do NOT delete any agreement documents!)
-   
+  - Move the `aearep-xxxx` Box folder to "Completed".
+
 - Respond to previous email to author (cc to `dataeditor-queue@aeapubs.org`, and be sure that the subject line includes the `AEAREP-xxxx` of the subtask).
 
 >
@@ -81,4 +81,11 @@ then
 >
 
 
-- Check the box on JIRA indicating the data has been deleted (`Data Info tab` > "Was data deleted?")
+- Clean up JIRA:
+  - On the main case (the **last** case),
+    - tick the box on JIRA indicating the data has been deleted (`Data Info tab` > "Was data deleted?")
+    - Verify that the other related boxes are filled out as per the **original** case: `DataAccessReplicationTeam`, `Agreement signed`
+  - Also verify that the **sub-task** related to the confidential data request (typically a sub-task of the original JIRA issue)
+    - is linked (`relates to`) all the follow-up cases
+    - is marked done.
+    - has a copy of the email about deletion (may need pasting for old cases, where this process was not followed)

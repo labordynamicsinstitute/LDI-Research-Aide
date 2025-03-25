@@ -1,7 +1,7 @@
 ---
 layout: default
 title:  Modifying this guide
-nav_order: 5
+nav_order: 500
 --- 
 
 - TOC
