@@ -49,12 +49,12 @@ For cases where the author(s) have indicated on the DCAF that they can make rest
 >
 > Download from the provided link, and upload into Box. Then proceed as usual.
 
-- Download the data in CCSS Cloud at add it to `L:\Restricted-Access-Data` in a folder titled `aearep-xxx-nda_Implicit`.
+- Download the data in CCSS Cloud at add it to `L:\Restricted-Access-Data` in a folder titled `aearep-xxx`.
 
-- Go into Jira ticket for AEAREP-xxx, under *Data Info*, edit fields:
+- Go into Jira ticket for AEAREP-xxx, under *Restricted Data Info*, edit fields:
     - Agreement signed: `NDA`, `Implicit`
-    - Working location of restricted data: `L:\Restricted-Access-Data\aearep-xxx-nda_Implicit`
-- Comment in the Jira ticket *"Restricted access data added: L:\Restricted-Access-Data\aearep-xxx-nda_Implicit"* and tag the RA currently assigned to run the code.
+    - Working location of restricted data: `L:\Restricted-Access-Data\aearep-xxx`
+- Comment in the Jira ticket *"Restricted access data added: L:\Restricted-Access-Data\aearep-xxx-"* and tag the RA currently assigned to run the code.
 
 ### Once case is done
 
@@ -71,6 +71,7 @@ then
   - Disable the File Request Link on Box
   - [Schedule the data files for expiration](https://support.box.com/hc/en-us/articles/360043696634-Delete-Files-or-Folders) (do NOT delete any agreement documents!)
   - Move the `aearep-xxxx` Box folder to "Completed".
+  - Check the box on JIRA indicating the data has been deleted (`Restricted Data Info tab` > "Was data deleted?")
 
 - Respond to previous email to author (cc to `dataeditor-queue@aeapubs.org`, and be sure that the subject line includes the `AEAREP-xxxx` of the subtask).
 
