@@ -47,17 +47,16 @@ Remove last line if no non-Cornell students are RAs this semester.
 
 > Subject: Timesheet Reminder
 
-<blockquote>
+{: .highlight}
+> 
+> Here's your weekly reminder:
+> - submit your timesheets by 5pm tonight
+> - git push any edits you've made to bitbucket (do this at the end of every work session)
+> - Move the Jira tickets to the appropriate status (also do this at the end of every work session)
+> 
+> 
+> Non-Cornell students, use this timesheet: https://forms.gle/86GpVDjLM9FUgfcp7
 
-Here's your weekly reminder:
-- submit your timesheets by 5pm tonight
-- git push any edits you've made to bitbucket (do this at the end of every work session)
-- Move the Jira tickets to the appropriate status (also do this at the end of every work session)
-
-
-Non-Cornell students, use this timesheet: https://forms.gle/86GpVDjLM9FUgfcp7
-
-</blockquote>
 
 #### Workday
 
@@ -68,7 +67,7 @@ Non-Cornell students, use this timesheet: https://forms.gle/86GpVDjLM9FUgfcp7
 - Review hours entered by RAs and make sure they make sense
     - If the hours don't make sense (like an RA submits 10 hours that week but the haven't updated their bitbucket repos in two weeks) email the RA asking for clarification on what they worked on. Timesheets need to be finalized by 11am on Thursday.
 
-#### AEA Hires (Google Sheets)
+#### AEA Summer Hires (Google Sheets)
 
 1. Every other Thursday, open the [AEA Hours Worked](https://docs.google.com/spreadsheets/d/1t78w25fr5a7w7NjnQxsl20q9m_VXw3Hh2c3cy3lI77s/edit#gid=611415739) spreadsheet.
 
@@ -79,25 +78,26 @@ Non-Cornell students, use this timesheet: https://forms.gle/86GpVDjLM9FUgfcp7
 4. After the email is sent, enter "Approved" for column M to indicate that the timesheet was sent.
 
 > Subject: AEA RA Hours Worked (Week of [Month] [Day])
-<blockquote>
 
-Below are **FirstName LastName** hours worked (at $15.25 per hour)
+{: .highlight}
+> 
+> Below are **FirstName LastName** hours worked (at $15.25 per hour)
+> 
+> 2/22 - 2/28 -- 2 hours ($30.50)
+> 
+> 2/29 - 2/6 -- x hours ($ )
+> 
+> 3/7 - 3/13 -- x hours ($ )
+> 
+> -------------------------------------------------------------------------------
+> Here are **FirstName LastName** hours worked (at $15.25 per hour):
+> 
+> 2/22 - 2/28 -- x hours ( $ )
+> 
+> 2/29 - 2/6 -- x hours ($ )
+> 
+> 3/7 - 3/13 -- x hours ($ )
 
-2/22 - 2/28 -- 2 hours ($30.50)
-
-2/29 - 2/6 -- x hours ($ )
-
-3/7 - 3/13 -- x hours ($ )
-
--------------------------------------------------------------------------------
-Here are **FirstName LastName** hours worked (at $15.25 per hour):
-
-2/22 - 2/28 -- x hours ( $ )
-
-2/29 - 2/6 -- x hours ($ )
-
-3/7 - 3/13 -- x hours ($ )
-</blockquote>
 
 
 ### (2) Check Pending and Assess Cases
