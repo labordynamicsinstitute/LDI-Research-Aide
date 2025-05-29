@@ -10,7 +10,7 @@ parent: Email templates
 Subject Line:
 
 ```
-Action Needed for your open ICPSR Deposit (AEAREP-xxx)
+Inquiry regarding information in your manuscript AExxxxx (AEAREP-xxx)
 ```
 
 {: .highlight }
