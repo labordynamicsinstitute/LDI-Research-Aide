@@ -24,7 +24,7 @@ Inquiry regarding information in your manuscript AExxxxx (AEAREP-xxx)
 > 
 > Could you please let me know whether (a) you are OK with revealing the name of the data provider under NDA; (b) if you are uncertain, whether the organization would be OK with the above arrangement? (c) if you are OK with me contacting the source. 
 > 
-> The default NDA that requires the least amount of administrative hassle is this one: https://researchservices.cornell.edu/resources/individual-standard-non-disclosure-agreement-nda. 
+> The default NDA that requires the least amount of administrative hassle is this one: <https://researchservices.cornell.edu/resources/individual-standard-non-disclosure-agreement-nda>. 
 > 
 > Happy to chat over Zoom as well, if needed.
 >
