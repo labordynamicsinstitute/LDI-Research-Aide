@@ -13,7 +13,7 @@ A user of your replication package has identified what would appear to be PII in
 
 Please verify if this is, in fact, the case, and if not appropriate as per your IRB approval, revise the files to remove the PII (replacing with fake identifiers, and removing names). Our revision policy is here:  https://www.aeaweb.org/journals/data/revisions-policy, and we verify compliance.
 
-As a precaution, **we have unpublished your current deposit**.
+As a precaution, **we have unpublished your current deposit**. Unfortunately, that also means that your manuscript is now no longer compliant with the AEA Data and Code Policy.
 
 [NOTE] As a reminder, no data with PII should be published in the main replication package. If you have PII in your dataset, and are allowed to publish it with restrictions, please contact us for the best solution, but do not include it in the main replication package.
 
