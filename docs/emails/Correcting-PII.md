@@ -15,7 +15,7 @@ Please verify if this is, in fact, the case, and if not appropriate as per your 
 
 As a precaution, **we have unpublished your current deposit**. Unfortunately, that also means that your manuscript is now no longer compliant with the AEA Data and Code Policy.
 
-[NOTE] As a reminder, no data with PII should be published in the main replication package. If you have PII in your dataset, and are allowed to publish it with restrictions, please contact us for the best solution, but do not include it in the main replication package.
+[NOTE] As a reminder, no data with **sensitive** PII should be published in the main replication package. If you have **sensitive** PII in your dataset, and are allowed to publish it with restrictions, please contact us for the best solution, but do not include it in the main replication package. If the PII is not sensitive (e.g., politicians' names, etc.), please confirm by response email.
 
 We recommend using the J-PAL maintained PII-Scan for R <https://github.com/J-PAL/PII-Scan> or PII-Scan for Stata <https://github.com/J-PAL/stata_PII_scan> to get an idea of potential PII in your dataset.
 
