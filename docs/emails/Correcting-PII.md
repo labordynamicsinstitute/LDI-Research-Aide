@@ -11,7 +11,11 @@ A user of your replication package has identified what would appear to be PII in
 
 (PROVIDE SAMPLE FILES HERE)
 
-Please verify if this is, in fact, the case, and if not appropriate as per your IRB approval, revise the files to remove the PII (replacing with fake identifiers, and removing names). Our revision policy is here:  https://www.aeaweb.org/journals/data/revisions-policy, and we verify compliance.
+Please verify if this is, in fact, the case, and if not appropriate as per your IRB approval, revise the files to remove the PII (replacing with fake identifiers, and removing names, as appropriate).
+
+If, on the other hand, the publication of these data is compliant with your IRB approval, please notify us by reply-all, and we will re-publish the replication package.
+
+Our revision policy is here:  https://www.aeaweb.org/journals/data/revisions-policy, and we verify compliance.
 
 As a precaution, **we have unpublished your current deposit**. Unfortunately, that also means that your manuscript is now no longer compliant with the AEA Data and Code Policy.
 
@@ -19,7 +23,7 @@ As a precaution, **we have unpublished your current deposit**. Unfortunately, th
 
 We recommend using the J-PAL maintained PII-Scan for R <https://github.com/J-PAL/PII-Scan> or PII-Scan for Stata <https://github.com/J-PAL/stata_PII_scan> to get an idea of potential PII in your dataset.
 
-⚠️ 📢 You remain ultimately responsible for ensuring that no PII is included in the published replication package.
+⚠️ 📢 You remain ultimately responsible for ensuring that no **sensitive** PII is included in the published replication package.
 
 If this is a violation of your IRB protocol, you may need to notify your IRB about this breach. You can mention that the above measures have been undertaken. You can find the number of downloads of your replication package listed on the openICPSR website.
 
