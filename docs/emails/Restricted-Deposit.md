@@ -21,7 +21,7 @@ Action Needed for your open ICPSR Deposit (AEAREP-xxx)
 > 
 > Please answer these questions in regards to the data that are part of the deposit you are submitting. The answer should not consider any other data that may have been used as part of the manuscript’s analysis, but that are not present in this particular deposit. For most deposits, the correct answer to both questions is "No".
 > 
-> Please review your deposit, and your answers to these questions.
+> Please review your deposit (https://www.openicpsr.org/openicpsr/workspace?goToPath=/openicpsr/[DEPOSITNUM]), and your answers to these questions.
 > 
 > If the answers are correct as currently provided, please confirm by return email. If you need to modify the answers, you can do so by simply [recalling](https://aeadataeditor.github.io/aea-de-guidance/FAQ.html#you-can-recall-the-submission) the package, and then [re-submitting to the Data Editor](https://aeadataeditor.github.io/aea-de-guidance/data-deposit-aea.html#submitting-to-the-data-editor)
 > 
