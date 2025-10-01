@@ -73,4 +73,10 @@ parent: Email templates
 > 2. Rename the file from "template-config.do" to "config.do".
 > 3. Set the local "scenario" according to the file structure.
 > 4. Add any necessary packages (as identified by the authors in their README) to the local "ssc_packages"
-> 5. Include
+> 5. Include it in the authors' main script (e.g., `include "config.do"`)
+>
+> Please do let us know if you need any further guidance or assistance.
+>
+> Sincerely,
+>
+> (me)
