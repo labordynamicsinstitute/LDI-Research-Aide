@@ -22,11 +22,15 @@ Send it to authors, cc to `dataeditor-queue@aeapubs.org` and  `dataeditor@aeapub
 {: .highlight }
 > Dear Dr. *Author*,
 >
-> We would like you to complete an additional ☑️ checklist for your replication package that will allow us to accelerate the reproducibility check process. Your replication package meets certain criteria that we believe makes this process easy for you. The checklist is based on the five steps that we have found to be effective in solving many reproducibility issues, identified through the work of our RAs on several thousand replication packages.
+> We would like you to complete an additional ☑️ checklist for your replication package that will allow us to accelerate the reproducibility check process. Your replication package meets certain criteria that we believe makes this process easy for you. The checklist is based on the **five steps** that we have found to be effective in solving many reproducibility issues, identified through the work of our RAs on several thousand replication packages.
 >
 > **This is a pilot project**, and we ask that if you run into any issues or questions, that you immediately reach out to us, by reply-all to this 📧 email!
 >
-> You can find the checklist, and instructions, at the following link: <https://aeadataeditor.github.io/aea-de-guidance/preparing-replication-package.html>. Once you have completed the checklist, and the associated actions, you should [revise your replication package](https://aeadataeditor.github.io/aea-de-guidance/FAQ.html#i-was-asked-to-modify-files-in-my-repository-not-yet-published-but-i-cannot-upload-or-edit-anything) (if necessary), and [resubmit](https://aeadataeditor.github.io/aea-de-guidance/data-deposit-aea.html#submitting-to-the-data-editor). 
+> You can find the **checklist**, and instructions, at the following link: 
+
+<https://aeadataeditor.github.io/aea-de-guidance/preparing-replication-package.html>
+
+Once you have completed the checklist, and the associated actions, you should [revise your replication package](https://aeadataeditor.github.io/aea-de-guidance/FAQ.html#i-was-asked-to-modify-files-in-my-repository-not-yet-published-but-i-cannot-upload-or-edit-anything) (**if necessary**), and [resubmit](https://aeadataeditor.github.io/aea-de-guidance/data-deposit-aea.html#submitting-to-the-data-editor). You should also either **include the generated log file** in the deposit, or include it in your reply-all to this email.
 >
 > Our expectation is that none of this will affect the manuscript you have submitted, and thus you should not need to interact with the ScholarOne portal for any of this, only with the openICPSR deposit. If for any reason you need to make changes to the manuscript, please let us know, and we will unlock the ScholarOne portal for you.  
 >
