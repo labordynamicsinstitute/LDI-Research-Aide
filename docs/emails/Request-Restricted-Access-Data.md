@@ -13,7 +13,7 @@ This is just the email template. For further instructions, refer to [Requesting 
 
 Subject Line:
 ```
-Request for Restricted Access Data (AEAREP-xxx)
+Request for Restricted Access Not-for-publication Data (AEAREP-xxx)
 ```
 
 Send it to authors, cc to `dataeditor-queue@aeapubs.org` and  `dataeditor@aeapubs.org`.
@@ -21,7 +21,13 @@ Send it to authors, cc to `dataeditor-queue@aeapubs.org` and  `dataeditor@aeapub
 {: .highlight }
 > Dear Dr. *Author*,
 >
-> We received a request to conduct the AEA reproducibility check for your manuscript entitled "X." On the Data and Code Availability form which you submitted it was indicated that the data can be made available to the Data Editor privately. Would it be possible for you to provide the restricted-access data so that we may proceed to verify the reproducibility of the entire replication package? The data would not be published, and would be deleted by us once we have completed our process. Our preferred sharing method is a Box File Request (specific to your manuscript), the link for which can be found below, but can alternatively happen via Dropbox or similar means, and should be compliant with your data use agreement.
+> We received a request to conduct the AEA reproducibility check for your manuscript entitled "X." On the Data and Code Availability form which you submitted you indicated that the data can be made available to the Data Editor privately, not for publication. Would it be possible for you to provide the restricted-access data so that we may proceed to verify the reproducibility of the entire replication package? We confirm the following:
+>
+> - The data will be used solely for verification of your published results
+> - The data will not be retained, reused, or redistributed. Unless you post data on openICPSR, we never publish any of the materials you provide to us.
+> - The data will be deleted once our process is complete. We will confirm deletion by email. 
+>
+> Our preferred sharing method is a Box File Request (specific to your manuscript), the link for which can be found below, but can alternatively happen via Dropbox or similar means, and should be compliant with your data use agreement.
 > 
 > Box File Request (navigate to the link below and upload the file(s)):
 >   [Insert Box File Request Link Here]
@@ -46,7 +52,7 @@ After all checks are complete (case is in *Pending openICPSR Changes* or *Assess
 ```
 Dear Dr. *Author*,
 
-This email is confirm that we have deleted the restricted access data for "[Title]" from our workspaces. Your deposit is being moved along in the replication process.
+This email is confirm that we have deleted the restricted access data for "[Title]" from our workspaces. Your deposit is being moved along in the publication process.
 ```
 
 ### Early contact 
