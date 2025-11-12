@@ -20,7 +20,7 @@ Request for Additional Checklist for Accelerated Reproducibility Check for "[Tit
 Send it to authors, cc to `dataeditor-queue@aeapubs.org` and  `dataeditor@aeapubs.org`.
 
 {: .highlight }
-> Dear Dr. *Author*,
+> Dear authors,
 >
 > We would like you to complete an additional ☑️ checklist for your replication package that will allow us to accelerate the reproducibility check process. Your replication package meets certain criteria that we believe makes this process easy for you. The checklist is based on the **five steps** that we have found to be effective in solving many reproducibility issues, identified through the work of our RAs on several thousand replication packages.
 >
