@@ -49,6 +49,7 @@ For cases where the author(s) have indicated on the DCAF that they can make rest
 >
 > Download from the provided link, and upload into Box. Then proceed as usual.
 
+- Run the following Bitbucket pipeline: `7-download-box-manifest`.
 - Download the data in CCSS Cloud at add it to `L:\Restricted-Access-Data` in a folder titled `aearep-xxx`.
 
 - Go into Jira ticket for AEAREP-xxx, under *Restricted Data Info*, edit fields:
