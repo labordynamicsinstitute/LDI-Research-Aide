@@ -22,19 +22,17 @@ Send it to authors, cc to `dataeditor-queue@aeapubs.org` and  `dataeditor@aeapub
 {: .highlight }
 >Dear authors,
 >
->We would like you to complete an additional ☑️ checklist for your replication package that will allow us to accelerate the reproducibility check process. Your replication package meets certain criteria that we believe makes this process easy for you. The checklist is based on the **five steps** that we have found to be effective in solving many reproducibility issues, identified through the work of our RAs on several thousand replication packages.
+>We would like to invite your **voluntary** participation in a **pilot project** designed to speed up the reproducibility check of your replication package. 
 >
-> **This is a pilot project**, and we ask that if you run into any issues or questions, that you immediately reach out to us, by reply-all to this 📧 email!
+>The process should take you **no more than 30 minutes** of your time (based on extensive testing by my team). If at any time, you would like assistance, please reach out to us by reply-all to this 📧 email!
 >
->You can find the **checklist**, and instructions, at the following link: 
+>The pilot project involves you (instead of us) making a very small number of edits to your replication package, filling out a 5-step checklist, and certifiying the reproducibility of your package on a website we maintain. If the certification works, my replicators will not need to re-run your replication package. The process will not work for all replication packages, and if it does not, we will proceed with our usual reproducibility checks. 
+>
+> You can find the **checklist**, and instructions, at the following link: 
 >
 ><https://aeadataeditor.github.io/aea-de-guidance/preparing-replication-package.html>
 >
->The checklist will suggest you run your replication package with Docker. If this is a hurdle, you can also try our pilot website at <https://submit.sivacor.org/>. You should not use the website if your data is confidential. 
-> 
->Once you have completed the checklist, and the associated actions, you should [revise your replication package](https://aeadataeditor.github.io/aea-de-guidance/FAQ.html#i-was-asked-to-modify-files-in-my-repository-not-yet-published-but-i-cannot-upload-or-edit-anything) (**if necessary**), and [resubmit](https://aeadataeditor.github.io/aea-de-guidance/data-deposit-aea.html#submitting-to-the-data-editor). You should also either **include the generated log file** in the deposit, or include it in your reply-all to this email. If using [SIVACOR](https://submit.sivacor.org/), just upload the produced "Replicated Package" as a revision of your openICPSR deposit.
->
-> Our expectation is that none of this will affect the manuscript you have submitted, and thus you should not need to interact with the ScholarOne portal for any of this, only with the openICPSR deposit. If for any reason you need to make changes to the manuscript, please let us know, and we will unlock the ScholarOne portal for you.  
+> If at any time, you would like to withdraw from the pilot, simply let us know by reply-all to this 📧 email, and we will proceed with the standard manual reproducibility check.
 >
 > Sincerely,
 >
