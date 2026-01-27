@@ -33,12 +33,19 @@ We may have revisions based on the restricted data which require running additio
 
 For cases where the author(s) have indicated on the DCAF that they can make restricted-access data available to the Data Editor privately, follow these steps:
 
-1. Create a subtask (issue type: confidential data) in the main Jira task. Title it "Request Restricted Access Data for AEAREP-xxx". This subtask will be aearep-nnnn
+### Setup
+
+1. Create a subtask (issue type: `Request confidential data`) in the main Jira task. Title it "Request Restricted Access Data for AEAREP-xxx". This subtask will be `aearep-nnnn`.
 1. Navigate to the following [directory](https://cornell.app.box.com/folder/144685329952) in Box: "Box/LDI Replication Lab/Office of AEA Data Editor/Restricted-Access-Data/"
 2. Create a new subfolder corresponding to the main Jira issue (`aearep-xxx`). 
-3. Create a [file request](https://support.box.com/hc/en-us/articles/360045304813-Using-File-Request-to-get-Content-from-Anyone) within the newly created subfolder (only one file request is permitted per folder).  
-4. Copy the file request link.
-5. Email the authors to request that they upload the restricted-access data files to Box using the [relevant template]({{ '/emails/Request-Restricted-Access-Data' | relative_url }}).
+3. Paste the Box URL into the field `Restricted data info` -> `Restricted data Box folder` of the main Jira task `aearep-xxx`. Alternatively, paste simply the last part of the URL (a long number) into the field `Restricted data info` -> `Restricted data Box ID` of the main Jira task `aearep-xxx`, which will auto-fill the Box URL.
+
+### Sending the request
+
+1. Create a [file request](https://support.box.com/hc/en-us/articles/360045304813-Using-File-Request-to-get-Content-from-Anyone) within the newly created subfolder (only one file request is permitted per folder).  
+2. Copy the file request link.
+3. Email the authors to request that they upload the restricted-access data files to Box using the [relevant template]({{ '/emails/Request-Restricted-Access-Data' | relative_url }}).
+4. Move the Jira sub-task `aearep-nnnn` to `Request sent`
 
 ### Once data is obtained
 
@@ -52,10 +59,11 @@ For cases where the author(s) have indicated on the DCAF that they can make rest
 - Run the following Bitbucket pipeline: `7-download-box-manifest`.
 - Download the data in CCSS Cloud at add it to `L:\Restricted-Access-Data` in a folder titled `aearep-xxx`.
 
-- Go into Jira ticket for AEAREP-xxx, under *Restricted Data Info*, edit fields:
-    - Agreement signed: `NDA`, `Implicit`
+- Go into Jira ticket for `AEAREP-xxx`, under *Restricted Data Info*, edit fields:
+    - Agreement signed: `NDA`, `Implicit` (or whatever is relevant!)
     - Working location of restricted data: `L:\Restricted-Access-Data\aearep-xxx`
-- Comment in the Jira ticket *"Restricted access data added: L:\Restricted-Access-Data\aearep-xxx-"* and tag the RA currently assigned to run the code.
+- Move the `aearep-nnnn` subtask to `Restricted Data Received`.
+- Comment in the Jira ticket *"Restricted access data added: L:\Restricted-Access-Data\aearep-xxx-"* and tag the RA currently assigned to run the code. (might be automated)
 
 ### Once case is done
 
@@ -72,7 +80,9 @@ then
   - Disable the File Request Link on Box
   - [Schedule the data files for expiration](https://support.box.com/hc/en-us/articles/360043696634-Delete-Files-or-Folders) (do NOT delete any agreement documents!)
   - Move the `aearep-xxxx` Box folder to "Completed".
-  - Check the box on JIRA indicating the data has been deleted (`Restricted Data Info tab` > "Was data deleted?")
+  - Move the Jira sub-task `aearep-nnnn` to `Restricted data deleted`
+  - VERIFY: the box on JIRA indicating the data has been deleted (`Restricted Data Info tab` > `Was data deleted?`) should be set to `Yes`.
+  
 
 - Respond to previous email to author (cc to `dataeditor-queue@aeapubs.org`, and be sure that the subject line includes the `AEAREP-xxxx` of the subtask).
 
