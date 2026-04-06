@@ -63,7 +63,7 @@ parent: Email templates
 > 
 > Code and (public) data: https://www.openicpsr.org/openicpsr/workspace?goToPath=/openicpsr/123456
 > 
-> While you conduct the reproducibility checks, we ask that you not communicate with the authors on this topic. Please let us know if you believe you have any conflicts of interest in this matter which would prevent you from conducting an objective check on the reproducibility of the archive.
+> While you conduct the reproducibility checks, we ask that you not communicate with the authors on this topic. Please let us know if you believe you have any conflicts of interest in this matter which would prevent you from conducting an objective check on the reproducibility of the archive. Please also fill out the following [survey](https://cornell.yul1.qualtrics.com/jfe3/preview/previewId/a64fe1ba-3c7c-4dd2-8149-9f4e3801ceb0/SV_afKXXGaWArqhuyG?Q_CHL=preview&Q_SurveyVersionID=current).
 > 
 > Your task is to follow all instructions on how to obtain and extract the data, run the data cleaning/preparation as well as the analysis code. We have already conducted a first assessment, based on our access to the deposit and code, but not data. Attached is a spreadsheet, mapping programs to figures and tables. You should use this to keep track of what works, and what does not work. You should then prepare your report using our [template](https://github.com/AEADataEditor/replication-template/blob/master/EXTERNAL-REPORT.md) ([same in Word format](https://github.com/AEADataEditor/replication-template/blob/master/EXTERNAL-REPORT.docx)).
 > 
