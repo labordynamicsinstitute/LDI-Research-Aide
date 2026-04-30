@@ -36,6 +36,7 @@ Typically, the request will come in via email to the Data Editor, not to Jira.
 
 - Create repositories for each case, if not already existing. 
 - Run the pipeline scripts to generate a pre-change list of files.
+- In cases where personally identifiable information (PII) has been confirmed the prior version of the deposit (containing PII) must be de-accessioned.
 
 {: .highlight }
 > Assign the JIRA case to the RAide and move it `Assigned`.
