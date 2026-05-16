@@ -26,7 +26,7 @@ Send it to authors, cc to `dataeditor-queue@aeapubs.org` and  `dataeditor@aeapub
 >
 >The process should take you **no more than 30 minutes** of your time (based on extensive testing by my team). If at any time, you would like assistance, please reach out to us by reply-all to this 📧 email!
 >
->The pilot project involves you (instead of us) making a very small number of edits to your replication package, filling out a 5-step checklist, and certifiying the reproducibility of your package on a website we maintain. If the certification works, my replicators will not need to re-run your replication package. The process will not work for all replication packages, and if it does not, we will proceed with our usual reproducibility checks. 
+>The pilot project involves you (instead of us) making a very small number of edits to your replication package, filling out a 4-part checklist, and certifiying the reproducibility by uploading your package to a website we maintain (<https://sivacor.org>). If the certification works, my replicators will not need to re-run your replication package. The process will not work for all replication packages, and if it does not, we will proceed with our usual reproducibility checks. 
 >
 > You can find the **checklist**, and instructions, at the following link: 
 >
