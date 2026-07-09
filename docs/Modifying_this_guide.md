@@ -41,6 +41,15 @@ By convention, you should also create this file in the `docs/procedures` folder;
 
 If you need to move an existing page, you should change the `parent` value in the header of the file, as well as the actual location of the file in the `docs` folder.
 
+## Linking to other pages
+
+This site does not use pretty/trailing-slash permalinks. A page at `docs/<subdir>/<Name>.md` is always published at `/docs/<subdir>/<Name>.html` (with the site's baseurl in front of that). When linking to another page in this repo, always include **both** the `docs/` segment **and** the `.html` extension:
+
+- From a page in the same subfolder, a relative link like `[text](Other-Page.html)` works.
+- From a page in a different subfolder, use a relative link through `../`, e.g. `[text](../emails/Some-Template.html)`.
+- For an absolute link (used on the homepage, `index.md`), use `/LDI-Research-Aide/docs/<subdir>/<Name>.html`, or better, the Liquid form `{{ '/docs/<subdir>/<Name>.html' | relative_url }}`, which also works correctly if the site is ever moved to a different base URL.
+- Never link with a bare `.md` extension, a trailing slash instead of `.html`, or without the `docs/` segment — none of those resolve on this site. A CI check (see `.github/workflows/ci.yml`) will catch this class of mistake on every pull request.
+
 
 
 
