@@ -44,7 +44,7 @@ For cases where the author(s) have indicated on the DCAF that they can make rest
 
 1. Create a [file request](https://support.box.com/hc/en-us/articles/360045304813-Using-File-Request-to-get-Content-from-Anyone) within the newly created subfolder (only one file request is permitted per folder).  
 2. Copy the file request link.
-3. Email the authors to request that they upload the restricted-access data files to Box using the [relevant template]({{ '/emails/Request-Restricted-Access-Data' | relative_url }}).
+3. Email the authors to request that they upload the restricted-access data files to Box using the [relevant template]({{ '/docs/emails/Request-Restricted-Access-Data.html' | relative_url }}).
 4. Move the Jira sub-task `aearep-nnnn` to `Request sent`
 
 ### Once data is obtained

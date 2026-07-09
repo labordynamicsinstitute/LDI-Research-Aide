@@ -31,7 +31,7 @@ parent: Otherwise unclassified pages
 
 ## Logins
 
-- [ ] See logins needed in [general hiring process]({{ '/procedures/Hiring_process/' | relative_url }}).
+- [ ] See logins needed in [general hiring process]({{ '/docs/procedures/Hiring_process.html' | relative_url }}).
 - [ ] [LastPass](https://www.lastpass.com/): You will need to get a LastPass account.
 - [ ] [LARS] Share logins for
   - Jira admin account (Atlassian) + 2FA code

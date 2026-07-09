@@ -24,7 +24,7 @@ Note that these are mostly just the email templates. If further instructions exi
 
 - Add-on form for Workday: [https://forms.gle/QoZdqeLab4dwB25Q7](https://forms.gle/QoZdqeLab4dwB25Q7), which is linked to [MASTER Replication Project Resumes](https://docs.google.com/spreadsheets/d/1Ic4UgBR3gNFvgyFigJ5SAnx0rZwlp9vu_9OV39YoXQQ/edit?gid=991404332#gid=991404332).
 - Planning forms to be sent to returning RAs: [https://drive.google.com/drive/u/1/folders/1uhZHu0MOJIth-4oDc44XkUdHS7ncMqpj](https://drive.google.com/drive/u/1/folders/1uhZHu0MOJIth-4oDc44XkUdHS7ncMqpj), which are linked to 
-- For both forms, see the explanation on how to unlink and rejuvenat the forms at [Rejuvenate Hiring Application Form](/LDI-Research-Aide/procedures/Rejuvenate_Hiring_Application_Form/).
+- For both forms, see the explanation on how to unlink and rejuvenat the forms at [Rejuvenate Hiring Application Form](/LDI-Research-Aide/docs/procedures/Rejuvenate_Hiring_Application_Form.html).
 
 ## Timelines:
 
@@ -38,7 +38,7 @@ Note that these are mostly just the email templates. If further instructions exi
 ### Reaching out to previous RAs
 
 1. Lars, Research Aide meet to discuss whom to re-invite.
-2. Research Aide prepares new linkage from form. See [Planning and Rehire Process](/LDI-Research-Aide/procedures/Planning_rehire_process/).
+2. Research Aide prepares new linkage from form. See [Planning and Rehire Process](/LDI-Research-Aide/docs/procedures/Planning_rehire_process.html).
 2. Lars, Research Aide sends out email with link to "[Planning Form](https://drive.google.com/drive/u/1/folders/1uhZHu0MOJIth-4oDc44XkUdHS7ncMqpj)" (Fall, Summer, Spring, as appropriate)
 
 ### Training schedule
@@ -171,5 +171,5 @@ Thank you,
 
 
 {: .highlight}
-> **DON'T FORGET**: Next step is to [prepare the training]({{ '/procedures/Training_Setup/' | relative_url }}).
+> **DON'T FORGET**: Next step is to [prepare the training]({{ '/docs/procedures/Training_Setup.html' | relative_url }}).
 

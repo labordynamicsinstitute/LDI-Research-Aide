@@ -7,7 +7,7 @@ parent: Email templates
 
 ### Initiating contact
 
-This is just the email template. For further instructions, refer to [Requesting Restricted-Access Data from Authors](Requesting_Restricted_Access_Data.md)
+This is just the email template. For further instructions, refer to [Requesting Restricted-Access Data from Authors](../procedures/Requesting_Restricted_Access_Data.html)
 
 ---
 

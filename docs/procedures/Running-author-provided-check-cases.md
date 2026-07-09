@@ -24,7 +24,7 @@ parent: Procedures
 
 - Select cases that are single-software (double-check!), for now only Stata or R.
 - Mark these under `Repl. info` -> `Eligibility for author-generated reproducibility check` as `Yes`. When assigning the case, this should automatically generate a subtask of type `Author-Generated Reproducibility Check`.
-- Send an email to the author, see [email template]({{ '/emails/Request-author-verification' | relative_url }})
+- Send an email to the author, see [email template]({{ '/docs/emails/Request-author-verification.html' | relative_url }})
 - Move subtask to `In progress`.
 
 ## When reply is received

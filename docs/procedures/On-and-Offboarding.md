@@ -49,12 +49,12 @@ Current Research Aide [RA] and  Data Editor [DE] onboards incoming replacement [
 - [DE] adds [R] as `curator` on Zenodo (optional, as needed)
 - [DE] shares password for `dataeditor@aeapubs.org` for [Code Ocean](https://codeocean.com) (optional, as needed).
   - [R] also needs own account on Code Ocean.
-- [RA, DE] Request OpenICPSR Admin Permissions via email to [Kyrani Simon](karsimon@umich.edu)
+- [RA, DE] Request OpenICPSR Admin Permissions via email to [Kyrani Simon](mailto:karsimon@umich.edu)
 - [DE] adds [R]'s Github ID to Github [AEADataEditor](https://github.com/AEADataEditor/) and [Labor Dynamics Institute](https://github.com/labordynamicsinstitute) projects
 
 
 ## Pre-doctoral
 
-- Add to `economics-field-students-l@list.cornell.edu` listserv by requesting from [Amy Moesch](alg5@cornell.edu)
-- Connect with CIDER pre-doc group by contacting [Kelsey Lynn Schreiber](kls329@cornell.edu)
+- Add to `economics-field-students-l@list.cornell.edu` listserv by requesting from [Amy Moesch](mailto:alg5@cornell.edu)
+- Connect with CIDER pre-doc group by contacting [Kelsey Lynn Schreiber](mailto:kls329@cornell.edu)
 - Consider applying to NSF GRFP in your second year (Deadline in October)
