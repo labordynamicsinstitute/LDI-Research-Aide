@@ -51,7 +51,7 @@ Typically, the request will come in via email to the Data Editor, not to Jira.
   - Include links to the revision policy <https://www.aeaweb.org/journals/data/revisions-policy> for reference.
 
 {: .highlight }
-> A template for this email is available in the [`Correcting-PII`](../emails/Correcting-PII) email template.
+> A template for this email is available in the [`Correcting-PII`](../emails/Correcting-PII.html) email template.
 
 
 
