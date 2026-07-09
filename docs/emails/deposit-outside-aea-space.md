@@ -8,7 +8,7 @@ nav_order: 16
 
 Dear author,
 
-We noticed that the deposit associated with you [JOURNAL] article [Manuscript Number](Title) was initially published outside of the AEA space, which requires some additional steps to bring it into compliance. The updated process is as follows:
+We noticed that the deposit associated with you [JOURNAL] article "[Manuscript Number]" ("[Title]") was initially published outside of the AEA space, which requires some additional steps to bring it into compliance. The updated process is as follows:
 
 1. 
    We will initiate a transfer of your deposit into the AEA-designated space. This typically takes 1–2 business days.
