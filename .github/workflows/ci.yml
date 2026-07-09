@@ -21,4 +21,4 @@ jobs:
       - name: Install html-proofer
         run: gem install html-proofer --no-document
       - name: Check internal links
-        run: htmlproofer ./_site --disable-external --allow-hash-href --ignore-urls "/mailto:/" --url-swap "^/LDI-Research-Aide/:/"
+        run: htmlproofer ./_site --disable-external --allow-hash-href --ignore-urls "/mailto:/" --swap-urls "^/LDI-Research-Aide/:/"
