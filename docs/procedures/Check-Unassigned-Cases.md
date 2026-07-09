@@ -11,12 +11,12 @@ parent: Procedures
 1. Go the unassigned filter in Jira (*Dashboards* > *Admin Dashboard* > *AEA tasks by Assignee* section > scroll down to "*Unassigned*").
 2. In the most recent cases, fill out the following info from the DCAF attached:
     - `DCAF_Access_Restrictions`
-        - if "Yes, data can be made available privately", do additional [steps](https://aeadataeditor.github.io/LDI-Research-Aide/procedures/Requesting_Restricted_Access_Data/)
+        - if "Yes, data can be made available privately", do additional [steps](https://aeadataeditor.github.io/LDI-Research-Aide/docs/procedures/Requesting_Restricted_Access_Data.html)
     - `DCAF_README_checked`
     - `openICPSR Project Number` 
     - `Software Used` (from openICPSR deposit)
 
-2. When checking the software in the openICPSR deposit, open the README and make sure it exists. If there is no README in the openICPSR deposit or the deposit is empty, make a [short report](https://aeadataeditor.github.io/LDI-Research-Aide/procedures/Writing-Short-Report/).
+2. When checking the software in the openICPSR deposit, open the README and make sure it exists. If there is no README in the openICPSR deposit or the deposit is empty, make a [short report](https://aeadataeditor.github.io/LDI-Research-Aide/docs/procedures/Writing-Short-Report.html).
 3.  Check if the case is a Revision and mark it as such.
 4. Check that there is a manuscript attached, and add one if not (instructions at the bottom of this page).
 
@@ -31,7 +31,7 @@ For R&R papers ("Invitation to review...")
 
 ## Non-standard unassigned cases
 
-- Jira ticket titled ["Contact form submission"](https://aeadataeditor.github.io/LDI-Research-Aide/procedures/Contact-Form-Submission/)
+- Jira ticket titled ["Contact form submission"](https://aeadataeditor.github.io/LDI-Research-Aide/docs/procedures/Contact-Form-Submission.html)
 
 ## Check if case is a revision:
 
@@ -53,7 +53,7 @@ Check if the older Jira ticket had restricted access data (i.e. `Working locatio
     - If yes, check that we haven't already asked for the Restricted Access Data.
         - If yes, link the existing subtask to the most recent revision.
         - If no, continue to next step.
-- If not a revision, continue steps listed in [Requesting Restricted Access](https://aeadataeditor.github.io/LDI-Research-Aide/procedures/Requesting_Restricted_Access_Data/)
+- If not a revision, continue steps listed in [Requesting Restricted Access](https://aeadataeditor.github.io/LDI-Research-Aide/docs/procedures/Requesting_Restricted_Access_Data.html)
 
 
 ## If no manuscript in Jira ticket
