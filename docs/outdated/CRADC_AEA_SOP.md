@@ -15,7 +15,7 @@ parent: Probably outdated pages
 - Students must be part of the relevant DUA with the data provider to be given access to the project on CRADC. The level of access to the data then depends on the agreement between Cornell and the data provider. In the case of Kilts Nielsen, only Lars can access the original copies of the data on CRADC. RA's can access the Project directory and copies of the data.
 
 - CRADC grants access to individual projects. If granted access, your username and password will be specific to that particular project. 
-- Logging in is very similar to CISER, see instructions [here](https://ciser.cornell.edu/computing/computing-help/how-to-login/). 
+- Logging in is very similar to CISER (**dead link as of 2026-07-08**, page no longer exists: `https://ciser.cornell.edu/computing/computing-help/how-to-login/` — needs a current replacement or removal). 
 
 ### Replication Materials
 
@@ -25,7 +25,7 @@ Normally, replication materials can be git cloned onto whichever workspace you a
     1. Git clone the project as usual to CISER (not CRADC).
     2. Download any data not included in the ICPSR deposit.
     3. Zip up the entire "aearep-xxxx" directory.
-    4. Request transfer to the above directory using the CRADC system ([Instructions](https://cisermgmt.cornell.edu/go/PHPs/SecureDataServicesFileTransfer.php)). If the file is larger than 5GB, contact CISER Secure Data Services at cradc@cornell.edu for assistance.
+    4. Request transfer to the above directory using the CRADC system (**dead link as of 2026-07-08**, domain no longer resolves: `https://cisermgmt.cornell.edu/go/PHPs/SecureDataServicesFileTransfer.php` — needs a current replacement or removal). If the file is larger than 5GB, contact CISER Secure Data Services at cradc@cornell.edu for assistance.
 
 ### Verification
 
