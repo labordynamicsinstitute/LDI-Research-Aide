@@ -36,13 +36,13 @@ For cases where the author(s) have indicated on the DCAF that they can make rest
 ### Setup
 
 1. Create a subtask (issue type: `Request confidential data`) in the main Jira task. Title it "Request Restricted Access Data for AEAREP-xxx". This subtask will be `aearep-nnnn`.
-1. Navigate to the following [directory](https://cornell.app.box.com/folder/144685329952) in Box: "Box/LDI Replication Lab/Office of AEA Data Editor/Restricted-Access-Data/"
+1. Navigate to the following directory in Box: "[Box/LDI Replication Lab/Office of AEA Data Editor/Restricted-Access-Data/](https://cornell.app.box.com/folder/144685329952)"
 2. Create a new subfolder corresponding to the main Jira issue (`aearep-xxx`). 
-3. Paste the Box URL into the field `Restricted data info` -> `Restricted data Box folder` of the main Jira task `aearep-xxx`. Alternatively, paste simply the last part of the URL (a long number) into the field `Restricted data info` -> `Restricted data Box ID` of the main Jira task `aearep-xxx`, which will auto-fill the Box URL.
+3. Paste the last part of the URL (a long number) into the field `Restricted data info` -> `Restricted data Box Folder ID` of the main Jira task `aearep-xxx`, which will auto-fill the Box URL.
 
 ### Sending the request
 
-1. Create a [file request](https://support.box.com/hc/en-us/articles/360045304813-Using-File-Request-to-get-Content-from-Anyone) within the newly created subfolder (only one file request is permitted per folder).  
+1. Click on the `File Request` button in the newly created subfolder `aearep-nnnn` on Box (for help, see [on Box](https://support.box.com/hc/en-us/articles/360045304813-Using-File-Request-to-get-Content-from-Anyone)).
 2. Copy the file request link.
 3. Email the authors to request that they upload the restricted-access data files to Box using the [relevant template]({{ '/docs/emails/Request-Restricted-Access-Data.html' | relative_url }}).
 4. Move the Jira sub-task `aearep-nnnn` to `Request sent`
