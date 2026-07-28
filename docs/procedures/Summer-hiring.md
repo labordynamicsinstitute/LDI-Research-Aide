@@ -13,7 +13,16 @@ Most summer hires are not hired, but rather paid as contractors via the AEA. We 
 
 {: .highlight}
 
+
+## Getting Interns paid
+
+The interns need to fill out a [W-9 form](https://www.irs.gov/pub/irs-pdf/fw9.pdf) ([W8-BEN](https://www.irs.gov/pub/irs-pdf/fw8ben.pdf) if not US citizen or resident alien) and submit it to the AEA:
+
+https://aeapubs.sharefile.com/r-r2382bbad1aa8436d8212d0f1783fbf93
+
+
 Hours are reported as per [these instructions](../procedures/Regular_Tasks.html#aea-summer-hires-google-sheets).
+
 
 ## Onboarding
 

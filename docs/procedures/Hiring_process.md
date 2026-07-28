@@ -24,7 +24,7 @@ Note that these are mostly just the email templates. If further instructions exi
 
 - Add-on form for Workday: [https://forms.gle/QoZdqeLab4dwB25Q7](https://forms.gle/QoZdqeLab4dwB25Q7), which is linked to [MASTER Replication Project Resumes](https://docs.google.com/spreadsheets/d/1Ic4UgBR3gNFvgyFigJ5SAnx0rZwlp9vu_9OV39YoXQQ/edit?gid=991404332#gid=991404332).
 - Planning forms to be sent to returning RAs: [https://drive.google.com/drive/u/1/folders/1uhZHu0MOJIth-4oDc44XkUdHS7ncMqpj](https://drive.google.com/drive/u/1/folders/1uhZHu0MOJIth-4oDc44XkUdHS7ncMqpj), which are linked to 
-- For both forms, see the explanation on how to unlink and rejuvenat the forms at [Rejuvenate Hiring Application Form](/LDI-Research-Aide/docs/procedures/Rejuvenate_Hiring_Application_Form.html).
+- For both forms, see the explanation on how to unlink and rejuvenate the forms at [Rejuvenate Hiring Application Form](/LDI-Research-Aide/docs/procedures/Rejuvenate_Hiring_Application_Form.html).
 
 ## Timelines:
 
