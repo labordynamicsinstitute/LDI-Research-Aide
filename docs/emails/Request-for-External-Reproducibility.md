@@ -63,9 +63,11 @@ parent: Email templates
 > 
 > Code and (public) data: https://www.openicpsr.org/openicpsr/workspace?goToPath=/openicpsr/123456
 > 
-> While you conduct the reproducibility checks, we ask that you not communicate with the authors on this topic. Please let us know if you believe you have any conflicts of interest in this matter which would prevent you from conducting an objective check on the reproducibility of the archive. Please also confirm to us that you  [have read and will follow our policies](https://cornell.ca1.qualtrics.com/jfe/form/SV_afKXXGaWArqhuyG).
+> While you conduct the reproducibility checks, we ask that you not communicate with the authors on this topic, other than to obtain access to the data. You must copy us on any required communication with the authors.
+>
+> Please let us know if you believe you have any conflicts of interest in this matter which would prevent you from conducting an objective check on the reproducibility of the archive. Please also confirm to us that you  [have read and will follow our policies](https://cornell.ca1.qualtrics.com/jfe/form/SV_afKXXGaWArqhuyG).
 > 
-> Your task is to follow all instructions on how to obtain and extract the data, run the data cleaning/preparation as well as the analysis code. We have already conducted a first assessment, based on our access to the deposit and code, but not data. Attached is a spreadsheet, mapping programs to figures and tables. You should use this to keep track of what works, and what does not work. You should then prepare your report using our [template](https://github.com/AEADataEditor/replication-template/blob/master/EXTERNAL-REPORT.md) ([same in Word format](https://github.com/AEADataEditor/replication-template/blob/master/EXTERNAL-REPORT.docx)).
+> Your task is to follow all written instructions (in the deposit) on how to obtain and extract the data, run the data cleaning/preparation as well as the analysis code. We have already conducted a first assessment, based on our access to the deposit and code, but not data. Attached is a spreadsheet, mapping programs to figures and tables. You should use this to keep track of what works, and what does not work. You should then prepare your report using our [template](https://github.com/AEADataEditor/replication-template/blob/master/EXTERNAL-REPORT.md) ([same in Word format](https://github.com/AEADataEditor/replication-template/blob/master/EXTERNAL-REPORT.docx)).
 > 
 > Additionally, we find it is useful to include our [template-config.do](https://github.com/AEADataEditor/replication-template/blob/master/template-config.do) in Stata code. The file itself has instructions on how it should be utilized. In sum:
 > 
