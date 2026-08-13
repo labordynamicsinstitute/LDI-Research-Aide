@@ -132,7 +132,12 @@ Again, thank you for your interest, and please stay in contact.
 ```
 
 
-2. Send out **selection notification** to selected applicants, again in **BCC**
+2. Send out **selection notification** to selected applicants. First, **prepare the response form**, then email, again in **BCC**
+
+**Response form**
+
+- Archive old form **Planning for LDI Training (Responses)** sheet in [this directory](https://drive.google.com/drive/u/1/folders/1L2aCS_ThWyw1Y3jfn0vV-EHKthv2tweK) (unlink, copy and rename, move renamed version to `Archives`)
+- Relink the response form to a spreadsheet. By default, it will be in the same folder as the **Planning for LDI Training** form. Ensure that responses are enabled, and get the share URL.
 
 Subject: 
 
@@ -151,7 +156,9 @@ We have reviewed your application, and have identified you as a qualified candid
 
 We must note that this is not a confirmation of employment. During the training, HR will be checking your eligibility for employment, which includes being a current Cornell student and residing in the United States; an [I-9](https://www.uscis.gov/i-9-central/form-i-9-acceptable-documents) may be needed.
 
-**Please let us know if you are still interested in the position by (deadline).**
+**You must let us know if you are still interested in the position by (deadline) to keep your spot.**
+
+Respond using this Google Form: [FORM URL]
 
 Thank you,
 ```
