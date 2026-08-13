@@ -75,48 +75,40 @@ Once you've determined who you wish to hire, email ILR Student Employment the na
 
 - If the person you emailed no longer works for that department, google their former title and find the new person in that position
 
-Email template to staff:
+Email template to staff, with subject
 
-> Subject: LDI is Hiring Undergraduates for [Semester] 2024
+> LDI is Hiring Undergraduates for [Semester] 2024
 
+{: .highlight }
+> Hello,
+>
+> We are looking to spread the word about our hiring of RAs this coming [semester]. Could you please share this with your students? Thank you so much
+> 
+> The Labor Dynamics Institute is looking for 10 RAs to hire for [semester] 2024
+>
+> To learn more: https://www.ilr.cornell.edu/labor-dynamics-institute/ldi-news/join-ldis-replication-lab
+>
+> To apply:
+> 
+> Apply via Workday: Job Requisition ID WDR-0000000
+> 
+> And fill out the required google form: https://forms.gle/fP24wBvJ8VLdgkZX6
 
-​<blockquote>​
-Hello,
+Email template to student listserv, with subject
 
-We are looking to spread the word about our hiring of RAs this coming [semester]. Could you please share this with your students? Thank you so much
-
-The Labor Dynamics Institute is looking for 10 RAs to hire for [semester] 2024
-
-To learn more: https://www.ilr.cornell.edu/labor-dynamics-institute/ldi-news/join-ldis-replication-lab
-
-
-To apply:
-
-Apply via Workday: Job Requisition ID WDR-0000000
-
-And fill out the required google form: https://forms.gle/fP24wBvJ8VLdgkZX6
-
-</blockquote>
-
-Email template to student listserv:
-
-> Subject: LDI is Hiring Undergraduates for [Semester] 2024
+> LDI is Hiring Undergraduates for [Semester] 2024
 
 
-​<blockquote>​
-
-The Labor Dynamics Institute is looking for 10 RAs to hire for [semester] 2024
-
-To learn more: https://www.ilr.cornell.edu/labor-dynamics-institute/ldi-news/join-ldis-replication-lab
-
-
-To apply:
-
-Apply via Workday: Job Requisition ID WDR-0000000
-
-And fill out the required google form: https://forms.gle/fP24wBvJ8VLdgkZX6
-
-</blockquote>
+​{: .highlight }
+> The Labor Dynamics Institute is looking for 10 RAs to hire for [semester] 2024
+> 
+> To learn more: https://www.ilr.cornell.edu/labor-dynamics-institute/ldi-news/join-ldis-replication-lab
+> 
+> To apply:
+>
+> Apply via Workday: Job Requisition ID WDR-0000000
+> 
+> And fill out the required google form: https://forms.gle/fP24wBvJ8VLdgkZX6
 
 
 ### Review
@@ -140,7 +132,11 @@ Again, thank you for your interest, and please stay in contact.
 
 2. Send out hire notification to selected applicants:
 
-`Subject: [RESPONSE REQUIRED] You've Been Selected for LDI's Replication Project`
+Subject: 
+
+```
+[RESPONSE REQUIRED] You've Been Selected for LDI's Replication Project
+```
 
 ```
 All,
