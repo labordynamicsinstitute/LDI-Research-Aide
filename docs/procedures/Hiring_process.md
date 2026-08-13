@@ -115,7 +115,9 @@ Email template to student listserv, with subject
 
 Lars, the Research Aide, and Graduate Assistant then review applicants and then meet to discuss final decisions. Once final decisions are made, the following steps are taken to prepare for training the new cohort of Undergraduate Research Assistants.
 
-1. Send out rejection email. bcc all candidates who were not selected with the following (make sure to update the next upcoming application cycle):
+### Notifications
+
+1. Send out **rejection email**. bcc all candidates who were not selected with the following (make sure to update the next upcoming application cycle):
 
 ```
 Dear Applicant,
@@ -130,7 +132,7 @@ Again, thank you for your interest, and please stay in contact.
 ```
 
 
-2. Send out hire notification to selected applicants:
+2. Send out **selection notification** to selected applicants, again in **BCC**
 
 Subject: 
 
