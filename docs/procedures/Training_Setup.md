@@ -22,8 +22,8 @@ parent: Procedures
 
 ### Add students to various lists
 
-- Track which students accept the training invitation in the "Replication Project Resumes" spreadsheet.
-- Once training schedule is set and new RA's have accepted the invitation to the Lab, send out invites (LDI Zoom links) to Day 1 of the training and the following peer review sessions. Also send out this [Google Form](https://docs.google.com/forms/d/1H-L9MommkysuIGc9HO2hZweWB7q1cjixg4oCSBYjIxo/edit) which asks training participants for their dietary restrictions. 
+- Track which students accept the training invitation in **Planning for LDI Training (Responses)** sheet in [this directory](https://drive.google.com/drive/u/1/folders/1L2aCS_ThWyw1Y3jfn0vV-EHKthv2tweK). Transfer information to the relevant sheet in the "[MASTER Replication Project Resumes](https://docs.google.com/spreadsheets/d/1Ic4UgBR3gNFvgyFigJ5SAnx0rZwlp9vu_9OV39YoXQQ/edit?gid=1101204690#gid=1101204690)" spreadsheet (Column: `Confirmed Presence`)
+- Once training schedule is set and new RA's have accepted the invitation to the Lab, send out invites to Day 1 of the training and the following peer review sessions (Zoom links). Also send out this [Google Form](https://docs.google.com/forms/d/1H-L9MommkysuIGc9HO2hZweWB7q1cjixg4oCSBYjIxo/edit) which asks training participants for their dietary restrictions. 
 - Add students to [listserv](https://www.list.cornell.edu).
 - Go to "[/Box/LDI Replication Lab/Office of AEA Data Editor/Student Employment/Current_Hire-Exit_Checklists](https://cornell.app.box.com/folder/136503467872)" and create a new exit checklist file for each student. This way we can track what has been done when exiting a student in the future.
 
