@@ -66,10 +66,10 @@ Students needed to be added to our computer systems.
 ### Setup training cases
 
 4. Bulk import test cases to Jira:
-  - First, modify the existing [CSV file](https://github.com/AEADataEditor/LDI-Research-Aide/tree/main/Training) with the new "email" and "duedate" fields.
+  - First, modify the existing [CSV file](https://github.com/labordynamicsinstitute/LDI-Research-Aide/tree/main/Training) with the new "email" and "duedate" fields.
   - Remember to create one for Lars for the first Stata case, and one for each of the experienced RAs who are conducting the peer review sessions.
   - On the "[Search page](https://aeadataeditors.atlassian.net/issues/?jql=order%20by%20created%20DESC)", go to the  "..." menu, then select "Import issues". **Be sure to import into the "Training 2024" (TRAIN) project!**
-  - Choose the corresponding CSV file and check the "Use an existing configuration file" box to use the [mapping file](https://github.com/AEADataEditor/LDI-Research-Aide/blob/main/Training/jira-import-mapping.txt)
+  - Choose the corresponding CSV file and check the "Use an existing configuration file" box to use the [mapping file](https://github.com/labordynamicsinstitute/LDI-Research-Aide/blob/main/Training/jira-import-mapping.txt)
   - Verify the settings.
 
 ![Settings]({{ '/Training/Settings.png' | relative_url }})
@@ -91,7 +91,7 @@ Students needed to be added to our computer systems.
   - Remove previous trainees' access.
   - Add new trainees' access.
   - Trick: use Excel to concatenate the email addresses with `, ` (`=concatenate(A1,", ")`), then copy-paste the new column into the `Share` field with download permissions.
-8. Create "Placeholder" tickets for each RA in Jira. The best way to do this is through the same bulk process as creating the training cases (a placeholder csv file can be found [here](https://github.com/AEADataEditor/LDI-Research-Aide/tree/main/Training)), except:
+8. Create "Placeholder" tickets for each RA in Jira. The best way to do this is through the same bulk process as creating the training cases (a placeholder csv file can be found [here](https://github.com/labordynamicsinstitute/LDI-Research-Aide/tree/main/Training)), except:
   - Change the "Import to Project" field from "AEA Training" to "AEA Replication - Default". 
   - Then individually convert each issue to a subtask for the Master Placeholder `aearep-1407` (unsure if there is a way to bulk convert to subtask).
 

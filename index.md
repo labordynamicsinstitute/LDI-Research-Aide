@@ -22,7 +22,7 @@ A written breakdown of the process for assigning cases.
 
 Instructions for cases where the author(s) have indicated on the DCAF that they can make restricted-access data available to the Data Editor privately.
 
-### [Hiring and Training Setup](https://aeadataeditor.github.io/LDI-Research-Aide/docs/procedures/Hiring_process.html)
+### [Hiring and Training Setup](/LDI-Research-Aide/docs/procedures/Hiring_process.html)
 
 Detailed instructions on everything related to the hiring and training of RAs. Additionally, the "Training" folder includes the template csv files and mapping file for bulk importing training cases.
 
