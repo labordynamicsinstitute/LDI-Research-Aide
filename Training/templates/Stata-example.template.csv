@@ -1,2 +1,2 @@
-email,subject,duedate,openICPSR Project Number,Replication package URL,openICPSR alternate URL
-{email},Stata training example,8/30/2024,251725,https://www.openicpsr.org/openicpsr/workspace?goToPath=/openicpsr/251725&goToLevel=project,https://www.openicpsr.org/openicpsr/workspace?goToPath=/openicpsr/251725&goToLevel=project
+email,subject,duedate,openICPSR Project Number,Replication package URL,openICPSR alternate URL,Manuscript Central identifier,Journal,Description
+{email},Stata training example,8/30/2024,251725,https://www.openicpsr.org/openicpsr/workspace?goToPath=/openicpsr/251725&goToLevel=project,https://www.openicpsr.org/openicpsr/workspace?goToPath=/openicpsr/251725&goToLevel=project,AER-0000-0000,AER,https://labordynamicsinstitute.github.io/replicability-training-solutions/imperfect-example/imperfect_example_pdf.pdf
