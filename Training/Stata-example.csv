@@ -1,17 +1,16 @@
-email ,subject,duedate,openICPSR,openICPSRURL
-ama379@cornell.edu,Stata training example,8/30/2024,118568,https://www.openicpsr.org/openicpsr/workspace?goToPath=/openicpsr/118568&goToLevel=project
-sb2286@cornell.edu,Stata training example,8/30/2024,118568,https://www.openicpsr.org/openicpsr/workspace?goToPath=/openicpsr/118568&goToLevel=project
-lh738@cornell.edu,Stata training example,8/30/2024,118568,https://www.openicpsr.org/openicpsr/workspace?goToPath=/openicpsr/118568&goToLevel=project
-jc3556@cornell.edu,Stata training example,8/30/2024,118568,https://www.openicpsr.org/openicpsr/workspace?goToPath=/openicpsr/118568&goToLevel=project
-msp256@cornell.edu,Stata training example,8/30/2024,118568,https://www.openicpsr.org/openicpsr/workspace?goToPath=/openicpsr/118568&goToLevel=project
-sv533@cornell.edu,Stata training example,8/30/2024,118568,https://www.openicpsr.org/openicpsr/workspace?goToPath=/openicpsr/118568&goToLevel=project
-jh2449@cornell.edu,Stata training example,8/30/2024,118568,https://www.openicpsr.org/openicpsr/workspace?goToPath=/openicpsr/118568&goToLevel=project
-nd356@cornell.edu,Stata training example,8/30/2024,118568,https://www.openicpsr.org/openicpsr/workspace?goToPath=/openicpsr/118568&goToLevel=project
-krw98@cornell.edu,Stata training example,8/30/2024,118568,https://www.openicpsr.org/openicpsr/workspace?goToPath=/openicpsr/118568&goToLevel=project
-nde27@cornell.edu,Stata training example,8/30/2024,118568,https://www.openicpsr.org/openicpsr/workspace?goToPath=/openicpsr/118568&goToLevel=project
-asc337@cornell.edu,Stata training example,8/30/2024,118568,https://www.openicpsr.org/openicpsr/workspace?goToPath=/openicpsr/118568&goToLevel=project
-hes225@cornell.edu,Stata training example,8/30/2024,118568,https://www.openicpsr.org/openicpsr/workspace?goToPath=/openicpsr/118568&goToLevel=project
-ht492@cornell.edu,Stata training example,8/30/2024,118568,https://www.openicpsr.org/openicpsr/workspace?goToPath=/openicpsr/118568&goToLevel=project
-es2242@cornell.edu,Stata training example,8/30/2024,118568,https://www.openicpsr.org/openicpsr/workspace?goToPath=/openicpsr/118568&goToLevel=project
-lars.vilhuber@cornell.edu,Stata training example,8/30/2024,118568,https://www.openicpsr.org/openicpsr/workspace?goToPath=/openicpsr/118568&goToLevel=project
-ik273@cornell.edu,Stata training example,8/30/2024,118568,https://www.openicpsr.org/openicpsr/workspace?goToPath=/openicpsr/118568&goToLevel=project
+email,subject,duedate,openICPSR Project Number,Replication package URL,openICPSR alternate URL
+aw896@cornell.edu,Stata training example,8/30/2024,251725,https://www.openicpsr.org/openicpsr/workspace?goToPath=/openicpsr/251725&goToLevel=project,https://www.openicpsr.org/openicpsr/workspace?goToPath=/openicpsr/251725&goToLevel=project
+apw67@cornell.edu,Stata training example,8/30/2024,251725,https://www.openicpsr.org/openicpsr/workspace?goToPath=/openicpsr/251725&goToLevel=project,https://www.openicpsr.org/openicpsr/workspace?goToPath=/openicpsr/251725&goToLevel=project
+kc2326@cornell.edu,Stata training example,8/30/2024,251725,https://www.openicpsr.org/openicpsr/workspace?goToPath=/openicpsr/251725&goToLevel=project,https://www.openicpsr.org/openicpsr/workspace?goToPath=/openicpsr/251725&goToLevel=project
+yc2953@cornell.edu,Stata training example,8/30/2024,251725,https://www.openicpsr.org/openicpsr/workspace?goToPath=/openicpsr/251725&goToLevel=project,https://www.openicpsr.org/openicpsr/workspace?goToPath=/openicpsr/251725&goToLevel=project
+mes482@cornell.edu,Stata training example,8/30/2024,251725,https://www.openicpsr.org/openicpsr/workspace?goToPath=/openicpsr/251725&goToLevel=project,https://www.openicpsr.org/openicpsr/workspace?goToPath=/openicpsr/251725&goToLevel=project
+ckc93@cornell.edu,Stata training example,8/30/2024,251725,https://www.openicpsr.org/openicpsr/workspace?goToPath=/openicpsr/251725&goToLevel=project,https://www.openicpsr.org/openicpsr/workspace?goToPath=/openicpsr/251725&goToLevel=project
+am3477@cornell.edu,Stata training example,8/30/2024,251725,https://www.openicpsr.org/openicpsr/workspace?goToPath=/openicpsr/251725&goToLevel=project,https://www.openicpsr.org/openicpsr/workspace?goToPath=/openicpsr/251725&goToLevel=project
+nv277@cornell.edu,Stata training example,8/30/2024,251725,https://www.openicpsr.org/openicpsr/workspace?goToPath=/openicpsr/251725&goToLevel=project,https://www.openicpsr.org/openicpsr/workspace?goToPath=/openicpsr/251725&goToLevel=project
+jh2969@cornell.edu,Stata training example,8/30/2024,251725,https://www.openicpsr.org/openicpsr/workspace?goToPath=/openicpsr/251725&goToLevel=project,https://www.openicpsr.org/openicpsr/workspace?goToPath=/openicpsr/251725&goToLevel=project
+maa384@cornell.edu,Stata training example,8/30/2024,251725,https://www.openicpsr.org/openicpsr/workspace?goToPath=/openicpsr/251725&goToLevel=project,https://www.openicpsr.org/openicpsr/workspace?goToPath=/openicpsr/251725&goToLevel=project
+aaa399@cornell.edu,Stata training example,8/30/2024,251725,https://www.openicpsr.org/openicpsr/workspace?goToPath=/openicpsr/251725&goToLevel=project,https://www.openicpsr.org/openicpsr/workspace?goToPath=/openicpsr/251725&goToLevel=project
+zm286@cornell.edu,Stata training example,8/30/2024,251725,https://www.openicpsr.org/openicpsr/workspace?goToPath=/openicpsr/251725&goToLevel=project,https://www.openicpsr.org/openicpsr/workspace?goToPath=/openicpsr/251725&goToLevel=project
+ggb46@cornell.edu,Stata training example,8/30/2024,251725,https://www.openicpsr.org/openicpsr/workspace?goToPath=/openicpsr/251725&goToLevel=project,https://www.openicpsr.org/openicpsr/workspace?goToPath=/openicpsr/251725&goToLevel=project
+dh725@cornell.edu,Stata training example,8/30/2024,251725,https://www.openicpsr.org/openicpsr/workspace?goToPath=/openicpsr/251725&goToLevel=project,https://www.openicpsr.org/openicpsr/workspace?goToPath=/openicpsr/251725&goToLevel=project
+sg2679@cornell.edu,Stata training example,8/30/2024,251725,https://www.openicpsr.org/openicpsr/workspace?goToPath=/openicpsr/251725&goToLevel=project,https://www.openicpsr.org/openicpsr/workspace?goToPath=/openicpsr/251725&goToLevel=project
