@@ -14,7 +14,15 @@ new research aides work through. Two scripts manage them.
 
 `Training/emails.csv` is the list of current aides; each `Training/*-example.csv` is
 generated from the matching file in `Training/templates/` by substituting every email
-in turn. Edit the template (or `emails.csv`), then run:
+in turn.
+
+**Just edit `Training/emails.csv` or a file in `Training/templates/` and push.** The
+[Generate Training CSVs](.github/workflows/generate-training-csvs.yml) workflow
+regenerates the three CSVs and commits them back to the branch, so you do not need to
+run the generator yourself. On a pull request it cannot push, so it fails instead to
+tell you the committed CSVs are stale.
+
+To preview the result locally:
 
 ```bash
 python3 scripts/generate_training_csvs.py

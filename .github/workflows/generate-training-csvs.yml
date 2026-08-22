@@ -6,11 +6,17 @@ on:
       - Training/emails.csv
       - Training/templates/*.template.csv
       - scripts/generate_training_csvs.py
+      - .github/workflows/generate-training-csvs.yml
   pull_request:
     paths:
       - Training/emails.csv
       - Training/templates/*.template.csv
       - scripts/generate_training_csvs.py
+      - .github/workflows/generate-training-csvs.yml
+  workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   generate:
@@ -27,5 +33,23 @@ jobs:
       - name: Run CSV generator
         run: python scripts/generate_training_csvs.py
 
+      # On a pull request the branch may live in a fork we cannot push to, so
+      # there we only report that the committed CSVs are stale.
       - name: Verify generated files are up to date
-        run: git diff --exit-code -- Training/Confidential-example.csv Training/Matlab-example.csv Training/Stata-example.csv
+        if: github.event_name == 'pull_request'
+        run: git diff --exit-code -- 'Training/*-example.csv'
+
+      - name: Commit regenerated CSVs
+        if: github.event_name == 'push'
+        run: |
+          if git diff --quiet -- 'Training/*-example.csv'; then
+            echo "Generated CSVs are already up to date; nothing to commit."
+            exit 0
+          fi
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add -- 'Training/*-example.csv'
+          git commit -m 'Regenerate training CSVs from emails.csv and templates'
+          git push
+          echo "### Regenerated training CSVs" >> "$GITHUB_STEP_SUMMARY"
+          git show --stat --oneline HEAD >> "$GITHUB_STEP_SUMMARY"
