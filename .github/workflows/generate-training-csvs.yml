@@ -1,7 +1,11 @@
 name: Generate Training CSVs
 
 on:
+  # Only on main: this event regenerates and commits the CSVs back. Leaving it
+  # unscoped also fired it on same-repo PR branches, duplicating the
+  # pull_request run below and pushing to the branch under review.
   push:
+    branches: [main]
     paths:
       - Training/emails.csv
       - Training/templates/*.template.csv
