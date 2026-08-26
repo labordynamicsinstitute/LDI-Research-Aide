@@ -28,10 +28,13 @@ There is actually a filter for tracking these, which should show up in the "Assi
 Prior to sending out the request for an external reproducibility check there are several steps that should be completed internally.
 
 
-1. Rename the Part B subtask to *"Request for external reproducibility (Requestee)"* so if we're requesting from CASCAD it'd be *"Request for external reproducibility (CASCAD)"* .
+1. Create a subtask:
+   -  If there is a Part B subtask already: Rename the Part B subtask to *"Request for external reproducibility (Requestee)"* so if we're requesting from CASCAD it'd be *"Request for external reproducibility (CASCAD)"* and change its type to *Request external report*.
+   -  If there is no Part B subtask, create a subtask of type *Request external report* with the names above.
 1. Assign Part A to an RA or yourself.
 3. Flag the subtask with the Jira tick box `External validation` = Yes
 4. Also flag the subtask with the Jira field `External party name`. For institutional replicators, re-use as much as possible. For individuals, anonymize (the name of the third-party replicator should NOT be disclosed).
+5. Share the openICPSR deposit, as you would for internal replicators, with the designated external replicator (you may need to request their email that they use on openICPSR).
 
 ## Sending out the Request
 
