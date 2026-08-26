@@ -7,9 +7,11 @@ jobs:
   # Build job
   build:
     runs-on: ubuntu-latest
+    env:
+      BASEURL: /${{ github.event.repository.name }}
     steps:
       - name: Checkout
-        uses: actions/checkout@v4
+        uses: actions/checkout@v7
       - name: Setup Ruby
         uses: ruby/setup-ruby@v1
         with:
@@ -17,11 +19,13 @@ jobs:
           bundler-cache: true # runs 'bundle install' and caches installed gems automatically
           cache-version: 0 # Increment this number if you need to re-download cached gems
       - name: Build with Jekyll
-        run: bundle exec jekyll build --baseurl "/LDI-Research-Aide"
+        # GitHub Pages serves this project site under /<repo-name>, so the
+        # CI build must use the same baseurl for the link check to be valid.
+        run: bundle exec jekyll build --baseurl "$BASEURL"
       - name: Install html-proofer
         run: gem install html-proofer --no-document
       - name: Check internal links
-        run: htmlproofer ./_site --disable-external --allow-hash-href --ignore-urls "/mailto:/" --swap-urls "^/LDI-Research-Aide/:/"
+        run: htmlproofer ./_site --disable-external --allow-hash-href --ignore-urls "/mailto:/" --swap-urls "^$BASEURL/:/"
 
   # Deploy a live per-PR preview to Cloudflare Pages, for pull requests
   # opened from a branch of this repository (not a fork -- forks can't
@@ -36,7 +40,7 @@ jobs:
       pull-requests: write     # only for the PR comment
     steps:
       - name: Checkout
-        uses: actions/checkout@v4
+        uses: actions/checkout@v7
       - name: Setup Ruby
         uses: ruby/setup-ruby@v1
         with:
