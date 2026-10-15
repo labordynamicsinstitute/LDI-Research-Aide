@@ -11,12 +11,14 @@ This is just the email template. For further instructions, refer to [Requesting 
 
 ---
 
+Send an email to authors, cc to `dataeditor-queue@aeapubs.org` and  `dataeditor@aeapubs.org`.
+
 Subject Line:
 ```
 Request for Restricted Access Not-for-publication Data - <subtask AEAREP>
 ```
 
-Send it to authors, cc to `dataeditor-queue@aeapubs.org` and  `dataeditor@aeapubs.org`.
+Body:
 
 {: .highlight }
 > Dear Dr. *Author*,
