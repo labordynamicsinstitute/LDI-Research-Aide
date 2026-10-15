@@ -10,6 +10,7 @@ parent: Email templates
 This is just the email template. For further instructions, refer to [Requesting Restricted-Access Data from Authors](../procedures/Requesting_Restricted_Access_Data.html)
 
 ---
+<!-- start template -->
 
 Send an email to authors, cc to `dataeditor-queue@aeapubs.org` and  `dataeditor@aeapubs.org`.
 
@@ -47,6 +48,9 @@ Body:
 > If you have any questions please do not hesitate to ask.
 >
 > Thank you!
+
+<!-- end template -->
+---
 
 ### After completion of all rounds of reproducibility checks
 
