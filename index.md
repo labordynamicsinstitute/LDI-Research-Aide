@@ -4,7 +4,7 @@ layout: home
 nav_order: 1
 ---
 
-
+> For many tasks, there are an increasing number of command line scripts. Consult <https://aeadataeditor.github.io/editor-scripts/> regularly.
 
 ### [Everyday Responsibilities](/LDI-Research-Aide/docs/procedures/Regular_Tasks.html)
 

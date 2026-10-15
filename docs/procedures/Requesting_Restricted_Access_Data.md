@@ -21,17 +21,20 @@ parent: Procedures
 
 Cases arise in which authors agree to provide data directly to the Data Editor after both parties sign a Non-Disclosure Agreement (NDA). In these cases, the author provides us with the data and the Data Editor places the files in the LDI Lab's folder on the shared L: drive in a specific folder. 
 
-The policy of the LDI lab is that these replications are done strictly on the L: (`L:\Restricted-Access-Data`) drive. This ensures that none of the data provided under the NDA are moved and the Data Editor can keep track of and subsequently delete the data as per the agreement. 
+The policy of the LDI lab is that these replications are done strictly on the Z: (`Z:\Restricted-Access-Data`) drive. This ensures that none of the data provided under the NDA are moved and the Data Editor can keep track of and subsequently delete the data as per the agreement.
 
 
-{: .highlight}
-> This process is best done by cloning repository directly to the L: drive (`L:\Restricted-Access-Data\aearep-xxxx\`) folder and then copying the resitricted data into the repository (following any instructions in the README on where the data should be located). Be diligent in ensuring that no restricted access datasets slip through the git ignore into the bitbucket repository.
+{: .important}
+> This process is best done by cloning repository directly to the Z: drive (`Z:\Restricted-Access-Data\aearep-xxxx\`) folder and then copying the restricted data into the repository (following any instructions in the README on where the data should be located). Be diligent in ensuring that no restricted access datasets slip through the `gitignore` into the bitbucket repository.
 
 We may have revisions based on the restricted data which require running additional code. For this reason, the data should be deleted before the issue is moved to "Pending Publication."
 
 ## Requesting Restricted Access Data from Authors
 
-For cases where the author(s) have indicated on the DCAF that they can make restricted-access data available to the Data Editor privately, follow these steps:
+For cases where the author(s) have indicated on the DCAF that they can make restricted-access data available to the Data Editor privately, follow these manual steps.
+
+{: .note}
+> See [`aea-box-create-folder`](https://aeadataeditor.github.io/editor-scripts/python-commands/aea-box-create-folder/) for a CLI version of this.
 
 ### Setup
 
@@ -57,13 +60,13 @@ For cases where the author(s) have indicated on the DCAF that they can make rest
 > Download from the provided link, and upload into Box. Then proceed as usual.
 
 - Run the following Bitbucket pipeline: `7-download-box-manifest`.
-- Download the data in CCSS Cloud at add it to `L:\Restricted-Access-Data` in a folder titled `aearep-xxx`.
+- Download the data in CCSS Cloud at add it to `Z:\Restricted-Access-Data` in a folder titled `aearep-xxx`.
 
 - Go into Jira ticket for `AEAREP-xxx`, under *Restricted Data Info*, edit fields:
     - Agreement signed: `NDA`, `Implicit` (or whatever is relevant!)
-    - Working location of restricted data: `L:\Restricted-Access-Data\aearep-xxx`
+    - Working location of restricted data: `Z:\Restricted-Access-Data\aearep-xxx`
 - Move the `aearep-nnnn` subtask to `Restricted Data Received`.
-- Comment in the Jira ticket *"Restricted access data added: L:\Restricted-Access-Data\aearep-xxx-"* and tag the RA currently assigned to run the code. (might be automated)
+- Comment in the Jira ticket *"Restricted access data added: Z:\Restricted-Access-Data\aearep-xxx-"* and tag the RA currently assigned to run the code. (might be automated)
 
 ### Once case is done
 
@@ -73,6 +76,10 @@ After replication is complete
 - there is no post-publication reproducibility check subtask (this is usually confirmed by the Data Editor)
 
 then
+
+{: .note}
+> See [`aea-box-clean-folders`](https://aeadataeditor.github.io/editor-scripts/python-commands/aea-box-clean-folders/) for a CLI version of this. 
+
 
 - **Delete the data from the L: drive**
 - Confirm that no data is on **BioHPC**
