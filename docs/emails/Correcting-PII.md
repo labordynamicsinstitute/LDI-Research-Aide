@@ -3,8 +3,16 @@ title: Request to remove PII from deposit
 parent: Email templates
 ---
 
+
+## Urgent email, triggered by **credible** report
+
+This usually comes via an email from others, which is forwarded (or **selectively replied**) to the authors. The "accusers" are never cc'ed.
+
+
 (keeping only authors, removing others, bcc to current EIC, cc to ICPSR)
 
+{: .highlight }
+```
 Dear authors,
 
 A user of your replication package has identified what would appear to be PII in your data files:
@@ -15,17 +23,42 @@ Please verify if this is, in fact, the case, and if not appropriate as per your 
 
 If, on the other hand, the publication of these data is compliant with your IRB approval, please notify us by reply-all, and we will re-publish the replication package.
 
-Our revision policy is here:  https://www.aeaweb.org/journals/data/revisions-policy, and we verify compliance.
+Our revision policy is here:  https://www.aeaweb.org/journals/data/revisions-policy, and we verify compliance. See <https://aeadataeditor.github.io/posts/2026-05-05-pii> for additional specific guidance.
 
 As a precaution, **we have unpublished your current deposit**. Unfortunately, that also means that your manuscript is now no longer compliant with the AEA Data and Code Policy.
 
 [NOTE] As a reminder, no data with **sensitive** PII should be published in the main replication package. If you have **sensitive** PII in your dataset, and are allowed to publish it with restrictions, please contact us for the best solution, but do not include it in the main replication package. If the PII is not sensitive (e.g., politicians' names, etc.), please confirm by response email.
 
-We recommend using the J-PAL maintained PII-Scan for R <https://github.com/J-PAL/PII-Scan> or PII-Scan for Stata <https://github.com/J-PAL/stata_PII_scan> to get an idea of potential PII in your dataset.
+We recommend using the J-PAL maintained PII-Scan for R <https://github.com/J-PAL/PII-Scan> or PII-Scan for Stata <https://github.com/J-PAL/stata_PII_scan> to get an idea of potential PII in your dataset. We have also used an experimental LLM-based scanner prepared by the Institute for Replication at <https://github.com/valentadavid/pii-checker>. If you need assistance running the latter in a privacy-preserving way, please let us know. Do not upload PII to (most) online LLMs (Claude, OpenAI, etc.)!
 
 ⚠️ 📢 You remain ultimately responsible for ensuring that no **sensitive** PII is included in the published replication package.
 
 If this is a violation of your IRB protocol, you may need to notify your IRB about this breach. You can mention that the above measures have been undertaken. You can find the number of downloads of your replication package listed on the openICPSR website.
+
+Please let us know if we can help in any way to rectify this issue.
+
+Sincerely,
+```
+
+## Author-initiated PII withdrawal.
+
+If the authors inquire about the withdrawal, this email can be sent. Adapt to the particular situation.\
+
+{: .highlight}
+```
+Dear authors,
+
+you have notified us / ICPSR about suspected PII in your published replication package. Thank you for your diligence.
+
+As you prepare your revision, we ask that you follow our revision policy is here:  https://www.aeaweb.org/journals/data/revisions-policy, and we verify compliance. See <https://aeadataeditor.github.io/posts/2026-05-05-pii> for additional specific guidance.
+
+[NOTE] As a reminder, no data with **sensitive** PII should be published in the main replication package. If you have **sensitive** PII in your dataset, and are allowed to publish it with restrictions, please contact us for the best solution, but do not include it in the main replication package. 
+
+We recommend using the J-PAL maintained PII-Scan for R <https://github.com/J-PAL/PII-Scan> or PII-Scan for Stata <https://github.com/J-PAL/stata_PII_scan> to get an idea of potential PII in your dataset. We have also used an experimental LLM-based scanner prepared by the Institute for Replication at <https://github.com/valentadavid/pii-checker>. If you need assistance running the latter in a privacy-preserving way, please let us know. Do not upload PII to (most) online LLMs (Claude, OpenAI, etc.)!
+
+⚠️ 📢 You remain ultimately responsible for ensuring that no **sensitive** PII is included in the published replication package.
+
+If this is a violation of your IRB protocol, you may need to notify your IRB about this breach. You can mention that the above measures have been undertaken. You can find the number of downloads of your replication package listed on the openICPSR website. ICPSR can assist with contacting any downloaders to ask for deletion of data downloaded, if necessary.
 
 Please let us know if we can help in any way to rectify this issue.
 
