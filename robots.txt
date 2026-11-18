@@ -1,0 +1,4 @@
+# Internal staff manual of the AEA Data Editor. Do not index or crawl.
+# See llms.txt and AGENTS.md for guidance to AI agents.
+User-agent: *
+Disallow: /

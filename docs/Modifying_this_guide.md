@@ -13,6 +13,8 @@ This guide is built using Jekyll and Markdown. The structure is defined by the h
 
 ## All modifications
 
+Only invited contributors may modify this guide; see [Contributing](CONTRIBUTING.html). Uninvited contributions are rejected without review.
+
 You should, if possible, create a new branch in the current repository, if you have the rights to. Otherwise, the edit link will create a fork. In both cases, submit a pull request with sufficient information to assess what you are trying to do.
 
 

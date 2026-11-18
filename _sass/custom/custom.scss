@@ -1,0 +1,21 @@
+// Internal-use banner, injected by _plugins/internal_notice.rb
+.internal-notice {
+  margin: 0 0 1.5rem;
+  padding: 0.75rem 1rem;
+  border-left: 4px solid $red-200;
+  background: rgba($red-000, 0.08);
+  border-radius: 4px;
+  font-size: 0.9rem;
+  line-height: 1.4;
+}
+
+// Notice addressed to LLMs/AI agents: present in the HTML text, but not shown
+// to sighted users and hidden from screen readers (aria-hidden in the markup).
+.llm-notice {
+  position: absolute;
+  left: -10000px;
+  top: auto;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+}
