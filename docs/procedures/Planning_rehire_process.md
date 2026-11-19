@@ -23,23 +23,23 @@ parent: Procedures
 
 - In the Google Form, unlink the spreadsheet:
 
-![Unlinking the spreadsheet](/LDI-Research-Aide/images/google-unlink-sheet.png)
+![Unlinking the spreadsheet]({{ '/images/google-unlink-sheet.png' | relative_url }})
 
 ## Deleting old responses
 
 - Now delete the responses
 
-![Deleting responses](/LDI-Research-Aide/images/google-delete-answers.png)
+![Deleting responses]({{ '/images/google-delete-answers.png' | relative_url }})
 
 ## Re-link the form
 
 - Re-link the form to the "[LDI Replication Lab Planning (Responses)](https://docs.google.com/spreadsheets/d/1OIo-ZjPgaXd1qqmk-urgmyv2W77pYLc62GPFIk-sdXo/edit?gid=845847607#gid=845847607)" Google Sheet
 
-![Re-linking the form](/LDI-Research-Aide/images/google-link-to-sheet-1.png)
+![Re-linking the form]({{ '/images/google-link-to-sheet-1.png' | relative_url }})
 
-![Re-linking the form](/LDI-Research-Aide/images/google-link-to-sheet-2.png)
+![Re-linking the form]({{ '/images/google-link-to-sheet-2.png' | relative_url }})
 
 The sheet should open (verify that you picked the right one!). Then rename the tab to correspond to the others, e.g. `Spring 2025`.
 
-![Re-linking the form](/LDI-Research-Aide/images/google-link-to-sheet-3.png)
+![Re-linking the form]({{ '/images/google-link-to-sheet-3.png' | relative_url }})
 
