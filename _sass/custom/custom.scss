@@ -9,6 +9,17 @@
   line-height: 1.4;
 }
 
+// Sidebar footer (copyright + theme credit, _includes/nav_footer_custom.html):
+// one step smaller than the theme's fs-2 (0.6875rem / 0.75rem from sm up).
+.site-footer.site-footer-compact {
+  font-size: $font-size-1-sm !important;
+  line-height: 1.4;
+
+  @include mq(sm) {
+    font-size: $font-size-2 !important;
+  }
+}
+
 // Notice addressed to LLMs/AI agents: present in the HTML text, but not shown
 // to sighted users and hidden from screen readers (aria-hidden in the markup).
 .llm-notice {
