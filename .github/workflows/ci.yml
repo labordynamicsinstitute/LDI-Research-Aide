@@ -48,9 +48,9 @@ jobs:
           bundler-cache: true
           cache-version: 0
       - name: Build with Jekyll
-        # Built without a baseurl -- Cloudflare Pages serves the preview
-        # from its own domain, not under /LDI-Research-Aide.
-        run: bundle exec jekyll build
+        # Built with an explicitly empty baseurl -- Cloudflare Pages serves
+        # the preview from its own domain root, not under /LDI-Research-Aide.
+        run: bundle exec jekyll build --baseurl ""
         env:
           JEKYLL_ENV: production
 

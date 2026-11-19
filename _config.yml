@@ -4,7 +4,7 @@ theme: just-the-docs
 logo: /images/ldi-logo.jpg
 
 url: https://labordynamicsinstitute.github.io/LDI-Research-Aide/ # the base hostname & protocol for your site, e.g. http://example.com
-baseurl: "/SECRETURL" # the subpath of your site, e.g. /blog
+baseurl: "" # set at build time: --baseurl in pages.yml (GitHub Pages) and ci.yml; empty for the Cloudflare preview
 repository: labordynamicsinstitute/LDI-Research-Aide # for github-metadata
 
 defaults:

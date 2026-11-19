@@ -1,6 +1,35 @@
+This repository is licensed in three parts:
+
+1. Content (CC BY-NC 4.0)
+2. Scripts and code (MIT)
+3. Theme-derived files (MIT, just-the-docs) -- see LICENSE.theme
+
+============================================================================
+1. Content
+============================================================================
+
+Copyright (c) 2022-2026 Lars Vilhuber
+
+All content of this manual (Markdown pages, text, templates, images, and
+training materials, i.e., everything not listed under 2. or in LICENSE.theme)
+is licensed under the Creative Commons Attribution-NonCommercial 4.0
+International License (CC BY-NC 4.0).
+
+  Summary:    https://creativecommons.org/licenses/by-nc/4.0/
+  Legal code: https://creativecommons.org/licenses/by-nc/4.0/legalcode
+
+============================================================================
+2. Scripts and code
+============================================================================
+
+Applies to:
+  - scripts/
+  - _plugins/
+  - .github/workflows/ (except pages.yml, see LICENSE.theme)
+
 MIT License
 
-Copyright (c) 2022 just-the-docs
+Copyright (c) 2022-2026 Lars Vilhuber
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -19,3 +48,9 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+============================================================================
+3. Theme-derived files
+============================================================================
+
+See LICENSE.theme.
